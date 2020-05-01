@@ -1,0 +1,41 @@
+
+TLMN_icon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TLMN
+  rotate: false
+  xy: 222, 50
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 381, 87
+  size: 141, 156
+  orig: 141, 156
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 524, 216
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+tlmn_icon
+  rotate: false
+  xy: 222, 71
+  size: 157, 172
+  orig: 157, 172
+  offset: 0, 0
+  index: -1

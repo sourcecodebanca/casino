@@ -1,0 +1,20 @@
+
+quydinh_icon.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+89baf0e14c1a673868283f52db6afb6f54c01ea12e50-CcKSiz_fw658 copy
+  rotate: false
+  xy: 76, 34
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+book-png-icon-16
+  rotate: true
+  xy: 2, 2
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1

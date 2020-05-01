@@ -1,0 +1,418 @@
+{
+  "ID": "c4f8ac17-2f71-45a4-835b-781e57c2252f",
+  "Version": "2.3.4",
+  "Name": "node_fishing_huongdan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -640.0,
+            "RightMargin": -640.0,
+            "TopMargin": -360.0,
+            "BottomMargin": -360.0,
+            "Tag": 7,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/help/fishBox.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 628.8248,
+                  "Y": 289.585
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4913,
+                  "Y": 0.4022
+                },
+                "PreSize": {
+                  "X": 0.7281,
+                  "Y": 0.7306
+                },
+                "LeftMargin": 162.8248,
+                "RightMargin": 185.1752,
+                "TopMargin": 167.415,
+                "BottomMargin": 26.585,
+                "Tag": 2,
+                "ActionTag": -558455307,
+                "Size": {
+                  "X": 932.0,
+                  "Y": 526.0
+                },
+                "Name": "bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/help/fish_huongdan_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 628.8268,
+                  "Y": 310.3178
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4913,
+                  "Y": 0.431
+                },
+                "PreSize": {
+                  "X": 0.6711,
+                  "Y": 0.5
+                },
+                "LeftMargin": 199.3268,
+                "RightMargin": 221.6732,
+                "TopMargin": 229.6822,
+                "BottomMargin": 130.3178,
+                "Tag": 3,
+                "ActionTag": -601272058,
+                "Size": {
+                  "X": 859.0,
+                  "Y": 360.0
+                },
+                "Name": "sp_huongdan",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "<<",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/gameClear/bt_quit_game_1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/gameClear/bt_quit_game_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/gameClear/bt_quit_game_0.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 136,
+                "Scale9Height": 24,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 495.6709,
+                  "Y": 71.1373
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3872,
+                  "Y": 0.0988
+                },
+                "PreSize": {
+                  "X": 0.1406,
+                  "Y": 0.0639
+                },
+                "LeftMargin": 405.6709,
+                "RightMargin": 694.3291,
+                "TopMargin": 625.8627,
+                "BottomMargin": 48.1373,
+                "Tag": 4,
+                "ActionTag": 1542786679,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 46.0
+                },
+                "Name": "btn_back",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": ">>",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/gameClear/bt_quit_game_1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/gameClear/bt_quit_game_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/gameClear/bt_quit_game_0.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 136,
+                "Scale9Height": 24,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 763.5172,
+                  "Y": 70.1194
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5965,
+                  "Y": 0.0974
+                },
+                "PreSize": {
+                  "X": 0.1406,
+                  "Y": 0.0639
+                },
+                "LeftMargin": 673.5172,
+                "RightMargin": 426.4828,
+                "TopMargin": 626.8806,
+                "BottomMargin": 47.1194,
+                "Tag": 5,
+                "ActionTag": -708298499,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 46.0
+                },
+                "Name": "btn_next",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/history/btn_close.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/history/btn_close.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "textures/fishing/history/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 43,
+                "Scale9Height": 51,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1079.3755,
+                  "Y": 540.4376
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8433,
+                  "Y": 0.7506
+                },
+                "PreSize": {
+                  "X": 0.057,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 1042.8755,
+                "RightMargin": 164.1245,
+                "TopMargin": 143.0624,
+                "BottomMargin": 503.9376,
+                "Tag": 6,
+                "ActionTag": 2106808009,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 73.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -28674236,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_huongdan",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../fonts/arialbd.ttf",
+        "../gameClear/bt_quit_game_0.png",
+        "../gameClear/bt_quit_game_1.png",
+        "../history/btn_close.png",
+        "fish_huongdan_1.png",
+        "fishBox.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

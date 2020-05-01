@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+    <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+        </dict>
+        <key>bodies</key>
+		<dict>
+
+			<key>Bullet1_Normal_1_b</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.50000,0.50000 }</string>
+                <key>fixtures</key>
+                <array>
+
+					<dict>
+                        <key>mass</key>
+                        <real>2</real>
+                        <key>elasticity</key>
+                        <real>0</real>
+                        <key>friction</key>
+                        <real>0</real>
+                        <key>surface_velocity</key>
+                        <string>{ 0.00000,0.00000 }</string>
+                        <key>layers</key>
+                        <integer>0</integer>
+                        <key>group</key>
+                        <integer>0</integer>
+                        <key>collision_type</key>
+                        <integer>0</integer>
+                        <key>isSensor</key>
+                        <false/>
+                        <key>fixture_type</key>
+                        <string>POLYGON</string>
+                        
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 15.50000,17.50000 }</string>	
+								<string>{ 15.50000,-17.50000 }</string>	
+								<string>{ -15.50000,-17.50000 }</string>	
+								<string>{ -15.50000,17.50000 }</string>
+							</array>
+						</array>
+                        
+					</dict>
+
+				</array>
+			</dict>
+
+			<key>Bullet1_Specialt_b</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.50000,0.50000 }</string>
+                <key>fixtures</key>
+                <array>
+
+					<dict>
+                        <key>mass</key>
+                        <real>2</real>
+                        <key>elasticity</key>
+                        <real>0</real>
+                        <key>friction</key>
+                        <real>0</real>
+                        <key>surface_velocity</key>
+                        <string>{ 0.00000,0.00000 }</string>
+                        <key>layers</key>
+                        <integer>0</integer>
+                        <key>group</key>
+                        <integer>0</integer>
+                        <key>collision_type</key>
+                        <integer>0</integer>
+                        <key>isSensor</key>
+                        <false/>
+                        <key>fixture_type</key>
+                        <string>POLYGON</string>
+                        
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 26.00000,28.50000 }</string>	
+								<string>{ 26.00000,-28.50000 }</string>	
+								<string>{ -26.00000,-28.50000 }</string>	
+								<string>{ -26.00000,28.50000 }</string>
+							</array>
+						</array>
+                        
+					</dict>
+
+				</array>
+			</dict>
+
+			<key>Bullet2_Normal_1_b</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.50000,0.50000 }</string>
+                <key>fixtures</key>
+                <array>
+
+					<dict>
+                        <key>mass</key>
+                        <real>2</real>
+                        <key>elasticity</key>
+                        <real>0</real>
+                        <key>friction</key>
+                        <real>0</real>
+                        <key>surface_velocity</key>
+                        <string>{ 0.00000,0.00000 }</string>
+                        <key>layers</key>
+                        <integer>0</integer>
+                        <key>group</key>
+                        <integer>0</integer>
+                        <key>collision_type</key>
+                        <integer>0</integer>
+                        <key>isSensor</key>
+                        <false/>
+                        <key>fixture_type</key>
+                        <string>POLYGON</string>
+                        
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 15.50000,14.00000 }</string>	
+								<string>{ 15.50000,-14.00000 }</string>	
+								<string>{ -15.50000,-14.00000 }</string>	
+								<string>{ -15.50000,14.00000 }</string>
+							</array>
+						</array>
+                        
+					</dict>
+
+				</array>
+			</dict>
+
+			<key>Bullet3_Normal_1_b</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.50000,0.50000 }</string>
+                <key>fixtures</key>
+                <array>
+
+					<dict>
+                        <key>mass</key>
+                        <real>2</real>
+                        <key>elasticity</key>
+                        <real>0</real>
+                        <key>friction</key>
+                        <real>0</real>
+                        <key>surface_velocity</key>
+                        <string>{ 0.00000,0.00000 }</string>
+                        <key>layers</key>
+                        <integer>0</integer>
+                        <key>group</key>
+                        <integer>0</integer>
+                        <key>collision_type</key>
+                        <integer>0</integer>
+                        <key>isSensor</key>
+                        <false/>
+                        <key>fixture_type</key>
+                        <string>POLYGON</string>
+                        
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 15.50000,17.50000 }</string>	
+								<string>{ 15.50000,-17.50000 }</string>	
+								<string>{ -15.50000,-17.50000 }</string>	
+								<string>{ -15.50000,17.50000 }</string>
+							</array>
+						</array>
+                        
+					</dict>
+
+				</array>
+			</dict>
+
+			<key>Bullet3_Specialt_b</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.50000,0.50000 }</string>
+                <key>fixtures</key>
+                <array>
+
+					<dict>
+                        <key>mass</key>
+                        <real>2</real>
+                        <key>elasticity</key>
+                        <real>0</real>
+                        <key>friction</key>
+                        <real>0</real>
+                        <key>surface_velocity</key>
+                        <string>{ 0.00000,0.00000 }</string>
+                        <key>layers</key>
+                        <integer>0</integer>
+                        <key>group</key>
+                        <integer>0</integer>
+                        <key>collision_type</key>
+                        <integer>0</integer>
+                        <key>isSensor</key>
+                        <false/>
+                        <key>fixture_type</key>
+                        <string>POLYGON</string>
+                        
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 26.00000,28.50000 }</string>	
+								<string>{ 26.00000,-28.50000 }</string>	
+								<string>{ -26.00000,-28.50000 }</string>	
+								<string>{ -26.00000,28.50000 }</string>
+							</array>
+						</array>
+                        
+					</dict>
+
+				</array>
+			</dict>
+
+			<key>Bullet2_Specialt_b</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.50000,0.50000 }</string>
+                <key>fixtures</key>
+                <array>
+
+					<dict>
+                        <key>mass</key>
+                        <real>2</real>
+                        <key>elasticity</key>
+                        <real>0</real>
+                        <key>friction</key>
+                        <real>0</real>
+                        <key>surface_velocity</key>
+                        <string>{ 0.00000,0.00000 }</string>
+                        <key>layers</key>
+                        <integer>0</integer>
+                        <key>group</key>
+                        <integer>0</integer>
+                        <key>collision_type</key>
+                        <integer>0</integer>
+                        <key>isSensor</key>
+                        <false/>
+                        <key>fixture_type</key>
+                        <string>POLYGON</string>
+                        
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 26.00000,21.50000 }</string>	
+								<string>{ 26.00000,-21.50000 }</string>	
+								<string>{ -26.00000,-21.50000 }</string>	
+								<string>{ -26.00000,21.50000 }</string>
+							</array>
+						</array>
+                        
+					</dict>
+
+				</array>
+			</dict>
+
+		</dict>
+	</dict>
+</plist>
+
+
+
+

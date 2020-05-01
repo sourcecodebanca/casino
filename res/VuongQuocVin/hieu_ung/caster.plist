@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,203},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,405},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,607},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,809},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{203,1},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,1},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{607,1},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{809,1},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{203,203},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{203,405},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{203,607},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{203,809},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,203},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>VuongQuocVin/hieu_ung/caster/caster9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{607,203},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>caster.png</string>
+			<key>realTextureFileName</key>
+			<string>caster.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

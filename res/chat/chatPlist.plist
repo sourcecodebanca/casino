@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/chat/chat_box.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{245,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,54}</string>
+			</dict>
+			<key>res/chat/chat_btn_emotion.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,199},{57,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,56}</string>
+			</dict>
+			<key>res/chat/chat_btn_send.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,140},{90,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{90,54}</string>
+			</dict>
+			<key>res/chat/chat_btn_text.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,140},{57,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,57}</string>
+			</dict>
+			<key>res/chat/emotion_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,57},{80,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,81}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>chatPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>chatPlist.png</string>
+			<key>size</key>
+			<string>{247,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>247</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

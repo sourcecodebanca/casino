@@ -1,0 +1,41 @@
+
+sodo_spine_title.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh1
+  rotate: false
+  xy: 342, 161
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: false
+  xy: 2, 3
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+light-sd
+  rotate: true
+  xy: 105, 2
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+text-do
+  rotate: false
+  xy: 164, 114
+  size: 176, 137
+  orig: 176, 137
+  offset: 0, 0
+  index: -1
+text-so
+  rotate: false
+  xy: 2, 96
+  size: 160, 155
+  orig: 160, 155
+  offset: 0, 0
+  index: -1

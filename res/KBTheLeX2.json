@@ -1,0 +1,649 @@
+{
+  "ID": "d2bb084a-093b-4575-b296-62a34a216a17",
+  "Version": "2.3.4",
+  "Name": "KBTheLeX2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 211,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "SlotKhoBau/bg/bg_tab.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 124,
+            "Scale9OriginY": 101,
+            "Scale9Width": 1004,
+            "Scale9Height": 350,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 212,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "X2 QUỸ THƯỞNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.2355,
+                  "Y": 589.1777
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 250,
+                  "B": 140
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5002,
+                  "Y": 0.8183
+                },
+                "PreSize": {
+                  "X": 0.3047,
+                  "Y": 0.0819
+                },
+                "LeftMargin": 445.2355,
+                "RightMargin": 444.7645,
+                "TopMargin": 101.3223,
+                "BottomMargin": 559.6777,
+                "Tag": 225,
+                "ActionTag": -1653203133,
+                "Size": {
+                  "X": 390.0,
+                  "Y": 59.0
+                },
+                "Name": "x2q",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/close_click.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/close_click.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/close_nor.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1208.7865,
+                  "Y": 591.9553
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9444,
+                  "Y": 0.8222
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.1083
+                },
+                "LeftMargin": 1169.7865,
+                "RightMargin": 32.2135,
+                "TopMargin": 89.0447,
+                "BottomMargin": 552.9553,
+                "Tag": 226,
+                "ActionTag": 1989670502,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_close_the_le",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Sự kiện: ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 498.2259
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.692
+                },
+                "PreSize": {
+                  "X": 0.0688,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 1073.0,
+                "TopMargin": 193.7741,
+                "BottomMargin": 498.2259,
+                "Tag": 227,
+                "ActionTag": -395359468,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "X2 quỹ thưởng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 295.7166,
+                  "Y": 511.3424
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.231,
+                  "Y": 0.7102
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 215.7166,
+                "RightMargin": 904.2834,
+                "TopMargin": 194.6576,
+                "BottomMargin": 497.3424,
+                "Tag": 228,
+                "ActionTag": 610970009,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "của Slot Kho Báu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 477.1899,
+                  "Y": 510.3428
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3728,
+                  "Y": 0.7088
+                },
+                "PreSize": {
+                  "X": 0.1461,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 383.6899,
+                "RightMargin": 709.3101,
+                "TopMargin": 195.6572,
+                "BottomMargin": 496.3428,
+                "Tag": 229,
+                "ActionTag": -431905861,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Bắt đầu từ 10h30 ngày Thứ hai hàng tuần, để tri ân người chơi, \nSlot Kho Báu sẽ xuất hiện 10 hũ phòng 100 và 1 hũ phòng 1.000 được ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 431.8372
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.5998
+                },
+                "PreSize": {
+                  "X": 0.5953,
+                  "Y": 0.0778
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 399.0,
+                "TopMargin": 232.1628,
+                "BottomMargin": 431.8372,
+                "Tag": 230,
+                "ActionTag": -711635026,
+                "Size": {
+                  "X": 762.0,
+                  "Y": 56.0
+                },
+                "Name": "Text_4_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "X2(nhân đôi) giá trị hũ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 402.946
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.5596
+                },
+                "PreSize": {
+                  "X": 0.1891,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 919.0,
+                "TopMargin": 289.054,
+                "BottomMargin": 402.946,
+                "Tag": 231,
+                "ActionTag": 1214933018,
+                "Size": {
+                  "X": 242.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Ở thời điểm nổ hũ (không tính trả thưởng payline).",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 375.0456,
+                  "Y": 402.5599
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.293,
+                  "Y": 0.5591
+                },
+                "PreSize": {
+                  "X": 0.4227,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 375.0456,
+                "RightMargin": 363.9544,
+                "TopMargin": 289.4401,
+                "BottomMargin": 402.5599,
+                "Tag": 232,
+                "ActionTag": 2124629374,
+                "Size": {
+                  "X": 541.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Ví dụ:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 371.1752
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.5155
+                },
+                "PreSize": {
+                  "X": 0.0492,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 1098.0,
+                "TopMargin": 320.8248,
+                "BottomMargin": 371.1752,
+                "Tag": 233,
+                "ActionTag": 971127823,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_4_0_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Tại thời điểm ăn hũ x2, giá trị hũ là 6.000.000 GS, trả thưởng payline là \n100.000 GS thì giải thưởng người chơi nhận được là\n6.000.000 x 2 + 100.000 = 12.100.000 GS\nChú ý:\n- Phòng 100: hũ được X2 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X2 \ntrước đó (vd: 1,5,9...).\n- Phòng 1.000 hũ thứ 3 sẽ được X2 tính từ thời điểm khung giờ vàng.\n- Giờ vàng X2 thứ hai hàng tuần sẽ bắt đầu lúc 10h30 và kết thúc \nkhi trao thưởng đủ 10 hũ X2 phòng 100 và 1 hũ X2 phòng 1.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 113.2912
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.1573
+                },
+                "PreSize": {
+                  "X": 0.6297,
+                  "Y": 0.35
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 355.0,
+                "TopMargin": 354.7088,
+                "BottomMargin": 113.2912,
+                "Tag": 234,
+                "ActionTag": 357190813,
+                "Size": {
+                  "X": 806.0,
+                  "Y": 252.0
+                },
+                "Name": "Text_4_1_0_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1170939173,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pTheLe",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Bold.ttf",
+        "Font/Roboto-Regular.ttf",
+        "SlotKhoBau/bg/bg_tab.png",
+        "SlotKhoBau/huongdan/close_click.png",
+        "SlotKhoBau/huongdan/close_nor.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

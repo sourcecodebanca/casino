@@ -1,0 +1,22 @@
+info face="bc_font_bet" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=80 base=26 scaleW=128 scaleH=64 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="bc_font_bet.png"
+chars count=16
+char id=46 x=63 y=42 width=5 height=4 xoffset=0 yoffset=76 xadvance=6 page=0 chnl=0 letter="."
+char id=47 x=65 y=0 width=8 height=20 xoffset=0 yoffset=60 xadvance=9 page=0 chnl=0 letter="/"
+char id=75 x=0 y=21 width=20 height=20 xoffset=0 yoffset=60 xadvance=21 page=0 chnl=0 letter="K"
+char id=77 x=0 y=0 width=21 height=20 xoffset=0 yoffset=60 xadvance=22 page=0 chnl=0 letter="M"
+char id=48 x=48 y=42 width=14 height=20 xoffset=0 yoffset=60 xadvance=15 page=0 chnl=0 letter="0"
+char id=49 x=54 y=0 width=10 height=20 xoffset=0 yoffset=60 xadvance=11 page=0 chnl=0 letter="1"
+char id=50 x=37 y=21 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="2"
+char id=51 x=53 y=21 width=14 height=20 xoffset=0 yoffset=60 xadvance=15 page=0 chnl=0 letter="3"
+char id=52 x=22 y=0 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="4"
+char id=53 x=38 y=0 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="5"
+char id=54 x=32 y=42 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="6"
+char id=55 x=21 y=21 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="7"
+char id=56 x=16 y=42 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="8"
+char id=57 x=0 y=42 width=15 height=20 xoffset=0 yoffset=60 xadvance=16 page=0 chnl=0 letter="9"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

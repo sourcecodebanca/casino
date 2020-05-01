@@ -1,0 +1,789 @@
+{
+  "ID": "013983f3-fc09-4c1c-9188-d886adbc4f09",
+  "Version": "2.3.4",
+  "Name": "AvengerTopNoHu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 157,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Avenger/bg/bg_tab.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 124,
+            "Scale9OriginY": 103,
+            "Scale9Width": 938,
+            "Scale9Height": 486,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
+            "Tag": 160,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/bg/tieu_de.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 615.0848
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8543
+                },
+                "PreSize": {
+                  "X": 0.7695,
+                  "Y": 0.1194
+                },
+                "LeftMargin": 147.5,
+                "RightMargin": 147.5,
+                "TopMargin": 61.9152,
+                "BottomMargin": 572.0848,
+                "Tag": 128,
+                "ActionTag": -1337595798,
+                "Size": {
+                  "X": 985.0,
+                  "Y": 86.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 50,
+                "LabelText": "LỊCH SỬ TRÚNG HŨ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 625.1777
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 250,
+                  "B": 140
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8683
+                },
+                "PreSize": {
+                  "X": 0.3367,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 424.5,
+                "RightMargin": 424.5,
+                "TopMargin": 63.8223,
+                "BottomMargin": 594.1777,
+                "Tag": 159,
+                "ActionTag": -1142296353,
+                "Size": {
+                  "X": 431.0,
+                  "Y": 62.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/bg/content_lsth.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 114,
+                "Scale9OriginY": 44,
+                "Scale9Width": 891,
+                "Scale9Height": 344,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0001,
+                  "Y": 343.8647
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4776
+                },
+                "PreSize": {
+                  "X": 0.8742,
+                  "Y": 0.6
+                },
+                "LeftMargin": 80.5001,
+                "RightMargin": 80.4999,
+                "TopMargin": 160.1353,
+                "BottomMargin": 127.8647,
+                "Tag": 170,
+                "ActionTag": -1008825312,
+                "Size": {
+                  "X": 1119.0,
+                  "Y": 432.0
+                },
+                "Name": "img_ls_giao_dich",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 320.0049
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4445
+                },
+                "PreSize": {
+                  "X": 0.8734,
+                  "Y": 0.5278
+                },
+                "LeftMargin": 81.0,
+                "RightMargin": 81.0,
+                "TopMargin": 209.9951,
+                "BottomMargin": 130.0049,
+                "Tag": 169,
+                "ActionTag": 699393648,
+                "Size": {
+                  "X": 1118.0,
+                  "Y": 380.0
+                },
+                "Name": "lv_lich_su_nu_hu",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/close_tab_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/close_tab_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/close_tab.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 43,
+                "Scale9Height": 51,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1159.5875,
+                  "Y": 620.7769
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9059,
+                  "Y": 0.8622
+                },
+                "PreSize": {
+                  "X": 0.0492,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 1128.0875,
+                "RightMargin": 88.9125,
+                "TopMargin": 67.7231,
+                "BottomMargin": 589.2769,
+                "Tag": 182,
+                "ActionTag": -144058942,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 63.0
+                },
+                "Name": "btnCloseLichSuSlot",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/bg_page.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.234,
+                  "Y": 78.709
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5002,
+                  "Y": 0.1093
+                },
+                "PreSize": {
+                  "X": 0.1609,
+                  "Y": 0.1069
+                },
+                "LeftMargin": 537.234,
+                "RightMargin": 536.766,
+                "TopMargin": 602.791,
+                "BottomMargin": 40.209,
+                "Tag": 181,
+                "ActionTag": -560802242,
+                "Size": {
+                  "X": 206.0,
+                  "Y": 77.0
+                },
+                "Name": "Sprite_26",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "100/100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.2366,
+                  "Y": 78.709
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5002,
+                  "Y": 0.1093
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0319
+                },
+                "LeftMargin": 595.2366,
+                "RightMargin": 594.7634,
+                "TopMargin": 629.791,
+                "BottomMargin": 67.209,
+                "Tag": 180,
+                "ActionTag": 1619664182,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 23.0
+                },
+                "Name": "lb_current_page_lsgd",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_back_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_back_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 72,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 785.6127,
+                  "Y": 79.7091
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6138,
+                  "Y": 0.1107
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.1069
+                },
+                "LeftMargin": 743.6127,
+                "RightMargin": 452.3873,
+                "TopMargin": 601.7909,
+                "BottomMargin": 41.2091,
+                "Tag": 179,
+                "ActionTag": 1295447402,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 77.0
+                },
+                "Name": "btn_neck_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_backall.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 72,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 869.1226,
+                  "Y": 79.7091
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.679,
+                  "Y": 0.1107
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.1069
+                },
+                "LeftMargin": 827.1226,
+                "RightMargin": 368.8774,
+                "TopMargin": 601.7909,
+                "BottomMargin": 41.2091,
+                "Tag": 178,
+                "ActionTag": 1090434462,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 77.0
+                },
+                "Name": "btn_neckall_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_back_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_back_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 72,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 499.1064,
+                  "Y": 78.7092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3899,
+                  "Y": 0.1093
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.1069
+                },
+                "LeftMargin": 457.1064,
+                "RightMargin": 738.8936,
+                "TopMargin": 602.7908,
+                "BottomMargin": 40.2092,
+                "Tag": 177,
+                "ActionTag": -1878488056,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 77.0
+                },
+                "Name": "btn_back_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/btn_backall.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 72,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 417.5976,
+                  "Y": 78.7092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3262,
+                  "Y": 0.1093
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.1069
+                },
+                "LeftMargin": 375.5976,
+                "RightMargin": 820.4024,
+                "TopMargin": 602.7908,
+                "BottomMargin": 40.2092,
+                "Tag": 176,
+                "ActionTag": -92421356,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 77.0
+                },
+                "Name": "btn_back_all_lsgd",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 63460534,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pTopUser",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Avenger/bg/bg_tab.png",
+        "Avenger/bg/content_lsth.png",
+        "Avenger/bg/tieu_de.png",
+        "Avenger/bg_page.png",
+        "Avenger/btn_back.png",
+        "Avenger/btn_back_s.png",
+        "Avenger/btn_backall.png",
+        "Avenger/btn_backall_s.png",
+        "Avenger/close_tab.png",
+        "Avenger/close_tab_s.png",
+        "Font/Roboto-Bold.ttf",
+        "Font/UTM-Bitsumishi-Pro.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

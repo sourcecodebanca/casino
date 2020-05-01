@@ -1,0 +1,34 @@
+
+xocdia.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XÓC ĐĨA
+  rotate: false
+  xy: 222, 53
+  size: 96, 25
+  orig: 96, 25
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 415, 216
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+xocdia
+  rotate: false
+  xy: 222, 80
+  size: 191, 163
+  orig: 191, 163
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,4662 @@
+{
+  "ID": "0331e9b1-65c2-4cee-8f04-af137b9de684",
+  "Version": "2.3.4",
+  "Name": "TXThanhDu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 251,
+        "Children": [
+          {
+            "ClipAble": false,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "FirstColor": {
+              "R": 30,
+              "G": 144
+            },
+            "EndColor": {
+              "R": 14,
+              "G": 103,
+              "B": 190
+            },
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 256,
+            "Scale9OriginY": 210,
+            "Scale9Width": 195,
+            "Scale9Height": 77,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 281.1556,
+              "Y": 111.174
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2197,
+              "Y": 0.1544
+            },
+            "PreSize": {
+              "X": 0.5508,
+              "Y": 0.6875
+            },
+            "LeftMargin": 281.1556,
+            "RightMargin": 293.8444,
+            "TopMargin": 113.826,
+            "BottomMargin": 111.174,
+            "Tag": 252,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 676.0555,
+                  "Y": 466.1237
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9589,
+                  "Y": 0.9417
+                },
+                "PreSize": {
+                  "X": 0.0823,
+                  "Y": 0.1152
+                },
+                "LeftMargin": 647.0555,
+                "RightMargin": -0.0555,
+                "TopMargin": 0.3763,
+                "BottomMargin": 437.6237,
+                "Tag": 253,
+                "ActionTag": 1766909628,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_close_thanh_du",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 27.0,
+                  "Y": 11.7971
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0383,
+                  "Y": 0.0238
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.6263
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 25.0,
+                "TopMargin": 173.2029,
+                "BottomMargin": 11.7971,
+                "Tag": 258,
+                "ActionTag": 2008304748,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 310.0
+                },
+                "Name": "lv_thanh_du",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 27.0,
+                  "Y": 322.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0383,
+                  "Y": 0.6505
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 25.0,
+                "TopMargin": 142.9997,
+                "BottomMargin": 322.0003,
+                "Tag": 259,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 42.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0643,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 41.5,
+                    "RightMargin": 610.5,
+                    "TopMargin": -5.5,
+                    "BottomMargin": -5.5,
+                    "Tag": 260,
+                    "ActionTag": -848409137,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "STT",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 21.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0322,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.049,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 5.0,
+                    "RightMargin": 616.0,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 261,
+                    "ActionTag": 1812066296,
+                    "Size": {
+                      "X": 32.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 216.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3308,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 215.5,
+                    "RightMargin": 436.5,
+                    "TopMargin": -5.5,
+                    "BottomMargin": -5.5,
+                    "Tag": 262,
+                    "ActionTag": 1299708,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 16,
+                    "LabelText": "Tài khoản",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 129.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1975,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1118,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 92.5,
+                    "RightMargin": 487.5,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 263,
+                    "ActionTag": -59538822,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 16,
+                    "LabelText": "Giải thưởng",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 554.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8484,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1302,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 511.5,
+                    "RightMargin": 56.5,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 264,
+                    "ActionTag": -643492232,
+                    "Size": {
+                      "X": 85.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 274.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4196,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 273.5,
+                    "RightMargin": 378.5,
+                    "TopMargin": -5.5,
+                    "BottomMargin": -5.5,
+                    "Tag": 274,
+                    "ActionTag": -1853022115,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 16,
+                    "LabelText": "Số ván",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 245.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3752,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0796,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 219.0,
+                    "RightMargin": 382.0,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 275,
+                    "ActionTag": 216897367,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 382.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.585,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 381.5,
+                    "RightMargin": 270.5,
+                    "TopMargin": -5.5,
+                    "BottomMargin": -5.5,
+                    "Tag": 276,
+                    "ActionTag": -750025781,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3_0_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 16,
+                    "LabelText": "Thắng (Thua)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 328.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5023,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1501,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 279.0,
+                    "RightMargin": 276.0,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 277,
+                    "ActionTag": 722594920,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_0_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 456.0,
+                      "Y": 15.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6983,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 455.5,
+                    "RightMargin": 196.5,
+                    "TopMargin": -5.5001,
+                    "BottomMargin": -5.4999,
+                    "Tag": 278,
+                    "ActionTag": 725115855,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3_0_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 16,
+                    "LabelText": "Phiên",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 419.6888,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6427,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0658,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 398.1888,
+                    "RightMargin": 211.8112,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 279,
+                    "ActionTag": 1522958965,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_0_2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1490468760,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 30.0
+                },
+                "Name": "pTitleListView",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.0,
+                  "Y": 478.53
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.9667
+                },
+                "PreSize": {
+                  "X": 0.678,
+                  "Y": 0.1253
+                },
+                "LeftMargin": 113.0,
+                "RightMargin": 114.0,
+                "TopMargin": -14.53,
+                "BottomMargin": 447.53,
+                "Tag": 265,
+                "ActionTag": 1160697435,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "Title_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 30,
+                "LabelText": "THÁNH DỰ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/VNF-Oswald-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.0,
+                  "Y": 474.5643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.9668
+                },
+                "PreSize": {
+                  "X": 0.2184,
+                  "Y": 0.0707
+                },
+                "LeftMargin": 275.0,
+                "RightMargin": 276.0,
+                "TopMargin": -1.0643,
+                "BottomMargin": 461.0643,
+                "Tag": 266,
+                "ActionTag": 1490273665,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 60.0
+                },
+                "Name": "Text_37",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/tanloc_button.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/tanloc_button.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 187,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 135.9992,
+                  "Y": 424.9946
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1929,
+                  "Y": 0.8586
+                },
+                "PreSize": {
+                  "X": 0.3078,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 27.4992,
+                "RightMargin": 460.5008,
+                "TopMargin": 54.5054,
+                "BottomMargin": 409.4946,
+                "Tag": 268,
+                "ActionTag": 1123914607,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_bxh_ngay",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/tanloc_button_mid_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/tanloc_button_mid_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 188,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 353.9996,
+                  "Y": 424.9975
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5021,
+                  "Y": 0.8586
+                },
+                "PreSize": {
+                  "X": 0.3092,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 244.9996,
+                "RightMargin": 242.0004,
+                "TopMargin": 54.5025,
+                "BottomMargin": 409.4975,
+                "Tag": 269,
+                "ActionTag": -1107233046,
+                "Size": {
+                  "X": 218.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_bxh_chung_cuoc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/tanloc_button_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/tanloc_button_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_s.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 187,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.9994,
+                  "Y": 424.9989
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8099,
+                  "Y": 0.8586
+                },
+                "PreSize": {
+                  "X": 0.3078,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 462.4994,
+                "RightMargin": 25.5006,
+                "TopMargin": 54.5011,
+                "BottomMargin": 409.4989,
+                "Tag": 270,
+                "ActionTag": 1876069900,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_the_le",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "BXH NGÀY",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 135.9994,
+                  "Y": 424.9946
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1929,
+                  "Y": 0.8586
+                },
+                "PreSize": {
+                  "X": 0.1121,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 96.4994,
+                "RightMargin": 529.5006,
+                "TopMargin": 60.5054,
+                "BottomMargin": 415.4946,
+                "Tag": 271,
+                "ActionTag": 294446088,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "BXH CHUNG CUỘC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 353.9998,
+                  "Y": 424.9975
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5021,
+                  "Y": 0.8586
+                },
+                "PreSize": {
+                  "X": 0.1957,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 284.9998,
+                "RightMargin": 282.0002,
+                "TopMargin": 60.5025,
+                "BottomMargin": 415.4975,
+                "Tag": 272,
+                "ActionTag": -98549365,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_7_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "THỂ LỆ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 571.9976,
+                  "Y": 424.9945
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8113,
+                  "Y": 0.8586
+                },
+                "PreSize": {
+                  "X": 0.0766,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 544.9976,
+                "RightMargin": 106.0024,
+                "TopMargin": 60.5055,
+                "BottomMargin": 415.4945,
+                "Tag": 273,
+                "ActionTag": -311036485,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_7_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 27.0,
+                  "Y": 356.8246
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0383,
+                  "Y": 0.7209
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.097
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 25.0,
+                "TopMargin": 90.1754,
+                "BottomMargin": 356.8246,
+                "Tag": 36,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/tanloc_button.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/tanloc_button.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/tanloc_button.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 133,
+                    "Scale9Height": 9,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.0503,
+                      "Y": 24.9995
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0889,
+                      "Y": 0.5208
+                    },
+                    "PreSize": {
+                      "X": 0.2496,
+                      "Y": 0.6458
+                    },
+                    "LeftMargin": -23.4497,
+                    "RightMargin": 513.4497,
+                    "TopMargin": 7.5005,
+                    "BottomMargin": 9.4995,
+                    "Tag": 31,
+                    "ActionTag": 1326705327,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 31.0
+                    },
+                    "Name": "btn_top_thang",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/tanloc_button_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/tanloc_button_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/tanloc_button_s.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 133,
+                    "Scale9Height": 9,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 173.0,
+                      "Y": 24.9995
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2649,
+                      "Y": 0.5208
+                    },
+                    "PreSize": {
+                      "X": 0.2496,
+                      "Y": 0.6458
+                    },
+                    "LeftMargin": 91.5,
+                    "RightMargin": 398.5,
+                    "TopMargin": 7.5005,
+                    "BottomMargin": 9.4995,
+                    "Tag": 32,
+                    "ActionTag": -197749152,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 31.0
+                    },
+                    "Name": "btn_top_thua",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "TOP THẮNG",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.9999,
+                      "Y": 24.9995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0904,
+                      "Y": 0.5208
+                    },
+                    "PreSize": {
+                      "X": 0.1348,
+                      "Y": 0.3958
+                    },
+                    "LeftMargin": 14.9999,
+                    "RightMargin": 550.0001,
+                    "TopMargin": 13.5005,
+                    "BottomMargin": 15.4995,
+                    "Tag": 33,
+                    "ActionTag": -889504960,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Text_7_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 16,
+                    "LabelText": "TOP THUA",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 173.0002,
+                      "Y": 24.9995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2649,
+                      "Y": 0.5208
+                    },
+                    "PreSize": {
+                      "X": 0.1194,
+                      "Y": 0.3958
+                    },
+                    "LeftMargin": 134.0002,
+                    "RightMargin": 440.9998,
+                    "TopMargin": 13.5005,
+                    "BottomMargin": 15.4995,
+                    "Tag": 34,
+                    "ActionTag": 781539933,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Text_7_2_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "ButtonText": "Ngày 20/06/2016",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/bg_date_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/bg_date_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/bg_date.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 135,
+                    "Scale9Height": 18,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 568.3636,
+                      "Y": 21.2944
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8704,
+                      "Y": 0.4436
+                    },
+                    "PreSize": {
+                      "X": 0.2527,
+                      "Y": 0.8333
+                    },
+                    "LeftMargin": 485.8636,
+                    "RightMargin": 2.1364,
+                    "TopMargin": 6.7056,
+                    "BottomMargin": 1.2944,
+                    "Tag": 293,
+                    "ActionTag": 573384280,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 40.0
+                    },
+                    "Name": "btn_date",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 719232138,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 48.0
+                },
+                "Name": "pTabOption",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 653,
+                  "Height": 938
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.5196,
+                  "Y": 11.5367
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0376,
+                  "Y": 0.0233
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.7919
+                },
+                "LeftMargin": 26.5196,
+                "RightMargin": 25.4804,
+                "TopMargin": 91.4633,
+                "BottomMargin": 11.5367,
+                "Tag": 155,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Sự kiện: “Thánh Dự” của minigame Tài Xỉu\n\nNội dung:\n\nThể lệ:\n\n\n\n\n\n\n\n\n\nTiêu chí xếp hạng:\n\n\n\nGiải thưởng Top thắng liên tiếp:\n\n\n\n\n\n\n\n\n\n\n\n\n\nGiải thưởng Top thua liên tiếp\n\n\n\n\n\n\n\n\n\nLưu ý:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 5.0,
+                      "Y": 929.9635
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 232,
+                      "G": 218,
+                      "B": 173
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0077,
+                      "Y": 0.9914
+                    },
+                    "PreSize": {
+                      "X": 0.438,
+                      "Y": 0.8443
+                    },
+                    "LeftMargin": 5.0,
+                    "RightMargin": 362.0,
+                    "TopMargin": 8.0365,
+                    "BottomMargin": 137.9635,
+                    "Tag": 156,
+                    "ActionTag": 1788579655,
+                    "Size": {
+                      "X": 286.0,
+                      "Y": 792.0
+                    },
+                    "Name": "bold",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Thời gian: Từ 0h00\" ngày đầu tiên của tháng đến hết 23h59\" ngày cuối cùng của tháng\n\nÁp dụng cho tất cả người chơi minigame Tài Xỉu bằng đồng Gold trên cổng game LuxVIP.vin\n\nTrong suốt thời gian diễn ra sự kiện, khách hang tham gia chơi minigame Tài Xỉu bằng đồng Gold thắng và thua liên tiếp nhiều ván liên tục, sẽ có cơ hội nhận được nhiều giải thưởng Gold có giá trị cho giải ngày,                               và                                          cho giải chung cuộc. Giải ngày thống kê từ 0h00'00'' đến 23h59'59''.Số ván thắng hoặc thua liên tiếp không cần phải là các phiên liên tiếp nhau. Điều kiện tính ván thắng hoặc thua liên tiếp:\n+ Các ván có lệnh khớp tối thiểu 2.000 Gold\n+ Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 Gold\nNhững ván không khớp lệnh (hoàn trả 100% số tiền đặt) thì hệ thống sẽ không ghi nhận \nbất chấp kết quả của ván đó – coi như là người chơi không tham gia. \n\n1.\tSố ván thắng hoặc thua liên tiếp dài nhất mà hệ thống ghi nhận từng ngày\n2.\tTổng tiền thắng (chuỗi thắng liên tiếp) và tổng tiền thua (chuỗi liên tiếp)\n3.\tThời gian đạt chuỗi thắng hoặc thua liên tiếp trước.\n\n\n\n\n\n\n\n\n\n\n\n\nGiải chung cuộc dành cho người đạt được chuỗi thắng liên tiếp dài nhất theo tiêu chí xếp \nhạng ở trên mà hệ thống ghi nhận từng ngày trong suốt thời gian diễn ra sự kiện.\n\n\n\n\n\n\n\n\n\n\n\nGiải chung cuộc dành cho người đạt được chuỗi thua liên tiếp dài nhất theo tiêu chí xếp \nhạng ở trên mà hệ thống ghi nhận từng ngày trong suốt thời gian diễn ra sự kiện.\n-Giải thưởng Gold sẽ được trao vào lúc 0h30' ngày kế tiếp\n-Giải thưởng hiện vật sẽ được trao trong vòng 1 tuần ngay sau khi kết thúc sự kiện, giải \nthưởng hiện vật không bao gồm các phụ phí liên quan.\n-Giải thưởng hiện vật có thể quy đổi thành Gold.\n-Một tài khoản có thể nhận được nhiều giải thưởng ngày khác nhau.\n-Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối cùng.\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 5.0,
+                      "Y": 912.9541
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0077,
+                      "Y": 0.9733
+                    },
+                    "PreSize": {
+                      "X": 0.9816,
+                      "Y": 0.9595
+                    },
+                    "LeftMargin": 5.0,
+                    "RightMargin": 7.0,
+                    "TopMargin": 25.0459,
+                    "BottomMargin": 12.9541,
+                    "Tag": 157,
+                    "ActionTag": -22032479,
+                    "Size": {
+                      "X": 641.0,
+                      "Y": 950.0
+                    },
+                    "Name": "regular",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 15,
+                    "LabelText": "Iphone 7 128GB           Iphone 7 Plus 128GB",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 170.2967,
+                      "Y": 805
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 204,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.247,
+                      "Y": 0.8578
+                    },
+                    "PreSize": {
+                      "X": 0.4288,
+                      "Y": 0.0192
+                    },
+                    "LeftMargin": 161.2967,
+                    "RightMargin": 211.7033,
+                    "TopMargin": 133.4114,
+                    "BottomMargin": 786.5886,
+                    "Tag": 158,
+                    "ActionTag": -804009117,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 18.0
+                    },
+                    "Name": "giaithuong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 34.0,
+                      "Y": 414.0018
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0521,
+                      "Y": 0.4414
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 34.0,
+                    "RightMargin": 619.0,
+                    "TopMargin": 523.9982,
+                    "BottomMargin": 414.0018,
+                    "Tag": 159,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -1.0,
+                        "Tag": 160,
+                        "ActionTag": 247358946,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -26.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 161,
+                        "ActionTag": 72208583,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -51.0,
+                        "BottomMargin": 50.0,
+                        "Tag": 162,
+                        "ActionTag": 215728062,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -76.0,
+                        "BottomMargin": 75.0,
+                        "Tag": 163,
+                        "ActionTag": 1239711763,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -101.0,
+                        "BottomMargin": 100.0,
+                        "Tag": 164,
+                        "ActionTag": 1950532301,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 125.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -126.0,
+                        "BottomMargin": 125.0,
+                        "Tag": 165,
+                        "ActionTag": 2062556332,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 166,
+                        "ActionTag": 644717060,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -150.0,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 167,
+                        "ActionTag": -596168234,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 578.0,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 578.0,
+                        "RightMargin": -728.0,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 168,
+                        "ActionTag": -752552457,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 189.142,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 189.142,
+                        "RightMargin": -339.142,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 169,
+                        "ActionTag": -1548088095,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 388.5589,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 388.5589,
+                        "RightMargin": -538.5589,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 170,
+                        "ActionTag": -1558250111,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "Top                                       Giải ngày                         Giá trị giải thưởng",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 77.7722,
+                          "Y": 137.9259
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 77.7722,
+                        "RightMargin": -542.7722,
+                        "TopMargin": -146.9259,
+                        "BottomMargin": 128.9259,
+                        "Tag": 171,
+                        "ActionTag": 1198425820,
+                        "Size": {
+                          "X": 465.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 112.92
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -121.92,
+                        "BottomMargin": 103.92,
+                        "Tag": 172,
+                        "ActionTag": 997789733,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "2",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 86.36
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -95.36,
+                        "BottomMargin": 77.36,
+                        "Tag": 173,
+                        "ActionTag": 712193026,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "3",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 61.41
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -70.41,
+                        "BottomMargin": 52.41,
+                        "Tag": 174,
+                        "ActionTag": -1472072461,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 11.29
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -20.29,
+                        "BottomMargin": 2.29,
+                        "Tag": 175,
+                        "ActionTag": 972758634,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "2.000.000 Gold",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 112.92
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 241.94,
+                        "RightMargin": -333.94,
+                        "TopMargin": -121.92,
+                        "BottomMargin": 103.92,
+                        "Tag": 176,
+                        "ActionTag": -1346596274,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "1.000.000 Gold",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 86.36
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 241.94,
+                        "RightMargin": -333.94,
+                        "TopMargin": -95.36,
+                        "BottomMargin": 77.36,
+                        "Tag": 177,
+                        "ActionTag": -859333441,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "500.000 Gold",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 61.41
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 247.94,
+                        "RightMargin": -327.94,
+                        "TopMargin": -70.41,
+                        "BottomMargin": 52.41,
+                        "Tag": 178,
+                        "ActionTag": 1279834910,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 15,
+                        "LabelText": "Iphone 7 128GB",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 11.29
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 204,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 232.94,
+                        "RightMargin": -342.94,
+                        "TopMargin": -20.29,
+                        "BottomMargin": 2.29,
+                        "Tag": 179,
+                        "ActionTag": -1085870171,
+                        "Size": {
+                          "X": 110.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "2.000.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 484.6935,
+                          "Y": 112.92
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 438.6935,
+                        "RightMargin": -530.6935,
+                        "TopMargin": -121.92,
+                        "BottomMargin": 103.92,
+                        "Tag": 180,
+                        "ActionTag": 1380241839,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1.000.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 484.6935,
+                          "Y": 86.36
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 438.6935,
+                        "RightMargin": -530.6935,
+                        "TopMargin": -95.36,
+                        "BottomMargin": 77.36,
+                        "Tag": 181,
+                        "ActionTag": 698918223,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "500.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 484.6932,
+                          "Y": 61.41
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 444.6932,
+                        "RightMargin": -524.6932,
+                        "TopMargin": -70.41,
+                        "BottomMargin": 52.41,
+                        "Tag": 182,
+                        "ActionTag": 1446210676,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_2",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "17.990.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 481.4934,
+                          "Y": 11.29
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 443.9934,
+                        "RightMargin": -518.9934,
+                        "TopMargin": -20.29,
+                        "BottomMargin": 2.29,
+                        "Tag": 183,
+                        "ActionTag": 232764581,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_2_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1151766727,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "p_table",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 34.0,
+                      "Y": 180.7834
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0521,
+                      "Y": 0.2109
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 34.0,
+                    "RightMargin": 619.0,
+                    "TopMargin": 740.2166,
+                    "BottomMargin": 197.7834,
+                    "Tag": 184,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -1.0,
+                        "Tag": 185,
+                        "ActionTag": 978749355,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -26.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 186,
+                        "ActionTag": -1097687689,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -51.0,
+                        "BottomMargin": 50.0,
+                        "Tag": 187,
+                        "ActionTag": 1011385754,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -76.0,
+                        "BottomMargin": 75.0,
+                        "Tag": 188,
+                        "ActionTag": 645210223,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -101.0,
+                        "BottomMargin": 100.0,
+                        "Tag": 189,
+                        "ActionTag": 1340778021,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 125.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -126.0,
+                        "BottomMargin": 125.0,
+                        "Tag": 190,
+                        "ActionTag": -299229127,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -580.0,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 191,
+                        "ActionTag": -393018602,
+                        "Size": {
+                          "X": 580.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_1",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -150.0,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 192,
+                        "ActionTag": 1579061519,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 578.0,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 578.0,
+                        "RightMargin": -728.0,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 193,
+                        "ActionTag": 1038083045,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 189.142,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 189.142,
+                        "RightMargin": -339.142,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 194,
+                        "ActionTag": -884797780,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 388.5589,
+                          "Y": 150.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 388.5589,
+                        "RightMargin": -538.5589,
+                        "TopMargin": -151.0,
+                        "BottomMargin": 150.0,
+                        "Tag": 195,
+                        "ActionTag": 1586072128,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 1.0
+                        },
+                        "Name": "p_2",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "Top                                       Giải ngày                         Giá trị giải thưởng",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 77.7722,
+                          "Y": 137.9259
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 77.7722,
+                        "RightMargin": -542.7722,
+                        "TopMargin": -146.9259,
+                        "BottomMargin": 128.9259,
+                        "Tag": 196,
+                        "ActionTag": -301176430,
+                        "Size": {
+                          "X": 465.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 112.92
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -121.92,
+                        "BottomMargin": 103.92,
+                        "Tag": 197,
+                        "ActionTag": -1164022362,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "2",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 86.36
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -95.36,
+                        "BottomMargin": 77.36,
+                        "Tag": 198,
+                        "ActionTag": -1276352628,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "3",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 61.41
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -70.41,
+                        "BottomMargin": 52.41,
+                        "Tag": 199,
+                        "ActionTag": 2099138165,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.45,
+                          "Y": 11.29
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 86.45,
+                        "RightMargin": -98.45,
+                        "TopMargin": -20.29,
+                        "BottomMargin": 2.29,
+                        "Tag": 200,
+                        "ActionTag": 704129778,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 18.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "2.000.000 Gold",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 112.92
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 241.94,
+                        "RightMargin": -333.94,
+                        "TopMargin": -121.92,
+                        "BottomMargin": 103.92,
+                        "Tag": 201,
+                        "ActionTag": 1437713414,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1.000.000 Gold",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 86.36
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 241.94,
+                        "RightMargin": -333.94,
+                        "TopMargin": -95.36,
+                        "BottomMargin": 77.36,
+                        "Tag": 202,
+                        "ActionTag": 915450297,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "500.000 Gold",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 61.41
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 247.94,
+                        "RightMargin": -327.94,
+                        "TopMargin": -70.41,
+                        "BottomMargin": 52.41,
+                        "Tag": 203,
+                        "ActionTag": 1575135608,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "Iphone 7 Plus 128GB",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.94,
+                          "Y": 11.29
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 204,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 215.44,
+                        "RightMargin": -360.44,
+                        "TopMargin": -20.29,
+                        "BottomMargin": 2.29,
+                        "Tag": 204,
+                        "ActionTag": 733116896,
+                        "Size": {
+                          "X": 145.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "2.000.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 484.6935,
+                          "Y": 112.92
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 438.6935,
+                        "RightMargin": -530.6935,
+                        "TopMargin": -121.92,
+                        "BottomMargin": 103.92,
+                        "Tag": 205,
+                        "ActionTag": -105233745,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "1.000.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 484.6935,
+                          "Y": 86.36
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 438.6935,
+                        "RightMargin": -530.6935,
+                        "TopMargin": -95.36,
+                        "BottomMargin": 77.36,
+                        "Tag": 206,
+                        "ActionTag": -1583771873,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "500.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 484.6932,
+                          "Y": 61.41
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 444.6932,
+                        "RightMargin": -524.6932,
+                        "TopMargin": -70.41,
+                        "BottomMargin": 52.41,
+                        "Tag": 207,
+                        "ActionTag": 1300598809,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_2",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 15,
+                        "LabelText": "20.990.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 481.4934,
+                          "Y": 11.29
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 195,
+                          "G": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 443.9934,
+                        "RightMargin": -518.9934,
+                        "TopMargin": -20.29,
+                        "BottomMargin": 2.29,
+                        "Tag": 208,
+                        "ActionTag": -926015895,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 18.0
+                        },
+                        "Name": "T5_2_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 374924687,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "p_table_0",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 215903521,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 392.0
+                },
+                "Name": "p_thele",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": 1382613607,
+            "Size": {
+              "X": 705.0,
+              "Y": 495.0
+            },
+            "Name": "pThanhDu",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/tahoma.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/bg_date.png",
+        "Minigame/ImageChung/bg_date_s.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/btn_thanhdu.png",
+        "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+        "Minigame/ImageChung/btn_thanhdu_s.png",
+        "Minigame/ImageChung/tanloc_button.png",
+        "Minigame/ImageChung/tanloc_button_mid_s.png",
+        "Minigame/ImageChung/tanloc_button_s.png",
+        "Minigame/ImageChung/Title.png",
+        "Minigame/ImageChung/vachdung.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

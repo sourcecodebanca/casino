@@ -1,0 +1,493 @@
+{
+"skeleton": { "hash": "ESZF/4ySaITni+lc8sLjYorWXhU", "spine": "3.5.44", "width": 1060.51, "height": 788.87, "images": "" },
+"bones": [
+	{ "name": "Text_Laser_Gun", "x": -4.65 },
+	{ "name": "position", "parent": "Text_Laser_Gun" },
+	{ "name": "Laser_Gun_Scale", "parent": "position", "rotation": -3, "x": 335.29, "y": -480.05 },
+	{ "name": "Laser_Gun_Text/Exclaimation_Mark0011", "parent": "position", "x": 379.99, "y": 15.73 },
+	{ "name": "Laser_Gun_Text/FlareLine", "parent": "position", "x": -328.01, "y": -39.54, "scaleX": 0.52 },
+	{ "name": "Laser_Gun_Text/Laser", "parent": "Laser_Gun_Scale" },
+	{ "name": "Laser_Gun_Text/LetterL0011", "parent": "position", "x": -307.18, "y": 15.78 },
+	{ "name": "Laser_Gun_Text/Letter_G0011", "parent": "position", "x": 124.84, "y": 13.39 },
+	{ "name": "Laser_Gun_Text/Letter_U0011", "parent": "position", "x": 221.94, "y": -0.37 },
+	{ "name": "Laser_Gun_Text/Letter_a0011", "parent": "position", "x": -230.06, "y": 1.75 },
+	{ "name": "Laser_Gun_Text/Letter_e0011", "parent": "position", "x": -73.74, "y": 1.75 },
+	{ "name": "Laser_Gun_Text/Letter_n0011", "parent": "position", "x": 314.97, "y": 1.78 },
+	{ "name": "Laser_Gun_Text/Letter_r0011", "parent": "position", "x": 4.18, "y": 1.69 },
+	{ "name": "Laser_Gun_Text/Letter_s0011", "parent": "position", "x": -151.89, "y": 0.98 },
+	{ "name": "Laser_Gun_Text/sparkle", "parent": "position", "x": -327.37, "y": -39.77 },
+	{ "name": "Laser_Gun_Text/starLight", "parent": "position", "x": -330.63, "y": -34.82 }
+],
+"slots": [
+	{
+		"name": "Laser_Gun_Text/Exclaimation_Mark0011",
+		"bone": "Laser_Gun_Text/Exclaimation_Mark0011",
+		"attachment": "Laser_Gun_Text/Exclaimation_Mark0011"
+	},
+	{ "name": "Laser_Gun_Text/LetterL0011", "bone": "Laser_Gun_Text/LetterL0011", "attachment": "Laser_Gun_Text/LetterL0010" },
+	{ "name": "Laser_Gun_Text/Letter_G0011", "bone": "Laser_Gun_Text/Letter_G0011", "attachment": "Laser_Gun_Text/Letter_G0011" },
+	{ "name": "Laser_Gun_Text/Letter_U0011", "bone": "Laser_Gun_Text/Letter_U0011", "attachment": "Laser_Gun_Text/Letter_U0011" },
+	{ "name": "Laser_Gun_Text/Letter_a0011", "bone": "Laser_Gun_Text/Letter_a0011", "attachment": "Laser_Gun_Text/Letter_a0011" },
+	{ "name": "Laser_Gun_Text/Letter_e0011", "bone": "Laser_Gun_Text/Letter_e0011", "attachment": "Laser_Gun_Text/Letter_e0011" },
+	{ "name": "Laser_Gun_Text/Letter_n0011", "bone": "Laser_Gun_Text/Letter_n0011", "attachment": "Laser_Gun_Text/Letter_n0011" },
+	{ "name": "Laser_Gun_Text/Letter_r0011", "bone": "Laser_Gun_Text/Letter_r0011", "attachment": "Laser_Gun_Text/Letter_r0011" },
+	{ "name": "Laser_Gun_Text/Letter_s0011", "bone": "Laser_Gun_Text/Letter_s0011", "attachment": "Laser_Gun_Text/Letter_s0011" },
+	{ "name": "Laser_Gun_Text/Laser", "bone": "Laser_Gun_Text/Laser", "attachment": "Laser_Gun_Text/Laser" },
+	{ "name": "Laser_Gun_Text/FlareLine", "bone": "Laser_Gun_Text/FlareLine", "attachment": "Laser_Gun_Text/FlareLine" },
+	{ "name": "Laser_Gun_Text/sparkle", "bone": "Laser_Gun_Text/sparkle", "attachment": "Laser_Gun_Text/sparkle" },
+	{ "name": "Laser_Gun_Text/starLight", "bone": "Laser_Gun_Text/starLight", "attachment": "Laser_Gun_Text/starLight" }
+],
+"skins": {
+	"default": {
+		"Laser_Gun_Text/Exclaimation_Mark0011": {
+			"Laser_Gun_Text/Exclaimation_Mark0001": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0002": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0003": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0004": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0005": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0006": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0007": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0008": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0009": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0010": { "width": 110, "height": 186 },
+			"Laser_Gun_Text/Exclaimation_Mark0011": { "width": 110, "height": 186 }
+		},
+		"Laser_Gun_Text/FlareLine": {
+			"Laser_Gun_Text/FlareLine": { "x": -53.49, "y": -15.79, "width": 1020, "height": 670 }
+		},
+		"Laser_Gun_Text/Laser": {
+			"Laser_Gun_Text/Laser": { "x": -341.25, "y": 212.54, "width": 844, "height": 475 }
+		},
+		"Laser_Gun_Text/LetterL0011": {
+			"Laser_Gun_Text/LetterL0001": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0002": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0003": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0004": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0005": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0006": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0007": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0008": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0009": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0010": { "width": 148, "height": 185 },
+			"Laser_Gun_Text/LetterL0011": { "width": 148, "height": 185 }
+		},
+		"Laser_Gun_Text/Letter_G0011": {
+			"Laser_Gun_Text/Letter_G0001": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0002": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0003": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0004": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0005": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0006": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0007": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0008": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0009": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0010": { "width": 149, "height": 170 },
+			"Laser_Gun_Text/Letter_G0011": { "width": 149, "height": 170 }
+		},
+		"Laser_Gun_Text/Letter_U0011": {
+			"Laser_Gun_Text/Letter_U0001": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0002": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0003": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0004": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0005": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0006": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0007": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0008": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0009": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0010": { "width": 155, "height": 159 },
+			"Laser_Gun_Text/Letter_U0011": { "width": 155, "height": 159 }
+		},
+		"Laser_Gun_Text/Letter_a0011": {
+			"Laser_Gun_Text/Letter_a0001": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0002": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0003": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0004": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0005": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0006": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0007": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0008": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0009": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0010": { "width": 149, "height": 161 },
+			"Laser_Gun_Text/Letter_a0011": { "width": 149, "height": 161 }
+		},
+		"Laser_Gun_Text/Letter_e0011": {
+			"Laser_Gun_Text/Letter_e0001": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0002": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0003": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0004": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0005": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0006": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0007": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0008": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0009": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0010": { "width": 154, "height": 162 },
+			"Laser_Gun_Text/Letter_e0011": { "width": 154, "height": 162 }
+		},
+		"Laser_Gun_Text/Letter_n0011": {
+			"Laser_Gun_Text/Letter_n0001": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0002": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0003": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0004": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0005": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0006": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0007": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0008": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0009": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0010": { "width": 156, "height": 159 },
+			"Laser_Gun_Text/Letter_n0011": { "width": 156, "height": 159 }
+		},
+		"Laser_Gun_Text/Letter_r0011": {
+			"Laser_Gun_Text/Letter_r0001": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0002": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0003": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0004": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0005": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0006": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0007": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0008": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0009": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0010": { "width": 114, "height": 140 },
+			"Laser_Gun_Text/Letter_r0011": { "width": 114, "height": 140 }
+		},
+		"Laser_Gun_Text/Letter_s0011": {
+			"Laser_Gun_Text/Letter_s0001": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0002": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0003": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0004": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0005": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0006": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0007": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0008": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0009": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0010": { "width": 139, "height": 162 },
+			"Laser_Gun_Text/Letter_s0011": { "width": 139, "height": 162 }
+		},
+		"Laser_Gun_Text/sparkle": {
+			"Laser_Gun_Text/sparkle": { "x": -0.63, "y": 5.86, "width": 341, "height": 301 }
+		},
+		"Laser_Gun_Text/starLight": {
+			"Laser_Gun_Text/starLight": { "x": 6.81, "y": 2.56, "width": 217, "height": 208 }
+		}
+	}
+},
+"animations": {
+	"LaserTextAnim": {
+		"slots": {
+			"Laser_Gun_Text/Exclaimation_Mark0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9333, "name": "Laser_Gun_Text/Exclaimation_Mark0001" },
+					{ "time": 0.9667, "name": "Laser_Gun_Text/Exclaimation_Mark0002" },
+					{ "time": 1, "name": "Laser_Gun_Text/Exclaimation_Mark0003" },
+					{ "time": 1.0333, "name": "Laser_Gun_Text/Exclaimation_Mark0004" },
+					{ "time": 1.0667, "name": "Laser_Gun_Text/Exclaimation_Mark0005" },
+					{ "time": 1.1, "name": "Laser_Gun_Text/Exclaimation_Mark0006" },
+					{ "time": 1.1333, "name": "Laser_Gun_Text/Exclaimation_Mark0007" },
+					{ "time": 1.1667, "name": "Laser_Gun_Text/Exclaimation_Mark0008" },
+					{ "time": 1.2, "name": "Laser_Gun_Text/Exclaimation_Mark0009" },
+					{ "time": 1.2333, "name": "Laser_Gun_Text/Exclaimation_Mark0010" },
+					{ "time": 1.2667, "name": "Laser_Gun_Text/Exclaimation_Mark0011" }
+				]
+			},
+			"Laser_Gun_Text/FlareLine": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"Laser_Gun_Text/Laser": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"Laser_Gun_Text/LetterL0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Laser_Gun_Text/LetterL0001" },
+					{ "time": 0.0667, "name": "Laser_Gun_Text/LetterL0002" },
+					{ "time": 0.1, "name": "Laser_Gun_Text/LetterL0003" },
+					{ "time": 0.1333, "name": "Laser_Gun_Text/LetterL0004" },
+					{ "time": 0.1667, "name": "Laser_Gun_Text/LetterL0005" },
+					{ "time": 0.2, "name": "Laser_Gun_Text/LetterL0006" },
+					{ "time": 0.2333, "name": "Laser_Gun_Text/LetterL0007" },
+					{ "time": 0.2667, "name": "Laser_Gun_Text/LetterL0008" },
+					{ "time": 0.3, "name": "Laser_Gun_Text/LetterL0009" },
+					{ "time": 0.3333, "name": "Laser_Gun_Text/LetterL0010" },
+					{ "time": 0.3667, "name": "Laser_Gun_Text/LetterL0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_G0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6, "name": "Laser_Gun_Text/Letter_G0001" },
+					{ "time": 0.6333, "name": "Laser_Gun_Text/Letter_G0002" },
+					{ "time": 0.6667, "name": "Laser_Gun_Text/Letter_G0003" },
+					{ "time": 0.7, "name": "Laser_Gun_Text/Letter_G0004" },
+					{ "time": 0.7333, "name": "Laser_Gun_Text/Letter_G0005" },
+					{ "time": 0.7667, "name": "Laser_Gun_Text/Letter_G0006" },
+					{ "time": 0.8, "name": "Laser_Gun_Text/Letter_G0007" },
+					{ "time": 0.8333, "name": "Laser_Gun_Text/Letter_G0008" },
+					{ "time": 0.8667, "name": "Laser_Gun_Text/Letter_G0009" },
+					{ "time": 0.9, "name": "Laser_Gun_Text/Letter_G0010" },
+					{ "time": 0.9333, "name": "Laser_Gun_Text/Letter_G0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_U0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7, "name": "Laser_Gun_Text/Letter_U0001" },
+					{ "time": 0.7333, "name": "Laser_Gun_Text/Letter_U0002" },
+					{ "time": 0.7667, "name": "Laser_Gun_Text/Letter_U0003" },
+					{ "time": 0.8, "name": "Laser_Gun_Text/Letter_U0004" },
+					{ "time": 0.8333, "name": "Laser_Gun_Text/Letter_U0005" },
+					{ "time": 0.8667, "name": "Laser_Gun_Text/Letter_U0006" },
+					{ "time": 0.9, "name": "Laser_Gun_Text/Letter_U0007" },
+					{ "time": 0.9333, "name": "Laser_Gun_Text/Letter_U0008" },
+					{ "time": 0.9667, "name": "Laser_Gun_Text/Letter_U0009" },
+					{ "time": 1, "name": "Laser_Gun_Text/Letter_U0010" },
+					{ "time": 1.0333, "name": "Laser_Gun_Text/Letter_U0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_a0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Laser_Gun_Text/Letter_a0001" },
+					{ "time": 0.1667, "name": "Laser_Gun_Text/Letter_a0002" },
+					{ "time": 0.2, "name": "Laser_Gun_Text/Letter_a0003" },
+					{ "time": 0.2333, "name": "Laser_Gun_Text/Letter_a0004" },
+					{ "time": 0.2667, "name": "Laser_Gun_Text/Letter_a0005" },
+					{ "time": 0.3, "name": "Laser_Gun_Text/Letter_a0006" },
+					{ "time": 0.3333, "name": "Laser_Gun_Text/Letter_a0007" },
+					{ "time": 0.3667, "name": "Laser_Gun_Text/Letter_a0008" },
+					{ "time": 0.4, "name": "Laser_Gun_Text/Letter_a0009" },
+					{ "time": 0.4333, "name": "Laser_Gun_Text/Letter_a0010" },
+					{ "time": 0.4667, "name": "Laser_Gun_Text/Letter_a0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_e0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Laser_Gun_Text/Letter_e0001" },
+					{ "time": 0.3667, "name": "Laser_Gun_Text/Letter_e0002" },
+					{ "time": 0.4, "name": "Laser_Gun_Text/Letter_e0003" },
+					{ "time": 0.4333, "name": "Laser_Gun_Text/Letter_e0004" },
+					{ "time": 0.4667, "name": "Laser_Gun_Text/Letter_e0005" },
+					{ "time": 0.5, "name": "Laser_Gun_Text/Letter_e0006" },
+					{ "time": 0.5333, "name": "Laser_Gun_Text/Letter_e0007" },
+					{ "time": 0.5667, "name": "Laser_Gun_Text/Letter_e0008" },
+					{ "time": 0.6, "name": "Laser_Gun_Text/Letter_e0009" },
+					{ "time": 0.6333, "name": "Laser_Gun_Text/Letter_e0010" },
+					{ "time": 0.6667, "name": "Laser_Gun_Text/Letter_e0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_n0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "Laser_Gun_Text/Letter_n0001" },
+					{ "time": 0.8667, "name": "Laser_Gun_Text/Letter_n0002" },
+					{ "time": 0.9, "name": "Laser_Gun_Text/Letter_n0003" },
+					{ "time": 0.9333, "name": "Laser_Gun_Text/Letter_n0004" },
+					{ "time": 0.9667, "name": "Laser_Gun_Text/Letter_n0005" },
+					{ "time": 1, "name": "Laser_Gun_Text/Letter_n0006" },
+					{ "time": 1.0333, "name": "Laser_Gun_Text/Letter_n0007" },
+					{ "time": 1.0667, "name": "Laser_Gun_Text/Letter_n0008" },
+					{ "time": 1.1, "name": "Laser_Gun_Text/Letter_n0009" },
+					{ "time": 1.1333, "name": "Laser_Gun_Text/Letter_n0010" },
+					{ "time": 1.1667, "name": "Laser_Gun_Text/Letter_n0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_r0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4667, "name": "Laser_Gun_Text/Letter_r0001" },
+					{ "time": 0.5, "name": "Laser_Gun_Text/Letter_r0002" },
+					{ "time": 0.5333, "name": "Laser_Gun_Text/Letter_r0003" },
+					{ "time": 0.5667, "name": "Laser_Gun_Text/Letter_r0004" },
+					{ "time": 0.6, "name": "Laser_Gun_Text/Letter_r0005" },
+					{ "time": 0.6333, "name": "Laser_Gun_Text/Letter_r0006" },
+					{ "time": 0.6667, "name": "Laser_Gun_Text/Letter_r0007" },
+					{ "time": 0.7, "name": "Laser_Gun_Text/Letter_r0008" },
+					{ "time": 0.7333, "name": "Laser_Gun_Text/Letter_r0009" },
+					{ "time": 0.7667, "name": "Laser_Gun_Text/Letter_r0010" },
+					{ "time": 0.8, "name": "Laser_Gun_Text/Letter_r0011" }
+				]
+			},
+			"Laser_Gun_Text/Letter_s0011": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Laser_Gun_Text/Letter_s0001" },
+					{ "time": 0.2667, "name": "Laser_Gun_Text/Letter_s0002" },
+					{ "time": 0.3, "name": "Laser_Gun_Text/Letter_s0003" },
+					{ "time": 0.3333, "name": "Laser_Gun_Text/Letter_s0004" },
+					{ "time": 0.3667, "name": "Laser_Gun_Text/Letter_s0005" },
+					{ "time": 0.4, "name": "Laser_Gun_Text/Letter_s0006" },
+					{ "time": 0.4333, "name": "Laser_Gun_Text/Letter_s0007" },
+					{ "time": 0.4667, "name": "Laser_Gun_Text/Letter_s0008" },
+					{ "time": 0.5, "name": "Laser_Gun_Text/Letter_s0009" },
+					{ "time": 0.5333, "name": "Laser_Gun_Text/Letter_s0010" },
+					{ "time": 0.5667, "name": "Laser_Gun_Text/Letter_s0011" }
+				]
+			},
+			"Laser_Gun_Text/sparkle": {
+				"color": [
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.2667, "color": "ffffff00" }
+				]
+			},
+			"Laser_Gun_Text/starLight": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.2667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Laser_Gun_Text/Laser": {
+				"rotate": [
+					{ "time": 0, "angle": -1.2 },
+					{ "time": 0.0333, "angle": 0.51 },
+					{ "time": 0.0667, "angle": -2 },
+					{ "time": 0.1667, "angle": -12.19 },
+					{ "time": 0.3333, "angle": -32.71 },
+					{ "time": 0.6333, "angle": -33.62 },
+					{ "time": 1, "angle": -51.18 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0333, "x": 0.724, "y": 0.88 },
+					{ "time": 0.0667, "x": 0.641, "y": 0.76 },
+					{ "time": 0.1667, "x": 0.353, "y": 0.4 },
+					{ "time": 0.3333, "x": 0.3, "y": 0.3 },
+					{ "time": 0.6333, "x": 0.242, "y": 0.362 },
+					{ "time": 1, "x": 0.235, "y": 0.394 }
+				]
+			},
+			"Laser_Gun_Scale": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 2.567, "y": 1.867 },
+					{ "time": 0.3333, "x": 4.066, "y": 1.905 },
+					{ "time": 1, "x": 2.774, "y": 1.902 }
+				]
+			},
+			"Laser_Gun_Text/starLight": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.0667, "angle": 50, "curve": "stepped" },
+					{ "time": 0.1333, "angle": -50, "curve": "stepped" },
+					{ "time": 0.2, "angle": 170, "curve": "stepped" },
+					{ "time": 0.2667, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 50, "curve": "stepped" },
+					{ "time": 0.4, "angle": -50, "curve": "stepped" },
+					{ "time": 0.4667, "angle": 170, "curve": "stepped" },
+					{ "time": 0.5333, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6, "angle": 50, "curve": "stepped" },
+					{ "time": 0.6667, "angle": -50, "curve": "stepped" },
+					{ "time": 0.7333, "angle": 170, "curve": "stepped" },
+					{ "time": 0.8, "angle": 0, "curve": "stepped" },
+					{ "time": 0.8667, "angle": 50, "curve": "stepped" },
+					{ "time": 0.9333, "angle": -50, "curve": "stepped" },
+					{ "time": 1, "angle": 170 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2667, "x": 190.01, "y": 0 },
+					{ "time": 0.7333, "x": 558.62, "y": 0 },
+					{ "time": 1, "x": 747.36, "y": 0 }
+				]
+			},
+			"Laser_Gun_Text/FlareLine": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 235.57, "y": 0 },
+					{ "time": 1, "x": 742.72, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.923, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1.923, "y": 1 },
+					{ "time": 1.3333, "x": 1.567, "y": 0.907 }
+				]
+			},
+			"Laser_Gun_Text/sparkle": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.0667, "angle": 60, "curve": "stepped" },
+					{ "time": 0.1333, "angle": -60, "curve": "stepped" },
+					{ "time": 0.2, "angle": 170, "curve": "stepped" },
+					{ "time": 0.2667, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 60, "curve": "stepped" },
+					{ "time": 0.4, "angle": -60, "curve": "stepped" },
+					{ "time": 0.4667, "angle": 170, "curve": "stepped" },
+					{ "time": 0.5333, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6, "angle": 60, "curve": "stepped" },
+					{ "time": 0.6667, "angle": -60, "curve": "stepped" },
+					{ "time": 0.7333, "angle": 170, "curve": "stepped" },
+					{ "time": 0.8, "angle": 0, "curve": "stepped" },
+					{ "time": 0.8667, "angle": 60, "curve": "stepped" },
+					{ "time": 0.9333, "angle": -60, "curve": "stepped" },
+					{ "time": 1, "angle": 60, "curve": "stepped" },
+					{ "time": 1.0667, "angle": -60, "curve": "stepped" },
+					{ "time": 1.1333, "angle": 170, "curve": "stepped" },
+					{ "time": 1.2, "angle": 0, "curve": "stepped" },
+					{ "time": 1.2667, "angle": 60 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 225.28, "y": 0 },
+					{ "time": 1, "x": 719.84, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

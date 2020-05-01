@@ -1,0 +1,48 @@
+
+cotuong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popup
+  rotate: false
+  xy: 1, 1
+  size: 216, 239
+  orig: 218, 241
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 377, 100
+  size: 24, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+cotuong
+  rotate: false
+  xy: 377, 71
+  size: 119, 27
+  orig: 121, 29
+  offset: 1, 1
+  index: -1
+tienback
+  rotate: false
+  xy: 219, 1
+  size: 156, 129
+  orig: 158, 131
+  offset: 1, 1
+  index: -1
+banco1
+  rotate: false
+  xy: 219, 132
+  size: 159, 97
+  orig: 159, 97
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 377, 1
+  size: 116, 68
+  orig: 118, 70
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+caothap_spine_title.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cauvong
+  rotate: false
+  xy: 2, 166
+  size: 463, 76
+  orig: 463, 76
+  offset: 0, 0
+  index: -1
+len1
+  rotate: false
+  xy: 1448, 157
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+lightt
+  rotate: false
+  xy: 2, 2
+  size: 339, 162
+  orig: 339, 162
+  offset: 0, 0
+  index: -1
+sangdo
+  rotate: false
+  xy: 783, 91
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+sangsau
+  rotate: false
+  xy: 467, 80
+  size: 314, 162
+  orig: 314, 162
+  offset: 0, 0
+  index: -1
+sangvan
+  rotate: false
+  xy: 1553, 213
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+text-cao1
+  rotate: true
+  xy: 343, 12
+  size: 152, 60
+  orig: 152, 60
+  offset: 0, 0
+  index: -1
+textcao2
+  rotate: false
+  xy: 1247, 135
+  size: 199, 107
+  orig: 199, 107
+  offset: 0, 0
+  index: -1
+textthap1
+  rotate: false
+  xy: 783, 122
+  size: 230, 120
+  orig: 230, 120
+  offset: 0, 0
+  index: -1
+textthap2
+  rotate: false
+  xy: 1015, 122
+  size: 230, 120
+  orig: 230, 120
+  offset: 0, 0
+  index: -1
+xuong1
+  rotate: true
+  xy: 405, 90
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Bubbles_FX.png
+size: 32,32
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bubble
+  rotate: false
+  xy: 1, 1
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

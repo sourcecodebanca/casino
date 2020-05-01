@@ -1,0 +1,438 @@
+{
+  "ID": "fc92b30c-b35d-4c01-9789-7195e179a091",
+  "Version": "2.3.4",
+  "Name": "node_game_clear",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/clearBox.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -466.0,
+            "RightMargin": -466.0,
+            "TopMargin": -304.0,
+            "BottomMargin": -304.0,
+            "Tag": 2,
+            "ActionTag": -1643323254,
+            "Size": {
+              "X": 932.0,
+              "Y": 608.0
+            },
+            "Name": "clearBox_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 22,
+            "ButtonText": "Thoát",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/bt_quit_game_1.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/bt_quit_game_1.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/bt_quit_game_0.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 136,
+            "Scale9Height": 24,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -133.8731,
+              "Y": -258.5628
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -223.8731,
+            "RightMargin": 43.8731,
+            "TopMargin": 235.5628,
+            "BottomMargin": -281.5628,
+            "Tag": 3,
+            "ActionTag": -1676873761,
+            "Size": {
+              "X": 180.0,
+              "Y": 46.0
+            },
+            "Name": "btn_gameQuit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 22,
+            "ButtonText": "Quay lại",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/bt_return_game_1.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/bt_return_game_1.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/gameClear/bt_return_game_0.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 132,
+            "Scale9Height": 24,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 135.479,
+              "Y": -258.5628
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 45.479,
+            "RightMargin": -225.479,
+            "TopMargin": 235.5628,
+            "BottomMargin": -281.5628,
+            "Tag": 4,
+            "ActionTag": 2144853466,
+            "Size": {
+              "X": 180.0,
+              "Y": 46.0
+            },
+            "Name": "btn_gameBack",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "CharWidth": 21,
+            "CharHeight": 21,
+            "LabelText": "0",
+            "StartChar": "0",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/num_award.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -245.0992,
+              "Y": -187.8291
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -255.5992,
+            "RightMargin": 234.5992,
+            "TopMargin": 177.3291,
+            "BottomMargin": -198.3291,
+            "Tag": 10,
+            "ActionTag": 2067225001,
+            "Size": {
+              "X": 21.0,
+              "Y": 21.0
+            },
+            "Name": "Text_bulletConsum",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "CharWidth": 21,
+            "CharHeight": 21,
+            "LabelText": "0",
+            "StartChar": "0",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/num_award.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 17.9077,
+              "Y": -187.8295
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 7.4077,
+            "RightMargin": -28.4077,
+            "TopMargin": 177.3295,
+            "BottomMargin": -198.3295,
+            "Tag": 11,
+            "ActionTag": -178898071,
+            "Size": {
+              "X": 21.0,
+              "Y": 21.0
+            },
+            "Name": "Text_fishGet",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "CharWidth": 21,
+            "CharHeight": 21,
+            "LabelText": "0",
+            "StartChar": "0",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/num_award.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 341.9144,
+              "Y": -187.8293
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 331.4144,
+            "RightMargin": -352.4144,
+            "TopMargin": 177.3293,
+            "BottomMargin": -198.3293,
+            "Tag": 12,
+            "ActionTag": -218005445,
+            "Size": {
+              "X": 21.0,
+              "Y": 21.0
+            },
+            "Name": "Text_totalScore",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "v4.53-12.25.18t",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/2_9337_Bauhaus_.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 59
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -319.0455,
+              "Y": -286.9238
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -419.0455,
+            "RightMargin": 219.0455,
+            "TopMargin": 278.4238,
+            "BottomMargin": -295.4238,
+            "Tag": 136,
+            "ActionTag": 2025143972,
+            "Size": {
+              "X": 200.0,
+              "Y": 17.0
+            },
+            "Name": "lb_version",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../fonts/2_9337_Bauhaus_.ttf",
+        "../../../fonts/arialbd.ttf",
+        "../gameClear/bt_quit_game_0.png",
+        "../gameClear/bt_quit_game_1.png",
+        "../gameClear/bt_return_game_0.png",
+        "../gameClear/bt_return_game_1.png",
+        "../gameClear/clearBox.png",
+        "num_award.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

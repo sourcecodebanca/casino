@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ResourceMenuTab/Vip/bg_content_vip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,126},{243,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{243,182}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/btn_nhanthuong_dis.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{336,102},{121,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{121,33}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/btn_nhanthuongvip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,371},{269,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{269,54}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/btn_nhanthuongvip_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,427},{269,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{269,54}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/full1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,1},{123,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{123,17}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/full2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,483},{103,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,17}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/full3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,102},{123,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,17}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/lv1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,102},{123,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,17}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/lv2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{231,483},{103,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,17}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/lv3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,483},{123,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,17}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/tab_vip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{488,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{488,99}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/btn_nhanthuong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,126},{121,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{121,33}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Vip/btn_nhanthuong_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{251,102},{121,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{121,33}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistVip.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistVip.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

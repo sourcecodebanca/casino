@@ -1,0 +1,41 @@
+
+chuyenMenu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 9
+  rotate: false
+  xy: 135, 64
+  size: 48, 53
+  orig: 50, 55
+  offset: 1, 1
+  index: -1
+Rounded Rectangle 1 copy
+  rotate: false
+  xy: 1, 67
+  size: 132, 37
+  orig: 134, 39
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 241, 1
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 126, 1
+  size: 113, 61
+  orig: 115, 63
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1, 1
+  size: 123, 64
+  orig: 125, 66
+  offset: 1, 1
+  index: -1

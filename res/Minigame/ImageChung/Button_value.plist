@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Minigame/ImageChung/btn_value.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{40,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>Minigame/ImageChung/btn_value_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,43},{40,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>Minigame/ImageChung/btn_value_current.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,85},{40,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Button_value.png</string>
+			<key>realTextureFileName</key>
+			<string>Button_value.png</string>
+			<key>size</key>
+			<string>{42,126}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>42</integer>
+			<key>height</key>
+			<integer>126</integer>
+		</dict>
+	</dict>
+</plist>

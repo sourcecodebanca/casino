@@ -1,0 +1,193 @@
+{
+  "skeleton": {
+    "hash": " ",
+    "width": 148,
+    "height": 147,
+    "name": "Armature",
+    "fps": 24,
+    "spine": "3.6.53",
+    "images": "../images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root"
+    },
+    {
+      "name": "bone1",
+      "parent": "root"
+    },
+    {
+      "name": "bone2",
+      "parent": "root"
+    },
+    {
+      "name": "bone3",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "Layer 1",
+      "bone": "bone",
+      "attachment": "Layer 1"
+    },
+    {
+      "name": "Layer 2",
+      "bone": "bone2",
+      "attachment": "Layer 2"
+    },
+    {
+      "name": "Layer 3",
+      "bone": "bone1",
+      "attachment": "Layer 3"
+    },
+    {
+      "name": "Layer 4",
+      "bone": "bone3",
+      "attachment": "Layer 4"
+    }
+  ],
+  "skins": {
+    "default": {
+      "Layer 2": {
+        "Layer 2": {
+          "name": "Layer 2",
+          "width": 91,
+          "height": 88,
+          "x": 1.12,
+          "y": 1.1
+        }
+      },
+      "Layer 3": {
+        "Layer 3": {
+          "name": "Layer 3",
+          "width": 123,
+          "height": 23,
+          "y": -37.78
+        }
+      },
+      "Layer 1": {
+        "Layer 1": {
+          "name": "Layer 1",
+          "width": 148,
+          "height": 146,
+          "x": 0.04
+        }
+      },
+      "Layer 4": {
+        "Layer 4": {
+          "name": "Layer 4",
+          "width": 23,
+          "height": 20,
+          "x": -39.8,
+          "y": -16.97
+        }
+      }
+    }
+  },
+  "animations": {
+    "animtion": {
+      "bones": {
+        "bone": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 179
+            },
+            {
+              "time": 0.8333,
+              "angle": 0
+            },
+            {
+              "time": 1.6666,
+              "angle": -179
+            }
+          ]
+        },
+        "bone3": {
+          "translate": [
+            {
+              "time": 0,
+              "y": 2.74
+            },
+            {
+              "time": 0.8333,
+              "y": -0.87
+            },
+            {
+              "time": 1.6666,
+              "y": 3.55
+            }
+          ]
+        },
+        "bone2": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 0.8333,
+              "y": 5.38
+            },
+            {
+              "time": 1.6666
+            }
+          ],
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.625,
+              "angle": -5
+            },
+            {
+              "time": 1.0417,
+              "angle": 5
+            },
+            {
+              "time": 1.6667,
+              "angle": 0
+            }
+          ]
+        },
+        "bone1": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 0.8333,
+              "y": -6
+            },
+            {
+              "time": 1.6666
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.8333,
+              "x": 1.05,
+              "y": 1.05
+            },
+            {
+              "time": 1.6666,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

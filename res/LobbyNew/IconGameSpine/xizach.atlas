@@ -1,0 +1,55 @@
+
+xizach.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XI ZACH
+  rotate: false
+  xy: 222, 22
+  size: 91, 24
+  orig: 91, 24
+  offset: 0, 0
+  index: -1
+chipnbai
+  rotate: false
+  xy: 422, 121
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+chipzoom
+  rotate: false
+  xy: 570, 149
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+chipzoom2
+  rotate: true
+  xy: 422, 69
+  size: 50, 105
+  orig: 50, 105
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 570, 121
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+zoomzoom
+  rotate: false
+  xy: 222, 48
+  size: 198, 195
+  orig: 198, 195
+  offset: 0, 0
+  index: -1

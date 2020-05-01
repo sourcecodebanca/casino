@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,327},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,653},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{56,1},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{56,327},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{56,653},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,1},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,327},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,653},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{166,1},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>Minigame/ResMiniPoker/CanGat/Cangat9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{166,327},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CanGatAnimation.png</string>
+			<key>realTextureFileName</key>
+			<string>CanGatAnimation.png</string>
+			<key>size</key>
+			<string>{220,978}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>978</integer>
+		</dict>
+	</dict>
+</plist>

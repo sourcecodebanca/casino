@@ -1,0 +1,62 @@
+
+maubinhtinhat.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popup
+  rotate: false
+  xy: 1, 1
+  size: 216, 239
+  orig: 218, 241
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 337, 466
+  size: 24, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+trongsett
+  rotate: false
+  xy: 1, 242
+  size: 191, 175
+  orig: 193, 177
+  offset: 1, 1
+  index: -1
+baiduoi
+  rotate: false
+  xy: 1, 419
+  size: 174, 84
+  orig: 176, 86
+  offset: 1, 1
+  index: -1
+tienn
+  rotate: false
+  xy: 194, 242
+  size: 177, 140
+  orig: 179, 142
+  offset: 1, 1
+  index: -1
+boom
+  rotate: false
+  xy: 194, 384
+  size: 141, 127
+  orig: 143, 129
+  offset: 1, 1
+  index: -1
+baitren
+  rotate: false
+  xy: 337, 384
+  size: 74, 47
+  orig: 76, 49
+  offset: 1, 1
+  index: -1
+maubinh
+  rotate: false
+  xy: 337, 433
+  size: 107, 31
+  orig: 109, 33
+  offset: 1, 1
+  index: -1

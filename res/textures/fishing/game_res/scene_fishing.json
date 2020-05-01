@@ -1,0 +1,28 @@
+{
+  "ID": "f1727d00-651b-41e0-9807-9c84b60991d1",
+  "Version": "2.3.4",
+  "Name": "scene_fishing",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 131,
+        "Size": {
+          "X": 1920.0,
+          "Y": 1080.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

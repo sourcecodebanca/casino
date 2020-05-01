@@ -1,0 +1,48 @@
+
+coup.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 613, 110
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+coup
+  rotate: false
+  xy: 222, 10
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 441, 58
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+tronset
+  rotate: false
+  xy: 441, 87
+  size: 170, 156
+  orig: 170, 156
+  offset: 0, 0
+  index: -1
+tronset2
+  rotate: false
+  xy: 222, 41
+  size: 217, 202
+  orig: 217, 202
+  offset: 0, 0
+  index: -1

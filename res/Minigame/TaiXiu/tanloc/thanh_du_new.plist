@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>thanhdu_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,457},{41,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,1},{41,42}}</string>
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+
+			<key>thanhdu_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,457},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,44}}</string>
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+
+			<key>thanhdu_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{134,457},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{34,34}}</string>
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+
+			<key>thanhdu_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{270,301}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,5},{270,301}}</string>
+				<key>sourceSize</key>
+				<string>{274,307}</string>
+			</dict>
+
+			<key>thanhdu_button_ngay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,306},{181,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{181,71}}</string>
+				<key>sourceSize</key>
+				<string>{181,71}</string>
+			</dict>
+
+			<key>thanhdu_next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,457},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{34,34}}</string>
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+
+			<key>thanhdu_top_thang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,382},{178,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{178,37}}</string>
+				<key>sourceSize</key>
+				<string>{178,39}</string>
+			</dict>
+
+			<key>thanhdu_top_thua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,424},{156,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{156,28}}</string>
+				<key>sourceSize</key>
+				<string>{156,30}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,512}</string>
+			<key>textureFileName</key>
+			<string>thanh_du_new.png</string>
+			</dict>
+		</dict>
+</plist>

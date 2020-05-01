@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/CardGame/CommonResource/EndGame/bg_item_engame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{809,1},{852,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{852,77}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/btn_xacnhan_endgame_xeng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,1},{187,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{187,57}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/khung_cong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{933,392},{153,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{153,43}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/khung_thang_xeng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,1},{218,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{218,62}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/khung_thoi_tu_quy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,382},{183,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{183,43}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/khung_thua_xeng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,221},{159,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{159,54}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/khung_toi_trang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,190},{200,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,43}</string>
+			</dict>
+			<key>res/CardGame/CommonResource/EndGame/nen_effect_vang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{806,378}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{806,378}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EndGamePlist.png</string>
+			<key>realTextureFileName</key>
+			<string>EndGamePlist.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ResourceMenuTab/bg_listhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{252,435}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{252,435}</string>
+			</dict>
+			<key>res/ResourceMenuTab/btnNap.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{414,62},{62,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,37}</string>
+			</dict>
+			<key>res/ResourceMenuTab/icon_khobau.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{414,1},{62,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,59}</string>
+			</dict>
+			<key>res/ResourceMenuTab/iconVin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{224,438},{63,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,62}</string>
+			</dict>
+			<key>res/ResourceMenuTab/iconXu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,1},{63,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,62}</string>
+			</dict>
+			<key>res/ResourceMenuTab/img_listhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{255,1},{92,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,91}</string>
+			</dict>
+			<key>res/ResourceMenuTab/NO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{162,475},{29,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,29}</string>
+			</dict>
+			<key>res/ResourceMenuTab/sound.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,475},{39,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,33}</string>
+			</dict>
+			<key>res/ResourceMenuTab/star_allhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,475},{29,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,29}</string>
+			</dict>
+			<key>res/ResourceMenuTab/titleJackpot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,438},{205,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{205,35}</string>
+			</dict>
+			<key>res/ResourceMenuTab/xeng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,475},{56,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,36}</string>
+			</dict>
+			<key>res/ResourceMenuTab/xu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{59,475},{60,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,32}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistResourceMenuTab.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistResourceMenuTab.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

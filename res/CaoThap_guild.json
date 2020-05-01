@@ -1,0 +1,429 @@
+{
+  "ID": "f4313f1a-ba5e-497f-9ad3-0b683632178d",
+  "Version": "2.3.4",
+  "Name": "CaoThap_guild",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1487,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 27,
+            "Scale9Width": 667,
+            "Scale9Height": 443,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 628.6391,
+              "Y": 356.7992
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4911,
+              "Y": 0.4956
+            },
+            "PreSize": {
+              "X": 0.5508,
+              "Y": 0.6875
+            },
+            "LeftMargin": 276.1391,
+            "RightMargin": 298.8609,
+            "TopMargin": 115.7008,
+            "BottomMargin": 109.2992,
+            "Tag": 1495,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 353.414,
+                  "Y": 471.77
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5013,
+                  "Y": 0.9531
+                },
+                "PreSize": {
+                  "X": 0.678,
+                  "Y": 0.1253
+                },
+                "LeftMargin": 114.414,
+                "RightMargin": 112.586,
+                "TopMargin": -7.77,
+                "BottomMargin": 440.77,
+                "Tag": 1494,
+                "ActionTag": -116477988,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "bgtitile",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 38,
+                "Scale9Height": 37,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 672.6547,
+                  "Y": 462.9066
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9541,
+                  "Y": 0.9352
+                },
+                "PreSize": {
+                  "X": 0.0823,
+                  "Y": 0.1152
+                },
+                "LeftMargin": 643.6547,
+                "RightMargin": 3.3453,
+                "TopMargin": 3.5934,
+                "BottomMargin": 434.4066,
+                "Tag": 1490,
+                "ActionTag": 1778891981,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btnCloseGuildCT",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 34,
+                "LabelText": "HƯỚNG DẪN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/VNF-Oswald-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 346.8276,
+                  "Y": 465.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.492,
+                  "Y": 0.9463
+                },
+                "PreSize": {
+                  "X": 0.278,
+                  "Y": 0.0808
+                },
+                "LeftMargin": 248.8276,
+                "RightMargin": 260.1724,
+                "TopMargin": 6.6,
+                "BottomMargin": 448.4,
+                "Tag": 1491,
+                "ActionTag": -422676176,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 80.0
+                },
+                "Name": "title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 14.3941,
+                  "Y": 425.1293
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0204,
+                  "Y": 0.8588
+                },
+                "PreSize": {
+                  "X": 0.9617,
+                  "Y": 0.8323
+                },
+                "LeftMargin": 14.3941,
+                "RightMargin": 12.6059,
+                "TopMargin": 69.8707,
+                "BottomMargin": 13.1293,
+                "Tag": 4493,
+                "ActionTag": -552115340,
+                "Size": {
+                  "X": 678.0,
+                  "Y": 412.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 673,
+                  "Height": 568
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 181,
+                  "G": 242,
+                  "B": 247
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 354.034,
+                  "Y": 421.9215
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5022,
+                  "Y": 0.8524
+                },
+                "PreSize": {
+                  "X": 0.9546,
+                  "Y": 0.8202
+                },
+                "LeftMargin": 17.534,
+                "RightMargin": 14.466,
+                "TopMargin": 73.0785,
+                "BottomMargin": 15.9215,
+                "Tag": 1492,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "GIỚI THIỆU\n\n     Cao Thấp là một minigame đơn giản với tỷ lệ thắng lớn, cơ hội sở hữu quỹ thưởng khủng sẽ mang lại cho người chơi những trải nghiệm cực thú vị.\n     Giao diện game sẽ xuất hiện 1 trong 52 lá bài, người chơi sẽ dự đoán lá bài tiếp theo sẽ   lớn hơn hay nhỏ hơn lá bài hiện tại.\n\nLUẬT CHƠI\n\n     Bước 1: Chọn mốc Gold/Xu muốn dự đoán.\n     Bước 2: Bấm \"Play\" để tham gia chơi ngay.\n     Bắt đầu chơi, hệ thống sẽ ngẫu nhiên xuất hiện 1 lá bài để người chơi đưa ra lựa chọn của mình.\n     Bước 3: Dự đoán lá bài tiếp theo lớn hơn hay nhỏ hơn lá bài đã xuất hiện. Mỗi lượt dự đoán có thời gian tối đa là 2 phút. Hết 2 phút người chơi không đưa ra dự đoán tiếp theo thì hệ thống sẽ tự động chuyển sang lượt mới.\n     Trường hợp đặc biệt nếu người chơi sau khi ấn Play mà không dự đoán kết quả sau 2 phút thì hệ thống sẽ lựa chọn ngẫu nhiên 1 đáp án cho người chơi.\n     Bước 4: Theo dõi kết quả để biết kết quả thắng hay thua.\n     Trường hợp xuất hiện lá bài tiếp theo cùng giá trị với lá bài hiện tại, hệ thống sẽ trích 10% số tiền đặt của người chơi vào Jackpot và lượt chơi tiếp tục.\n\nCƠ CHẾ NỔ QUỸ THƯỞNG\n\n     Khi người chơi thắng liên tiếp trong cùng một phiên chơi, và sở hữu bất kỳ 3 trong 4 quân A thì quỹ thưởng sẽ nổ. Khi đó, người chơi sẽ nhận 50% quỹ thưởng.\n\n     Tham gia ngay CAO THẤP để rinh hàng triệu Gold nào.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Bottom",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 8.7312,
+                      "Y": 287.4064
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 232,
+                      "G": 218,
+                      "B": 173
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.013,
+                      "Y": 0.506
+                    },
+                    "PreSize": {
+                      "X": 0.9896,
+                      "Y": 0.9701
+                    },
+                    "LeftMargin": 8.7312,
+                    "RightMargin": -1.7312,
+                    "TopMargin": 5.0936,
+                    "BottomMargin": 11.9064,
+                    "Tag": 1493,
+                    "ActionTag": -2049887731,
+                    "Size": {
+                      "X": 666.0,
+                      "Y": 551.0
+                    },
+                    "Name": "nd",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1595435817,
+                "Size": {
+                  "X": 673.0,
+                  "Y": 406.0
+                },
+                "Name": "ScrollView",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": 100478353,
+            "Size": {
+              "X": 705.0,
+              "Y": 495.0
+            },
+            "Name": "pnGuildCT",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/tahoma.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/lopmo.png",
+        "Minigame/ImageChung/Title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

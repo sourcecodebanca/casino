@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/MenuSlots/hieu_ung/no_hu/background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,557},{279,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{279,213}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/no_hu/glow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,287},{268,268}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{268,268}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/no_hu/no_hu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{271,477},{169,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,59}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/no_hu/sao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{271,287},{188,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{188,173}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/thang_lon/background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,838},{301,157}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{301,157}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/thang_lon/glow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/thang_lon/sao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,557},{199,183}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{199,183}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/thang_lon/thang_lon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,758},{245,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,46}</string>
+			</dict>
+			<key>res/MenuSlots/hieu_ung/shadow_hu_thang_lon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{304,806},{195,183}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{195,183}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistHieuUng.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistHieuUng.png</string>
+			<key>size</key>
+			<string>{488,1002}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>488</integer>
+			<key>height</key>
+			<integer>1002</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,76 @@
+
+Text_Electric_Gun.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Electric_Gun_text_export/Electric_Gun_text_export1
+  rotate: false
+  xy: 899, 94
+  size: 124, 210
+  orig: 455, 240
+  offset: 161, 16
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export10
+  rotate: false
+  xy: 457, 1
+  size: 454, 74
+  orig: 455, 240
+  offset: 0, 42
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export2
+  rotate: false
+  xy: 1, 271
+  size: 440, 207
+  orig: 455, 240
+  offset: 7, 12
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export3
+  rotate: false
+  xy: 1, 84
+  size: 440, 185
+  orig: 455, 240
+  offset: 7, 14
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export4
+  rotate: false
+  xy: 443, 384
+  size: 454, 94
+  orig: 455, 240
+  offset: 0, 22
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export5
+  rotate: false
+  xy: 443, 306
+  size: 455, 76
+  orig: 455, 240
+  offset: 0, 40
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export6
+  rotate: false
+  xy: 443, 229
+  size: 454, 75
+  orig: 455, 240
+  offset: 0, 41
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export7
+  rotate: false
+  xy: 443, 153
+  size: 454, 74
+  orig: 455, 240
+  offset: 0, 42
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export8
+  rotate: false
+  xy: 443, 77
+  size: 454, 74
+  orig: 455, 240
+  offset: 0, 42
+  index: -1
+Electric_Gun_text_export/Electric_Gun_text_export9
+  rotate: false
+  xy: 1, 1
+  size: 454, 74
+  orig: 455, 240
+  offset: 0, 42
+  index: -1

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>SeaWave_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1489,0},{475,900}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{475,900}}</string>
+				<key>sourceSize</key>
+				<string>{512,900}</string>
+			</dict>
+
+			<key>SeaWave_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{512,0},{497,900}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,0},{497,900}}</string>
+				<key>sourceSize</key>
+				<string>{512,900}</string>
+			</dict>
+
+			<key>SeaWave_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{511,900}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{511,900}}</string>
+				<key>sourceSize</key>
+				<string>{512,900}</string>
+			</dict>
+
+			<key>SeaWave_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1010,0},{478,900}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{478,900}}</string>
+				<key>sourceSize</key>
+				<string>{512,900}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>seawave.png</string>
+			</dict>
+		</dict>
+</plist>

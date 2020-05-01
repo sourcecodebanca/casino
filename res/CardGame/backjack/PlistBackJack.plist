@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/CardGame/backjack/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{173,175}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,175}</string>
+			</dict>
+			<key>res/CardGame/backjack/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,178},{151,153}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{151,153}</string>
+			</dict>
+			<key>res/CardGame/backjack/bangten.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{139,465},{130,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,43}</string>
+			</dict>
+			<key>res/CardGame/backjack/bg_dark.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{154,178},{196,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{196,48}</string>
+			</dict>
+			<key>res/CardGame/backjack/bg_diem.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{154,228},{196,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{196,48}</string>
+			</dict>
+			<key>res/CardGame/backjack/bg_xi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,333},{130,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,86}</string>
+			</dict>
+			<key>res/CardGame/backjack/btnxettatcadisable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,469},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
+			<key>res/CardGame/backjack/btnxettatcanormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{154,278},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
+			<key>res/CardGame/backjack/btnxettatcapress.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,317},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
+			<key>res/CardGame/backjack/danbaidisable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,317},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
+			<key>res/CardGame/backjack/danbainormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{271,455},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
+			<key>res/CardGame/backjack/danbaipress.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{279,317},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
+			<key>res/CardGame/backjack/iconChuong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{409,425},{37,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{37,36}</string>
+			</dict>
+			<key>res/CardGame/backjack/iconXiZach.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,333},{110,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,134}</string>
+			</dict>
+			<key>res/CardGame/backjack/xetbaidis.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{292,278},{91,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,25}</string>
+			</dict>
+			<key>res/CardGame/backjack/xetbainormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{318,305},{91,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,25}</string>
+			</dict>
+			<key>res/CardGame/backjack/xetBaiPress.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{318,398},{91,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,25}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistBackJack.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistBackJack.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{103,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{206,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{309,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{412,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{515,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{618,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{721,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{824,0},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,102},{103,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Start_VQV.png</string>
+			<key>realTextureFileName</key>
+			<string>Start_VQV.png</string>
+			<key>size</key>
+			<string>{927,204}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>927</integer>
+			<key>height</key>
+			<integer>204</integer>
+		</dict>
+	</dict>
+</plist>

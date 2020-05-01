@@ -1,0 +1,938 @@
+{
+  "ID": "6f6fd981-c3f6-4417-a5bc-f95e460ae8a5",
+  "Version": "2.3.4",
+  "Name": "Slot3hang_theleX2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 413,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 232,
+            "Scale9OriginY": 163,
+            "Scale9Width": 243,
+            "Scale9Height": 171,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.42,
+              "Y": 340.74
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4988,
+              "Y": 0.4732
+            },
+            "PreSize": {
+              "X": 0.5523,
+              "Y": 0.6903
+            },
+            "LeftMargin": 284.92,
+            "RightMargin": 288.08,
+            "TopMargin": 130.76,
+            "BottomMargin": 92.24,
+            "Tag": 414,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 351.8027,
+                  "Y": 474.3
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4976,
+                  "Y": 0.9543
+                },
+                "PreSize": {
+                  "X": 0.6761,
+                  "Y": 0.1247
+                },
+                "LeftMargin": 112.8027,
+                "RightMargin": 116.1973,
+                "TopMargin": -8.3,
+                "BottomMargin": 443.3,
+                "Tag": 415,
+                "ActionTag": 1763091888,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "Bg_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "X2 CỰC NGẦU",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/VNF-Oswald-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 351.8046,
+                  "Y": 473.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4976,
+                  "Y": 0.9525
+                },
+                "PreSize": {
+                  "X": 0.2702,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 256.3046,
+                "RightMargin": 259.6954,
+                "TopMargin": 6.1,
+                "BottomMargin": 455.9,
+                "Tag": 416,
+                "ActionTag": 259486358,
+                "Size": {
+                  "X": 191.0,
+                  "Y": 80.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 672.8959,
+                  "Y": 463.73
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9518,
+                  "Y": 0.9331
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.1147
+                },
+                "LeftMargin": 643.8959,
+                "RightMargin": 5.1041,
+                "TopMargin": 4.77,
+                "BottomMargin": 435.23,
+                "Tag": 417,
+                "ActionTag": 2048621246,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btnCloseHelpSlot",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 11.2197,
+                  "Y": 438.0493
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0159,
+                  "Y": 0.8814
+                },
+                "PreSize": {
+                  "X": 0.9675,
+                  "Y": 0.8612
+                },
+                "LeftMargin": 11.2197,
+                "RightMargin": 11.7803,
+                "TopMargin": 58.9507,
+                "BottomMargin": 10.0493,
+                "Tag": 418,
+                "ActionTag": 201584428,
+                "Size": {
+                  "X": 684.0,
+                  "Y": 428.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Bắt đầu từ 10h30 thứ ba hàng tuần, để tri ân người chơi, minigame Poke Go sẽ xuất hiện 10 hũ phòng 100 và 1 hũ phòng 1.000 được                                  ở thời điểm nổ (không tính trả thưởng payline).",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.0,
+                  "Y": 340.8276
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0438,
+                  "Y": 0.7059
+                },
+                "PreSize": {
+                  "X": 0.9123,
+                  "Y": 0.0805
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 126.1724,
+                "BottomMargin": 330.8276,
+                "Tag": 532,
+                "ActionTag": 369937051,
+                "Size": {
+                  "X": 645.0,
+                  "Y": 60.0
+                },
+                "Name": "Text_29_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "của minigame Poke Go",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 419.4263,
+                  "Y": 385.8188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5932,
+                  "Y": 0.7763
+                },
+                "PreSize": {
+                  "X": 0.2362,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 335.9263,
+                "RightMargin": 204.0737,
+                "TopMargin": 101.6812,
+                "BottomMargin": 376.3188,
+                "Tag": 531,
+                "ActionTag": -593314309,
+                "Size": {
+                  "X": 167.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_29_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "Chơi game Poke Go X2 cực ngầu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 211.5648,
+                  "Y": 385.8188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2992,
+                  "Y": 0.7763
+                },
+                "PreSize": {
+                  "X": 0.3296,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 95.0648,
+                "RightMargin": 378.9352,
+                "TopMargin": 101.6812,
+                "BottomMargin": 376.3188,
+                "Tag": 530,
+                "ActionTag": 1845919401,
+                "Size": {
+                  "X": 233.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_30",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "Sự kiện: ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.0,
+                  "Y": 385.8188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0438,
+                  "Y": 0.7763
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 618.0,
+                "TopMargin": 101.6812,
+                "BottomMargin": 376.3188,
+                "Tag": 529,
+                "ActionTag": 459638790,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_29",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "X2(nhân đôi) giá trị hũ ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.1456,
+                  "Y": 342.0961
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4783,
+                  "Y": 0.6883
+                },
+                "PreSize": {
+                  "X": 0.2263,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 338.1456,
+                "RightMargin": 208.8544,
+                "TopMargin": 145.4039,
+                "BottomMargin": 332.5961,
+                "Tag": 533,
+                "ActionTag": -2124578142,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_30_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 173.7668,
+                  "Y": 321.3002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2458,
+                  "Y": 0.6465
+                },
+                "PreSize": {
+                  "X": 0.4031,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 31.2668,
+                "RightMargin": 390.7332,
+                "TopMargin": 166.1998,
+                "BottomMargin": 311.8002,
+                "Tag": 534,
+                "ActionTag": 572343860,
+                "Size": {
+                  "X": 285.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_29_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "Ví dụ:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.0,
+                  "Y": 297.0025
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0438,
+                  "Y": 0.5976
+                },
+                "PreSize": {
+                  "X": 0.0594,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 634.0,
+                "TopMargin": 190.4975,
+                "BottomMargin": 287.5025,
+                "Tag": 535,
+                "ActionTag": 1071507620,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_30_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Tại thời điểm ăn hũ X2, giá trị hũ là 6.000.000 Gold, trả thưởng payline là 100.000 Gold thì giải thưởng người chơi nhận được là: 6.000.000 x 2 + 100.000 = 12.100.000 Gold",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.0,
+                  "Y": 266.4766
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0438,
+                  "Y": 0.5362
+                },
+                "PreSize": {
+                  "X": 0.9123,
+                  "Y": 0.0805
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 210.5234,
+                "BottomMargin": 246.4766,
+                "Tag": 536,
+                "ActionTag": -1449153130,
+                "Size": {
+                  "X": 645.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_29_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "Chú ý:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.0001,
+                  "Y": 234.6828
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0438,
+                  "Y": 0.4722
+                },
+                "PreSize": {
+                  "X": 0.0651,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 31.0001,
+                "RightMargin": 629.9999,
+                "TopMargin": 252.8172,
+                "BottomMargin": 225.1828,
+                "Tag": 537,
+                "ActionTag": -1721368605,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_29_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "-\tPhòng 100: hũ được X2 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X2 trước đó(vd: 1,5,9…).\n-\tPhòng 1.000: hũ thứ ba sẽ được X2 tính từ thời điểm khung giờ vàng.\n-\tGiờ vàng X2 thứ ba hàng tuần sẽ bắt đầu vào lúc 12h30 và kết thúc khi trao \nthưởng đủ 10 hũ X2 phòng 100 và 1 hũ X2 phòng 1.000\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.0,
+                  "Y": 161.6951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0424,
+                  "Y": 0.3253
+                },
+                "PreSize": {
+                  "X": 0.9123,
+                  "Y": 0.2414
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 32.0,
+                "TopMargin": 275.3049,
+                "BottomMargin": 101.6951,
+                "Tag": 538,
+                "ActionTag": -35521985,
+                "Size": {
+                  "X": 645.0,
+                  "Y": 120.0
+                },
+                "Name": "Text_29_2_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 531.401,
+                  "Y": 341.7254
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7516,
+                  "Y": 0.6876
+                },
+                "PreSize": {
+                  "X": 0.0594,
+                  "Y": 0.0382
+                },
+                "LeftMargin": 510.401,
+                "RightMargin": 154.599,
+                "TopMargin": 145.7746,
+                "BottomMargin": 332.2254,
+                "Tag": 540,
+                "ActionTag": -1673547782,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_29_0_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -341022271,
+            "Size": {
+              "X": 707.0,
+              "Y": 497.0
+            },
+            "Name": "pnHelpSlot",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/tahoma.ttf",
+        "Font/tahoma.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/lopmo.png",
+        "Minigame/ImageChung/Title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

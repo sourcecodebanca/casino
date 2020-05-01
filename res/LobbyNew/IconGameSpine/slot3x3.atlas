@@ -1,0 +1,34 @@
+
+slot3x3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SLOT 3X3
+  rotate: false
+  xy: 222, 40
+  size: 98, 20
+  orig: 98, 20
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 406, 216
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+slot_icon
+  rotate: false
+  xy: 222, 62
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1142 @@
+{
+  "ID": "ba875fdb-1909-4cc7-9e99-feeda1d3c35d",
+  "Version": "2.3.4",
+  "Name": "scene_table_fishing",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 160,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": 1251824442,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 330.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 325.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 320.0,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 325.0,
+                "FrameIndex": 60,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 330.0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 335.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 340.0,
+                "FrameIndex": 120,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 335.0,
+                "FrameIndex": 140,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 330.0,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -703938580,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 178.0004,
+                "Y": -16.4253,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -11177277,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 640.0,
+                "Y": 370.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 375.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 638.0,
+                "Y": 380.0,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 375.0,
+                "FrameIndex": 60,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 370.0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 365.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 360.0,
+                "FrameIndex": 120,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 365.0,
+                "FrameIndex": 140,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 640.0,
+                "Y": 370.0,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 130772351,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 1100.0,
+                "Y": 330.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 325.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 320.0,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 325.0,
+                "FrameIndex": 60,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 330.0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 335.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 340.0,
+                "FrameIndex": 120,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 335.0,
+                "FrameIndex": 140,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1100.0,
+                "Y": 330.0,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/fish_bg.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 633,
+            "Scale9OriginY": 356,
+            "Scale9Width": 654,
+            "Scale9Height": 368,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 57,
+            "ActionTag": -1350256281,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 145.2079,
+              "Y": 69.1825
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1134,
+              "Y": 0.0961
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 145.2079,
+            "RightMargin": 1134.7921,
+            "TopMargin": 650.8175,
+            "BottomMargin": 69.1825,
+            "Tag": 47,
+            "ActionTag": 320823770,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_bb_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1170.6102,
+              "Y": 78.6132
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.9145,
+              "Y": 0.1092
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1170.6102,
+            "RightMargin": 109.3898,
+            "TopMargin": 641.3868,
+            "BottomMargin": 78.6132,
+            "Tag": 48,
+            "ActionTag": -1690401548,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_bb_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/MenuBackground2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 633,
+            "Scale9OriginY": 224,
+            "Scale9Width": 654,
+            "Scale9Height": 232,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.5556
+            },
+            "TopMargin": 320.0,
+            "Tag": 38,
+            "ActionTag": 1448460666,
+            "Size": {
+              "X": 1280.0,
+              "Y": 400.0
+            },
+            "Name": "MenuBackground2_7",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_THOAT.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_THOAT.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_THOAT.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 44,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1185.9838,
+              "Y": 567.3187
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9265,
+              "Y": 0.7879
+            },
+            "PreSize": {
+              "X": 0.0578,
+              "Y": 0.1042
+            },
+            "LeftMargin": 1148.9838,
+            "RightMargin": 57.0162,
+            "TopMargin": 115.1813,
+            "BottomMargin": 529.8187,
+            "Tag": 135,
+            "ActionTag": -587649917,
+            "Size": {
+              "X": 74.0,
+              "Y": 75.0
+            },
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_MINIGAME.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_MINIGAME.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_MINIGAME.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 247,
+            "Scale9Height": 263,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 180.0,
+              "Y": 330.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1406,
+              "Y": 0.4583
+            },
+            "PreSize": {
+              "X": 0.2164,
+              "Y": 0.3958
+            },
+            "LeftMargin": 41.5,
+            "RightMargin": 961.5,
+            "TopMargin": 247.5,
+            "BottomMargin": 187.5,
+            "ActionTag": 1251824442,
+            "Size": {
+              "X": 277.0,
+              "Y": 285.0
+            },
+            "Name": "btnChoiThu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BG_USERGOLD.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 230.2497,
+              "Y": 565.604
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1799,
+              "Y": 0.7856
+            },
+            "PreSize": {
+              "X": 0.1656,
+              "Y": 0.1208
+            },
+            "LeftMargin": 124.2497,
+            "RightMargin": 943.7503,
+            "TopMargin": 110.896,
+            "BottomMargin": 522.104,
+            "Tag": 50,
+            "ActionTag": -869672490,
+            "Size": {
+              "X": 212.0,
+              "Y": 87.0
+            },
+            "VisibleForFrame": false,
+            "Name": "IMG_BG_USERGOLD_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/Roboto-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 231.5056,
+              "Y": 584.6751
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1809,
+              "Y": 0.812
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.0361
+            },
+            "LeftMargin": 131.5056,
+            "RightMargin": 948.4944,
+            "TopMargin": 122.3249,
+            "BottomMargin": 571.6751,
+            "Tag": 51,
+            "ActionTag": 1767614607,
+            "Size": {
+              "X": 200.0,
+              "Y": 26.0
+            },
+            "VisibleForFrame": false,
+            "Name": "lbName",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/Roboto-Bold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 231.5056,
+              "Y": 543.9646
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1809,
+              "Y": 0.7555
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.0361
+            },
+            "LeftMargin": 131.5056,
+            "RightMargin": 948.4944,
+            "TopMargin": 163.0354,
+            "BottomMargin": 530.9646,
+            "Tag": 52,
+            "ActionTag": -1766827100,
+            "Size": {
+              "X": 200.0,
+              "Y": 26.0
+            },
+            "VisibleForFrame": false,
+            "Name": "lbGold",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/BackgroundAvatarGun.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 22,
+            "Scale9OriginY": 22,
+            "Scale9Width": 83,
+            "Scale9Height": 74,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 93.0,
+              "Y": 575.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0727,
+              "Y": 0.7986
+            },
+            "PreSize": {
+              "X": 0.0992,
+              "Y": 0.1639
+            },
+            "LeftMargin": 29.5,
+            "RightMargin": 1123.5,
+            "TopMargin": 86.0,
+            "BottomMargin": 516.0,
+            "Tag": 31,
+            "ActionTag": -1892828387,
+            "Size": {
+              "X": 127.0,
+              "Y": 118.0
+            },
+            "VisibleForFrame": false,
+            "Name": "img_bg_avatar",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_HUONGDAN.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_HUONGDAN.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_HUONGDAN.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 112,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.29,
+              "Y": 76.6232
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4994,
+              "Y": 0.1064
+            },
+            "PreSize": {
+              "X": 0.1016,
+              "Y": 0.1861
+            },
+            "LeftMargin": 574.29,
+            "RightMargin": 575.71,
+            "TopMargin": 576.3768,
+            "BottomMargin": 9.6232,
+            "Tag": 49,
+            "ActionTag": -1124323000,
+            "Size": {
+              "X": 130.0,
+              "Y": 134.0
+            },
+            "Name": "btnHelp",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_CHOINGAY.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_CHOINGAY.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_CHOINGAY.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 291,
+            "Scale9Height": 284,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 370.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5139
+            },
+            "PreSize": {
+              "X": 0.2508,
+              "Y": 0.425
+            },
+            "LeftMargin": 479.5,
+            "RightMargin": 479.5,
+            "TopMargin": 197.0,
+            "BottomMargin": 217.0,
+            "Tag": 1,
+            "Children": [
+              {
+                "LabelText": "0",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font_bmt_tt_2.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 178.0004,
+                  "Y": -16.4253
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5545,
+                  "Y": -0.0537
+                },
+                "PreSize": {
+                  "X": 0.0685,
+                  "Y": 0.085
+                },
+                "LeftMargin": 167.0004,
+                "RightMargin": 131.9996,
+                "TopMargin": 309.4253,
+                "BottomMargin": -29.4253,
+                "Tag": 109,
+                "ActionTag": -703938580,
+                "Size": {
+                  "X": 22.0,
+                  "Y": 26.0
+                },
+                "Name": "lbJackpotNormal",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -11177277,
+            "Size": {
+              "X": 321.0,
+              "Y": 306.0
+            },
+            "Name": "btnChoiNgay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_PHONGVIP.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_PHONGVIP.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_BTN_PHONGVIP.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 228,
+            "Scale9Height": 242,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.0,
+              "Y": 330.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8594,
+              "Y": 0.4583
+            },
+            "PreSize": {
+              "X": 0.2016,
+              "Y": 0.3667
+            },
+            "LeftMargin": 971.0,
+            "RightMargin": 51.0,
+            "TopMargin": 258.0,
+            "BottomMargin": 198.0,
+            "Tag": 2,
+            "Children": [
+              {
+                "LabelText": "0",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font_bmt_tt_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.001,
+                  "Y": -25.4253
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4612,
+                  "Y": -0.0963
+                },
+                "PreSize": {
+                  "X": 0.0853,
+                  "Y": 0.0985
+                },
+                "LeftMargin": 108.001,
+                "RightMargin": 127.999,
+                "TopMargin": 276.4253,
+                "BottomMargin": -38.4253,
+                "Tag": 110,
+                "ActionTag": -666693660,
+                "Size": {
+                  "X": 22.0,
+                  "Y": 26.0
+                },
+                "Name": "lbJackpotVip",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 130772351,
+            "Size": {
+              "X": 258.0,
+              "Y": 264.0
+            },
+            "Name": "btnPhongVip",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../fonts/font_bmt_tt_1.fnt",
+        "../../../fonts/font_bmt_tt_1.png",
+        "../../../fonts/font_bmt_tt_2.fnt",
+        "../../../fonts/font_bmt_tt_2.png",
+        "../../../fonts/Roboto-Bold.ttf",
+        "BackgroundAvatarGun.png",
+        "fish_bg.jpg",
+        "IMG_BG_USERGOLD.png",
+        "IMG_BTN_CHOINGAY.png",
+        "IMG_BTN_HUONGDAN.png",
+        "IMG_BTN_MINIGAME.png",
+        "IMG_BTN_PHONGVIP.png",
+        "IMG_BTN_THOAT.png",
+        "MenuBackground2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

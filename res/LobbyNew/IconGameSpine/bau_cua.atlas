@@ -1,0 +1,48 @@
+
+bau_cua.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 223, 241
+  orig: 223, 241
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 337, 158
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 337, 217
+  size: 99, 26
+  orig: 99, 26
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 438, 217
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 227, 79
+  size: 108, 164
+  orig: 108, 164
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 227, 2
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1

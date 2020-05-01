@@ -1,0 +1,41 @@
+
+caothap_icon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAO THẤP
+  rotate: false
+  xy: 385, 215
+  size: 111, 28
+  orig: 111, 28
+  offset: 0, 0
+  index: -1
+caothap2
+  rotate: true
+  xy: 222, 44
+  size: 76, 124
+  orig: 76, 124
+  offset: 0, 0
+  index: -1
+caothap_cion
+  rotate: false
+  xy: 222, 122
+  size: 161, 121
+  orig: 161, 121
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 222, 15
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1

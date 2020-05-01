@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,653},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1305},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1957},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,2609},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,3261},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,1},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1305,1},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1957,1},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2609,1},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3261,1},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,653},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,1305},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,1957},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,2609},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,3261},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1305,653},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1957,653},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2609,653},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+			<key>Avenger/hieuung/thang_lon/glow/glow_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3261,653},{650,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{650,650}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistGlowThangLon.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistGlowThangLon.png</string>
+			<key>size</key>
+			<string>{4096,4096}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>4096</integer>
+			<key>height</key>
+			<integer>4096</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,1},{105,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Glow/light_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,610},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{641,419},{20,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,20}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{693,395},{22,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,32}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,752},{22,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,32}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,786},{22,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,32}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,820},{22,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,32}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/arrow_vqv.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{641,395},{22,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,50}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/BG_Menu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,212},{58,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,58}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/EffectWin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,273},{184,166}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,166}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/info_vip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,692},{58,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,58}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Light_Bi_Xoay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{641,273},{120,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,120}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Quay_Click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,108},{102,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{102,101}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Quay_Nor_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,441},{167,165}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{167,165}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Ribbon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,888},{562,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{562,128}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Shadow_Bong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,455},{348,431}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{348,431}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Tab_Tong_ket.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,455},{426,189}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{426,189}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Vong_Nho.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,1},{270,270}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{270,270}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Profile/VongquayVip/Vong_To.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{452,452}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{452,452}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistVongQuayVip.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistVongQuayVip.png</string>
+			<key>size</key>
+			<string>{833,1017}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>833</integer>
+			<key>height</key>
+			<integer>1017</integer>
+		</dict>
+	</dict>
+</plist>

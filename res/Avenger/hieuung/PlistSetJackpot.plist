@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Avenger/hieuung/jackpot/set/set_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1193,1},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2385,1},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,673},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1865},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,3057},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{673,673},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{673,1865},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1193,3057},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2385,673},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1345,673},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1345,1865},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2017,1345},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2385,2537},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2689,1345},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3057,2537},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+			<key>Avenger/hieuung/jackpot/set/set_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3361,1345},{1190,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1190,670}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistSetJackpot.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistSetJackpot.png</string>
+			<key>size</key>
+			<string>{4096,4096}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>4096</integer>
+			<key>height</key>
+			<integer>4096</integer>
+		</dict>
+	</dict>
+</plist>

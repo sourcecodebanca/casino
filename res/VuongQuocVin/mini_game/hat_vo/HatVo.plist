@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,163},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,325},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,1},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,163},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,325},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{325,1},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{325,163},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{325,325},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{487,1},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{487,163},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{487,325},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,1},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{811,1},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,163},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,325},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>VuongQuocVin/mini_game/hat_vo/hat_vo9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{811,163},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>HatVo.png</string>
+			<key>realTextureFileName</key>
+			<string>HatVo.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

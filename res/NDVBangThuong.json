@@ -1,0 +1,470 @@
+{
+  "ID": "913fe57d-3967-451f-a47a-afd6c7591525",
+  "Version": "2.3.4",
+  "Name": "NDVBangThuong",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 192,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NuDiepVien/bg/bg_tab.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 124,
+            "Scale9OriginY": 103,
+            "Scale9Width": 1032,
+            "Scale9Height": 514,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
+            "Tag": 193,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/bg/bg_tab.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 100,
+                "Scale9OriginY": 126,
+                "Scale9Width": 1080,
+                "Scale9Height": 544,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 353.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4903
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "TopMargin": 7.0,
+                "BottomMargin": -7.0,
+                "Tag": 194,
+                "ActionTag": 1897203678,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/tab_01.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0002,
+                  "Y": 292.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4056
+                },
+                "PreSize": {
+                  "X": 0.7258,
+                  "Y": 0.5986
+                },
+                "LeftMargin": 175.5002,
+                "RightMargin": 175.4998,
+                "TopMargin": 212.4998,
+                "BottomMargin": 76.5002,
+                "Tag": 199,
+                "ActionTag": -162652547,
+                "Size": {
+                  "X": 929.0,
+                  "Y": 431.0
+                },
+                "Name": "sp_tab",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 60,
+                "LabelText": "BẢNG THƯỞNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0884,
+                  "Y": 613.1929
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 250,
+                  "B": 140
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 0.8517
+                },
+                "PreSize": {
+                  "X": 0.3148,
+                  "Y": 0.1042
+                },
+                "LeftMargin": 438.5884,
+                "RightMargin": 438.4116,
+                "TopMargin": 69.3071,
+                "BottomMargin": 575.6929,
+                "Tag": 197,
+                "ActionTag": -547977720,
+                "Size": {
+                  "X": 403.0,
+                  "Y": 75.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/close_tab_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/close_tab_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/close_tab.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 33,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1174.1426,
+                  "Y": 548.3613
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9173,
+                  "Y": 0.7616
+                },
+                "PreSize": {
+                  "X": 0.0492,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 1142.6426,
+                "RightMargin": 74.3574,
+                "TopMargin": 140.1387,
+                "BottomMargin": 516.8613,
+                "Tag": 198,
+                "ActionTag": 1543485860,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 63.0
+                },
+                "Name": "btn_close_bang_thuong",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/mui_ten_click.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/mui_ten_click.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/mui_ten_nor.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 43,
+                "Scale9Height": 116,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 74.4929,
+                  "Y": 315.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0582,
+                  "Y": 0.4389
+                },
+                "PreSize": {
+                  "X": 0.057,
+                  "Y": 0.1917
+                },
+                "LeftMargin": 37.9929,
+                "RightMargin": 1169.0071,
+                "TopMargin": 335.0001,
+                "BottomMargin": 246.9999,
+                "Tag": 200,
+                "ActionTag": 1091486672,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 138.0
+                },
+                "Name": "btn_back_tab",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/mui_ten_click.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/mui_ten_click.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/huongdan/mui_ten_nor.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 43,
+                "Scale9Height": 116,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1205.1304,
+                  "Y": 316.0004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9415,
+                  "Y": 0.4389
+                },
+                "PreSize": {
+                  "X": 0.057,
+                  "Y": 0.1917
+                },
+                "LeftMargin": 1168.6304,
+                "RightMargin": 38.3696,
+                "TopMargin": 334.9996,
+                "BottomMargin": 247.0004,
+                "Tag": 201,
+                "ActionTag": -46809591,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 138.0
+                },
+                "Name": "btn_neck_tab",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 293439198,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pBangThuong",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/UTM-Bitsumishi-Pro.ttf",
+        "NuDiepVien/bg/bg_tab.png",
+        "NuDiepVien/close_tab.png",
+        "NuDiepVien/close_tab_s.png",
+        "NuDiepVien/huongdan/mui_ten_click.png",
+        "NuDiepVien/huongdan/mui_ten_nor.png",
+        "NuDiepVien/huongdan/tab_01.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

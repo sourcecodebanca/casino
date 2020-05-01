@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,436},{191,228}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{205,0},{192,228}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{205,220}}</string>
+				<key>offset</key>
+				<string>{-2,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{205,228},{207,208}}</string>
+				<key>offset</key>
+				<string>{-2,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{619,202},{204,203}}</string>
+				<key>offset</key>
+				<string>{-2,15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{788,405},{203,201}}</string>
+				<key>offset</key>
+				<string>{-2,16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{589,0},{207,202}}</string>
+				<key>offset</key>
+				<string>{-2,15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,440},{201,221}}</string>
+				<key>offset</key>
+				<string>{-2,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,440},{192,229}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{397,0},{192,228}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,220},{205,220}}</string>
+				<key>offset</key>
+				<string>{-2,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{412,228},{207,208}}</string>
+				<key>offset</key>
+				<string>{-2,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{584,436},{204,204}}</string>
+				<key>offset</key>
+				<string>{-2,15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{796,0},{204,201}}</string>
+				<key>offset</key>
+				<string>{-2,16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,664},{207,202}}</string>
+				<key>offset</key>
+				<string>{-2,15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,661},{201,221}}</string>
+				<key>offset</key>
+				<string>{-2,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+			<key>CardGame/ResXocDia/animation/Dealer2_animation/Dealer2_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,669},{192,229}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,240}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dealer2Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>dealer2Plist.png</string>
+			<key>size</key>
+			<string>{1000,898}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1000</integer>
+			<key>height</key>
+			<integer>898</integer>
+		</dict>
+	</dict>
+</plist>

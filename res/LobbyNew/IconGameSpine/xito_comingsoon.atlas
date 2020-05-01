@@ -1,0 +1,27 @@
+
+xito_comingsoon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XÌ TỐ
+  rotate: false
+  xy: 222, 53
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+item_xi to copy
+  rotate: false
+  xy: 222, 83
+  size: 164, 160
+  orig: 164, 160
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1

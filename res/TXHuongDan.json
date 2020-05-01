@@ -1,0 +1,394 @@
+{
+  "ID": "7ff336d3-2da2-4a73-9fc6-cd3a57d4d908",
+  "Version": "2.3.4",
+  "Name": "TXHuongDan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 198,
+        "Children": [
+          {
+            "ClipAble": false,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "FirstColor": {
+              "R": 30,
+              "G": 144
+            },
+            "EndColor": {
+              "R": 14,
+              "G": 103,
+              "B": 190
+            },
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 256,
+            "Scale9OriginY": 210,
+            "Scale9Width": 195,
+            "Scale9Height": 77,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 262.7786,
+              "Y": 40.2951
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2053,
+              "Y": 0.056
+            },
+            "PreSize": {
+              "X": 0.6062,
+              "Y": 0.8861
+            },
+            "LeftMargin": 262.7786,
+            "RightMargin": 241.2214,
+            "TopMargin": 41.7049,
+            "BottomMargin": 40.2951,
+            "Tag": 199,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 70.0,
+                  "Y": 104.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0902,
+                  "Y": 0.163
+                },
+                "PreSize": {
+                  "X": 0.8183,
+                  "Y": 0.6426
+                },
+                "LeftMargin": 70.0,
+                "RightMargin": 71.0,
+                "TopMargin": 124.0,
+                "BottomMargin": 104.0,
+                "Tag": 108,
+                "ActionTag": 253767404,
+                "Size": {
+                  "X": 635.0,
+                  "Y": 410.0
+                },
+                "Name": "Panel_3",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 712.5753,
+                  "Y": 538.4769
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9183,
+                  "Y": 0.844
+                },
+                "PreSize": {
+                  "X": 0.0747,
+                  "Y": 0.0893
+                },
+                "LeftMargin": 683.5753,
+                "RightMargin": 34.4247,
+                "TopMargin": 71.0231,
+                "BottomMargin": 509.9769,
+                "Tag": 200,
+                "ActionTag": 1336198956,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_close_huong_dan",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "Bước 1: Chọn nút dự đoán Tài hoặc Xỉu *\nBước 2: Nhập số GOLD/XU muốn dự đoán\nBước 3: Chọn nút đồng ý để xác nhận **\nBước 4: Theo dõi kết quả để biết thắng hay thua. ***\n\n(*) Tài >= 11 điểm, Xỉu <11 điểm\n(**) Cách chơi game:\n        + Tham gia dự đoán phiên chơi về Tài hoặc Xỉu.\n        + Khi kết thúc thời gian lựa chọn, nếu số GOLD/XU hai bên chênh lệch, số chênh lệch sẽ được hoàn trả cho người chơi (Ưu tiên người chơi có dự đoán \nsớm hơn)\n         + Người chơi dự đoán tối thiểu là 100 tối đa là số dư tài khoản.\n(***) Trả thưởng khi có kết quả:\n         + Hệ thống sẽ tính phí 2% (5%) số GOLD/XU dựa trên tiền thắng.\n         + Có thể lựa chọn nút (!) để xem lịch sử giao dịch\n         + Có thể lựa chọn cúp để xem bảng xếp hạng.\nVD: Khi game có 1000 GOLD bên Tài 900 GOLD bên Xỉu, \nA chọn 200 GOLD bên Xỉu, sau đó B chọn 200 GOLD bên Xỉu khi hết giờ chọn cược hệ thống sẽ trả lại 200 GOLD cho B, 100 GOLD cho A(để tổng GOLD 2 bên đạt 1000 GOLD. Kết quả ra 9(Xỉu), Xỉu thắng A nhận được (100 x2 - 100x2%) = 198 GOLD.",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 387.988,
+                  "Y": 308.7301
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 232,
+                  "G": 218,
+                  "B": 173
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4839
+                },
+                "PreSize": {
+                  "X": 0.8054,
+                  "Y": 0.6223
+                },
+                "LeftMargin": 75.488,
+                "RightMargin": 75.512,
+                "TopMargin": 130.7699,
+                "BottomMargin": 110.2301,
+                "Tag": 201,
+                "ActionTag": 585125960,
+                "Size": {
+                  "X": 625.0,
+                  "Y": 397.0
+                },
+                "Name": "Text_26",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 397.5215,
+                  "Y": 548.7607
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5123,
+                  "Y": 0.8601
+                },
+                "PreSize": {
+                  "X": 0.616,
+                  "Y": 0.0972
+                },
+                "LeftMargin": 158.5215,
+                "RightMargin": 139.4785,
+                "TopMargin": 58.2393,
+                "BottomMargin": 517.7607,
+                "Tag": 227,
+                "ActionTag": -1976513323,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "Title_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "HƯỚNG DẪN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/VNF-Oswald-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 397.521,
+                  "Y": 540.7939
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5123,
+                  "Y": 0.8602
+                },
+                "PreSize": {
+                  "X": 0.2216,
+                  "Y": 0.0549
+                },
+                "LeftMargin": 311.521,
+                "RightMargin": 292.479,
+                "TopMargin": 71.7061,
+                "BottomMargin": 531.2939,
+                "Tag": 226,
+                "ActionTag": 1767915772,
+                "Size": {
+                  "X": 172.0,
+                  "Y": 80.0
+                },
+                "Name": "Text_37",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1552733155,
+            "Size": {
+              "X": 776.0,
+              "Y": 638.0
+            },
+            "Name": "pHungdan",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/tahoma.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/Title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

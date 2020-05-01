@@ -1,0 +1,48 @@
+
+baicao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 378, 112
+  size: 142, 74
+  orig: 142, 74
+  offset: 0, 0
+  index: -1
+baicao
+  rotate: true
+  xy: 454, 158
+  size: 96, 29
+  orig: 96, 29
+  offset: 0, 0
+  index: -1
+chip
+  rotate: false
+  xy: 222, 30
+  size: 147, 105
+  orig: 147, 105
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 222, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 13
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 222, 137
+  size: 154, 117
+  orig: 154, 117
+  offset: 0, 0
+  index: -1

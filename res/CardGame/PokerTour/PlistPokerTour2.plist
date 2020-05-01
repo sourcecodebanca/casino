@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/CardGame/PokerTour/cardDis1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardDis2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,389},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardDis3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,777},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardDis4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{247,1},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardOn1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{247,389},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardOn2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{389,777},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardOn3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{777,1},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+			<key>res/CardGame/PokerTour/cardOn4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{777,389},{244,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,386}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistPokerTour2.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistPokerTour2.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

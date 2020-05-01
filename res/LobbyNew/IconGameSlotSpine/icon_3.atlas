@@ -1,0 +1,104 @@
+
+icon_3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00000
+  rotate: false
+  xy: 476, 2
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: true
+  xy: 1140, 142
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 997, 140
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: true
+  xy: 768, 2
+  size: 140, 114
+  orig: 140, 114
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: true
+  xy: 884, 4
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 1273, 163
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 1409, 169
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 1533, 182
+  size: 116, 72
+  orig: 116, 72
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 525, 13
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 981, 131
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 768, 144
+  size: 227, 110
+  orig: 227, 110
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 476, 60
+  size: 194, 290
+  orig: 194, 290
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1651, 212
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 2, 4
+  size: 250, 472
+  orig: 250, 472
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,438 @@
+{
+  "skeleton": {
+    "hash": " ",
+    "width": 221.45,
+    "height": 245.69,
+    "name": "armatureName",
+    "spine": "3.6.53",
+    "images": "../images/"
+  },
+  "bones": [
+    {
+      "name": "root",
+      "y": 12.57
+    },
+    {
+      "name": "khungall3",
+      "parent": "root",
+      "x": 2.3,
+      "y": -12.57
+    },
+    {
+      "name": "baiii",
+      "parent": "khungall3",
+      "x": 3.33,
+      "y": 68.56,
+      "length": 84,
+      "rotation": 130.18
+    },
+    {
+      "name": "kimcuong",
+      "parent": "khungall3",
+      "x": 42.85,
+      "y": 48.35
+    },
+    {
+      "name": "xoay",
+      "parent": "khungall3",
+      "y": 87.66,
+      "x": 0.5
+    },
+    {
+      "x": -98.88,
+      "y": 16.03,
+      "name": "light6",
+      "parent": "khungall3"
+    },
+    {
+      "x": 96.46,
+      "y": 187.54,
+      "name": "light5",
+      "parent": "khungall3"
+    },
+    {
+      "x": -2.09,
+      "y": 34.99,
+      "name": "popup3",
+      "parent": "khungall3"
+    },
+    {
+      "length": 84,
+      "name": "baiii2",
+      "parent": "baiii"
+    },
+    {
+      "name": "kimcuong2",
+      "parent": "kimcuong"
+    }
+  ],
+  "slots": [
+    {
+      "name": "popup3",
+      "bone": "popup3",
+      "attachment": "popup"
+    },
+    {
+      "name": "light5",
+      "bone": "light5",
+      "attachment": "light",
+      "color": "FFFFFFD1",
+      "blend": "additive"
+    },
+    {
+      "name": "light6",
+      "bone": "light6",
+      "attachment": "light",
+      "color": "FFFFFFD1",
+      "blend": "additive"
+    },
+    {
+      "name": "de",
+      "bone": "khungall3",
+      "attachment": "de"
+    },
+    {
+      "name": "xoay",
+      "bone": "xoay",
+      "attachment": "xoay"
+    },
+    {
+      "name": "samloc",
+      "bone": "khungall3",
+      "attachment": "samloc"
+    },
+    {
+      "name": "baiii",
+      "bone": "baiii",
+      "attachment": "baiii"
+    },
+    {
+      "name": "baiii2",
+      "bone": "baiii2",
+      "color": "FFFFFF8C",
+      "attachment": "baiii"
+    },
+    {
+      "name": "kimcuong2",
+      "bone": "kimcuong2",
+      "color": "FFFFFF8F",
+      "attachment": "kimcuong"
+    },
+    {
+      "name": "kimcuong",
+      "bone": "kimcuong",
+      "attachment": "kimcuong"
+    },
+    {
+      "name": "cocaroclip",
+      "bone": "khungall3"
+    },
+    {
+      "name": "cocaroclip2",
+      "bone": "khungall3"
+    }
+  ],
+  "skins": {
+    "default": {
+      "light6": {
+        "light": {
+          "name": "light",
+          "width": 24,
+          "height": 25,
+          "x": 0.72,
+          "y": 1.57
+        }
+      },
+      "samloc": {
+        "samloc": {
+          "name": "samloc",
+          "width": 100,
+          "height": 30,
+          "x": 1.51,
+          "y": 203.16
+        }
+      },
+      "baiii": {
+        "baiii": {
+          "name": "baiii",
+          "width": 158,
+          "height": 146,
+          "x": 18.49,
+          "y": -5.38,
+          "rotation": -130.18
+        }
+      },
+      "baiii2": {
+        "baiii": {
+          "name": "baiii",
+          "width": 158,
+          "height": 146,
+          "x": 18.49,
+          "y": -5.38,
+          "rotation": -130.18
+        }
+      },
+      "kimcuong2": {
+        "kimcuong": {
+          "name": "kimcuong",
+          "width": 129,
+          "height": 134,
+          "x": -12.84,
+          "y": 15.81
+        }
+      },
+      "kimcuong": {
+        "kimcuong": {
+          "name": "kimcuong",
+          "width": 129,
+          "height": 134,
+          "x": -12.84,
+          "y": 15.81
+        }
+      },
+      "de": {
+        "de": {
+          "name": "de",
+          "width": 195,
+          "height": 39,
+          "x": 0.01,
+          "y": 28.66
+        }
+      },
+      "popup3": {
+        "popup": {
+          "name": "popup",
+          "width": 216,
+          "height": 239,
+          "x": -0.18,
+          "y": 85.36
+        }
+      },
+      "light5": {
+        "light": {
+          "name": "light",
+          "width": 24,
+          "height": 25,
+          "x": 0.72,
+          "y": 1.57
+        }
+      },
+      "xoay": {
+        "xoay": {
+          "name": "xoay",
+          "width": 182,
+          "height": 183,
+          "x": 0.01
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "bones": {
+        "light5": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 1.3333,
+              "y": -180
+            }
+          ]
+        },
+        "light6": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 1.3333,
+              "y": 190
+            }
+          ]
+        },
+        "xoay": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.4333,
+              "angle": 120
+            },
+            {
+              "time": 0.9,
+              "angle": -120
+            },
+            {
+              "time": 1.3333,
+              "angle": 0
+            }
+          ]
+        },
+        "baiii": {
+          "rotate": [
+            {
+              "time": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "angle": 0
+            },
+            {
+              "time": 0.6667,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "angle": -19
+            },
+            {
+              "time": 1.3334,
+              "angle": 0
+            }
+          ]
+        },
+        "kimcuong": {
+          "scale": [
+            {
+              "time": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.6667,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1.06,
+              "y": 1.06
+            },
+            {
+              "time": 1.3334,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        "kimcuong2": {
+          "scale": [
+            {
+              "time": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.6667,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1.2,
+              "y": 1.2
+            },
+            {
+              "time": 1.3334,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        "baiii2": {
+          "scale": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2333,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.6666,
+              "x": 1.15,
+              "y": 1.15
+            }
+          ]
+        }
+      },
+      "slots": {
+        "baiii2": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 0.4,
+              "color": "FFFFFF8A"
+            },
+            {
+              "time": 0.8333,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light5": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFFC7"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light6": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFFC7"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

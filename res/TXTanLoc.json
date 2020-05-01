@@ -1,0 +1,974 @@
+{
+  "ID": "f08afaf0-c6a9-441b-8c39-36b71bdbb6af",
+  "Version": "2.3.4",
+  "Name": "TXTanLoc",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 269,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/bg_tanloc.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 156,
+            "Scale9OriginY": 105,
+            "Scale9Width": 161,
+            "Scale9Height": 110,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 359.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4986
+            },
+            "PreSize": {
+              "X": 0.3695,
+              "Y": 0.4444
+            },
+            "LeftMargin": 403.5,
+            "RightMargin": 403.5,
+            "TopMargin": 201.0,
+            "BottomMargin": 199.0,
+            "Tag": 270,
+            "Children": [
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 28,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "0",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 14,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 236.0008,
+                  "Y": 209.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 201,
+                  "G": 19,
+                  "B": 235
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4989,
+                  "Y": 0.6531
+                },
+                "PreSize": {
+                  "X": 0.4863,
+                  "Y": 0.1063
+                },
+                "LeftMargin": 121.0008,
+                "RightMargin": 121.9992,
+                "TopMargin": 94.0,
+                "BottomMargin": 192.0,
+                "Tag": 271,
+                "ActionTag": -58284276,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 34.0
+                },
+                "Name": "tf_bet_tan_loc",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "10K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 158,
+                  "G": 84,
+                  "B": 15
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 108.7708,
+                  "Y": 148.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.23,
+                  "Y": 0.4656
+                },
+                "PreSize": {
+                  "X": 0.1924,
+                  "Y": 0.1344
+                },
+                "LeftMargin": 63.2708,
+                "RightMargin": 318.7292,
+                "TopMargin": 149.5002,
+                "BottomMargin": 127.4998,
+                "Tag": 273,
+                "ActionTag": -763946571,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 43.0
+                },
+                "Name": "btn_key10k",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 22,
+                "ButtonText": "TÁN LỘC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 145,
+                  "G": 66,
+                  "B": 3
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_tab_tanloc_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_tab_tanloc_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_tab_tanloc.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 237.2187,
+                  "Y": 35.1959
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5015,
+                  "Y": 0.11
+                },
+                "PreSize": {
+                  "X": 0.2664,
+                  "Y": 0.1375
+                },
+                "LeftMargin": 174.2187,
+                "RightMargin": 172.7813,
+                "TopMargin": 262.8041,
+                "BottomMargin": 13.1959,
+                "Tag": 279,
+                "ActionTag": -959300914,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_tan_loc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "500K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 158,
+                  "G": 84,
+                  "B": 15
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 109.2393,
+                  "Y": 94.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2309,
+                  "Y": 0.2937
+                },
+                "PreSize": {
+                  "X": 0.1924,
+                  "Y": 0.1344
+                },
+                "LeftMargin": 63.7393,
+                "RightMargin": 318.2607,
+                "TopMargin": 204.5,
+                "BottomMargin": 72.5,
+                "Tag": 280,
+                "ActionTag": 819715588,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 43.0
+                },
+                "Name": "btn_key500k",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "1M",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 158,
+                  "G": 84,
+                  "B": 15
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 236.216,
+                  "Y": 94.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4994,
+                  "Y": 0.2937
+                },
+                "PreSize": {
+                  "X": 0.1924,
+                  "Y": 0.1344
+                },
+                "LeftMargin": 190.716,
+                "RightMargin": 191.284,
+                "TopMargin": 204.5,
+                "BottomMargin": 72.5,
+                "Tag": 281,
+                "ActionTag": 415580493,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 43.0
+                },
+                "Name": "btn_key1M",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "50K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 158,
+                  "G": 84,
+                  "B": 15
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 236.5509,
+                  "Y": 148.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 0.4656
+                },
+                "PreSize": {
+                  "X": 0.1924,
+                  "Y": 0.1344
+                },
+                "LeftMargin": 191.0509,
+                "RightMargin": 190.9491,
+                "TopMargin": 149.5002,
+                "BottomMargin": 127.4998,
+                "Tag": 282,
+                "ActionTag": 2109692216,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 43.0
+                },
+                "Name": "btn_key50k",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "100K",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 158,
+                  "G": 84,
+                  "B": 15
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 363.7951,
+                  "Y": 148.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7691,
+                  "Y": 0.4656
+                },
+                "PreSize": {
+                  "X": 0.1924,
+                  "Y": 0.1344
+                },
+                "LeftMargin": 318.2951,
+                "RightMargin": 63.7049,
+                "TopMargin": 149.5002,
+                "BottomMargin": 127.4998,
+                "Tag": 283,
+                "ActionTag": 1327712697,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 43.0
+                },
+                "Name": "btn_key100k",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "ButtonText": "10M",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 158,
+                  "G": 84,
+                  "B": 15
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_value_vip.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 364.1303,
+                  "Y": 94.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7698,
+                  "Y": 0.2937
+                },
+                "PreSize": {
+                  "X": 0.1924,
+                  "Y": 0.1344
+                },
+                "LeftMargin": 318.6303,
+                "RightMargin": 63.3697,
+                "TopMargin": 204.5,
+                "BottomMargin": 72.5,
+                "Tag": 284,
+                "ActionTag": -315781684,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 43.0
+                },
+                "Name": "btn_key10M",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.7336,
+                  "Y": 293.7667
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9445,
+                  "Y": 0.918
+                },
+                "PreSize": {
+                  "X": 0.1226,
+                  "Y": 0.1781
+                },
+                "LeftMargin": 417.7336,
+                "RightMargin": -2.7336,
+                "TopMargin": -2.2667,
+                "BottomMargin": 265.2667,
+                "Tag": 285,
+                "ActionTag": 686938365,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_close_tan_loc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "0",
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 236.0005,
+                  "Y": 209.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 205,
+                  "G": 20,
+                  "B": 240
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4989,
+                  "Y": 0.6531
+                },
+                "PreSize": {
+                  "X": 0.4863,
+                  "Y": 0.1
+                },
+                "LeftMargin": 121.0005,
+                "RightMargin": 121.9995,
+                "TopMargin": 95.0,
+                "BottomMargin": 193.0,
+                "Tag": 286,
+                "ActionTag": -1218084585,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 32.0
+                },
+                "Name": "lb_bet_tan_loc",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/clear_tf.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/clear_tf.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/clear_tf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 25,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 89.6992,
+                  "Y": 208.5604
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1896,
+                  "Y": 0.6518
+                },
+                "PreSize": {
+                  "X": 0.0973,
+                  "Y": 0.1469
+                },
+                "LeftMargin": 66.6992,
+                "RightMargin": 360.3008,
+                "TopMargin": 87.9396,
+                "BottomMargin": 185.0604,
+                "Tag": 287,
+                "ActionTag": -717993452,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 47.0
+                },
+                "Name": "btn_clear_text",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 32,
+                "LabelText": "TÁN LỘC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/VNF-Oswald-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 235.4978,
+                  "Y": 290.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 243,
+                  "G": 215,
+                  "B": 93
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4979,
+                  "Y": 0.9156
+                },
+                "PreSize": {
+                  "X": 0.2748,
+                  "Y": 0.1187
+                },
+                "LeftMargin": 170.4978,
+                "RightMargin": 172.5022,
+                "TopMargin": 8.0,
+                "BottomMargin": 274.0,
+                "Tag": 377,
+                "ActionTag": -1547840664,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 60.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1685365871,
+            "Size": {
+              "X": 473.0,
+              "Y": 320.0
+            },
+            "Name": "pTanLoc",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/tahoma.ttf",
+        "Font/tahoma.ttf",
+        "Minigame/ImageChung/bg_tanloc.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/btn_tab_tanloc.png",
+        "Minigame/ImageChung/btn_tab_tanloc_s.png",
+        "Minigame/ImageChung/btn_value.png",
+        "Minigame/ImageChung/btn_value_s.png",
+        "Minigame/ImageChung/btn_value_vip.png",
+        "Minigame/ImageChung/btn_value_vip_s.png",
+        "Minigame/ImageChung/clear_tf.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,697 @@
+{
+  "ID": "d2bb084a-093b-4575-b296-62a34a216a17",
+  "Version": "2.3.4",
+  "Name": "AvengerTheLeX2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 211,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Avenger/bg/bg_tab.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 342,
+            "Scale9Height": 218,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
+            "Tag": 212,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/bg/tieu_de.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 611.8093
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8497
+                },
+                "PreSize": {
+                  "X": 0.7695,
+                  "Y": 0.1194
+                },
+                "LeftMargin": 147.5,
+                "RightMargin": 147.5,
+                "TopMargin": 65.1907,
+                "BottomMargin": 568.8093,
+                "Tag": 102,
+                "ActionTag": -1679713438,
+                "Size": {
+                  "X": 985.0,
+                  "Y": 86.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 50,
+                "LabelText": "X2 QUỸ THƯỞNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 623.1793
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 250,
+                  "B": 140
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8655
+                },
+                "PreSize": {
+                  "X": 0.2969,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 450.0,
+                "RightMargin": 450.0,
+                "TopMargin": 65.8207,
+                "BottomMargin": 592.1793,
+                "Tag": 225,
+                "ActionTag": -1653203133,
+                "Size": {
+                  "X": 380.0,
+                  "Y": 62.0
+                },
+                "Name": "x2q",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/close_tab_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/close_tab_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/close_tab.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 43,
+                "Scale9Height": 51,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1164.8734,
+                  "Y": 623.0745
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9101,
+                  "Y": 0.8654
+                },
+                "PreSize": {
+                  "X": 0.0492,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 1133.3734,
+                "RightMargin": 83.6266,
+                "TopMargin": 65.4255,
+                "BottomMargin": 591.5745,
+                "Tag": 226,
+                "ActionTag": 1989670502,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 63.0
+                },
+                "Name": "btn_close_the_le",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Sự kiện: ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 498.2259
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.692
+                },
+                "PreSize": {
+                  "X": 0.0789,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 1060.0,
+                "TopMargin": 191.7741,
+                "BottomMargin": 498.2259,
+                "Tag": 227,
+                "ActionTag": -395359468,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "X2 quỹ thưởng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 331.7151,
+                  "Y": 511.3424
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2592,
+                  "Y": 0.7102
+                },
+                "PreSize": {
+                  "X": 0.1539,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 233.2151,
+                "RightMargin": 849.7849,
+                "TopMargin": 193.6576,
+                "BottomMargin": 496.3424,
+                "Tag": 228,
+                "ActionTag": 610970009,
+                "Size": {
+                  "X": 197.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_4_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "của Siêu Anh Hùng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 564.1854,
+                  "Y": 510.3429
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4408,
+                  "Y": 0.7088
+                },
+                "PreSize": {
+                  "X": 0.1937,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 440.1854,
+                "RightMargin": 591.8146,
+                "TopMargin": 194.6571,
+                "BottomMargin": 495.3429,
+                "Tag": 229,
+                "ActionTag": -431905861,
+                "Size": {
+                  "X": 248.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_4_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Bắt đầu từ 10h30 ngày thứ năm hàng tuần, để tri ân người chơi, \nSiêu Anh Hùng sẽ xuất hiện 10 hũ phòng 100 và 1 hũ phòng 1.000 được ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 431.8372
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.5998
+                },
+                "PreSize": {
+                  "X": 0.7375,
+                  "Y": 0.0833
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 217.0,
+                "TopMargin": 228.1628,
+                "BottomMargin": 431.8372,
+                "Tag": 230,
+                "ActionTag": -711635026,
+                "Size": {
+                  "X": 944.0,
+                  "Y": 60.0
+                },
+                "Name": "Text_4_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "X2(nhân đôi) giá trị hũ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 402.946
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.5596
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 879.0,
+                "TopMargin": 287.054,
+                "BottomMargin": 402.946,
+                "Tag": 231,
+                "ActionTag": 1214933018,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_4_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Ở thời điểm nổ hũ (không tính trả thưởng payline).",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 412.0447,
+                  "Y": 402.5599
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3219,
+                  "Y": 0.5591
+                },
+                "PreSize": {
+                  "X": 0.4891,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 412.0447,
+                "RightMargin": 241.9553,
+                "TopMargin": 287.4401,
+                "BottomMargin": 402.5599,
+                "Tag": 232,
+                "ActionTag": 2124629374,
+                "Size": {
+                  "X": 626.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_4_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Ví dụ:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 119.0,
+                  "Y": 371.1752
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.093,
+                  "Y": 0.5155
+                },
+                "PreSize": {
+                  "X": 0.0562,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 119.0,
+                "RightMargin": 1089.0,
+                "TopMargin": 318.8248,
+                "BottomMargin": 371.1752,
+                "Tag": 233,
+                "ActionTag": 971127823,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_4_0_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Tại thời điểm ăn hũ x2, giá trị hũ là 6.000.000 Vin, trả thưởng payline là \n100.000 Vin thì giải thưởng người chơi nhận được là\n6.000.000 x 2 + 100.000 = 12.100.000 Vin\nChú ý:\n- Phòng 100: hũ được X2 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X2 \ntrước đó (vd: 1,5,9...).\n- Phòng 1.000 hũ thứ 3 sẽ được X2 tính từ thời điểm khung giờ vàng.\n- Giờ vàng X2 thứ năm hàng tuần sẽ bắt đầu lúc 10h30 và kết thúc \nkhi trao thưởng đủ 10 hũ X2 phòng 100 và 1 hũ X2 phòng 1.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Mobifone-KT.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 116.6507,
+                  "Y": 96.2908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0911,
+                  "Y": 0.1337
+                },
+                "PreSize": {
+                  "X": 0.7461,
+                  "Y": 0.375
+                },
+                "LeftMargin": 116.6507,
+                "RightMargin": 208.3494,
+                "TopMargin": 353.7092,
+                "BottomMargin": 96.2908,
+                "Tag": 234,
+                "ActionTag": 357190813,
+                "Size": {
+                  "X": 955.0,
+                  "Y": 270.0
+                },
+                "Name": "Text_4_1_0_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1170939173,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pTheLe",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Avenger/bg/bg_tab.png",
+        "Avenger/bg/tieu_de.png",
+        "Avenger/close_tab.png",
+        "Avenger/close_tab_s.png",
+        "Font/UTM-Bitsumishi-Pro.ttf",
+        "Font/UTM-Mobifone-KT.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

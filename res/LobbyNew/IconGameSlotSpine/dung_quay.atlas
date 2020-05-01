@@ -1,0 +1,41 @@
+
+dung_quay.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: true
+  xy: 2, 68
+  size: 184, 57
+  orig: 184, 57
+  offset: 0, 0
+  index: -1
+Layer 17b
+  rotate: true
+  xy: 61, 68
+  size: 184, 57
+  orig: 184, 57
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 84, 28
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 2
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 43, 2
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1

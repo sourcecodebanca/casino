@@ -1,0 +1,2298 @@
+{
+  "ID": "b07b21cd-8bb9-418c-a889-af15c3df5bd1",
+  "Version": "2.3.4",
+  "Name": "TXTopUser",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 162,
+        "Children": [
+          {
+            "ClipAble": false,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "FirstColor": {
+              "R": 30,
+              "G": 144
+            },
+            "EndColor": {
+              "R": 14,
+              "G": 103,
+              "B": 190
+            },
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 256,
+            "Scale9OriginY": 210,
+            "Scale9Width": 195,
+            "Scale9Height": 77,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 281.3495,
+              "Y": 111.174
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2198,
+              "Y": 0.1544
+            },
+            "PreSize": {
+              "X": 0.5508,
+              "Y": 0.6875
+            },
+            "LeftMargin": 281.3495,
+            "RightMargin": 293.6505,
+            "TopMargin": 113.826,
+            "BottomMargin": 111.174,
+            "Tag": 165,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 676.0555,
+                  "Y": 464.1238
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9589,
+                  "Y": 0.9376
+                },
+                "PreSize": {
+                  "X": 0.0823,
+                  "Y": 0.1152
+                },
+                "LeftMargin": 647.0555,
+                "RightMargin": -0.0555,
+                "TopMargin": 2.3762,
+                "BottomMargin": 435.6238,
+                "Tag": 166,
+                "ActionTag": 149598313,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_close_top_user",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 187,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.5,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 0.68,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1851,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.3078,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 22.0,
+                "RightMargin": 466.0,
+                "TopMargin": 44.4969,
+                "BottomMargin": 419.5031,
+                "Tag": 167,
+                "ActionTag": -1527492678,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_vin_top_user",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 188,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 278.0002,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 0.68,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3943,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.3092,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 169.0002,
+                "RightMargin": 317.9998,
+                "TopMargin": 44.4969,
+                "BottomMargin": 419.5031,
+                "Tag": 168,
+                "ActionTag": 4198075,
+                "Size": {
+                  "X": 218.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_xu_top_user",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "XU",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 275.9975,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3915,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.0411,
+                  "Y": 0.0465
+                },
+                "LeftMargin": 261.4975,
+                "RightMargin": 414.5025,
+                "TopMargin": 48.4969,
+                "BottomMargin": 423.5031,
+                "Tag": 169,
+                "ActionTag": -928801089,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_28_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "GOLD",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 127.9991,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1816,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.0496,
+                  "Y": 0.0465
+                },
+                "LeftMargin": 110.4991,
+                "RightMargin": 559.5009,
+                "TopMargin": 48.4969,
+                "BottomMargin": 423.5031,
+                "Tag": 170,
+                "ActionTag": -328883592,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_28",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 27.0,
+                  "Y": 39.797
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0383,
+                  "Y": 0.0804
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.6263
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 25.0,
+                "TopMargin": 145.203,
+                "BottomMargin": 39.797,
+                "Tag": 171,
+                "ActionTag": 161826208,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 310.0
+                },
+                "Name": "lv_top_user",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.9999,
+                  "Y": 349.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0383,
+                  "Y": 0.7071
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 26.9999,
+                "RightMargin": 25.0001,
+                "TopMargin": 115.0002,
+                "BottomMargin": 349.9998,
+                "Tag": 172,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 173.997,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2665,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 173.497,
+                    "RightMargin": 478.503,
+                    "TopMargin": -5.5,
+                    "BottomMargin": -5.5,
+                    "Tag": 173,
+                    "ActionTag": 887132982,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "Hạng",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 85.3351,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1307,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0613,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 65.3351,
+                    "RightMargin": 547.6649,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 174,
+                    "ActionTag": 203914323,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 446.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.683,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 1.3667
+                    },
+                    "LeftMargin": 445.5,
+                    "RightMargin": 206.5,
+                    "TopMargin": -5.5,
+                    "BottomMargin": -5.5,
+                    "Tag": 175,
+                    "ActionTag": 1358608075,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vachdung_3_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "Tài khoản",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 315.1357,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4826,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1103,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 279.1357,
+                    "RightMargin": 301.8643,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 176,
+                    "ActionTag": -1855278564,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "Thắng",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 555.4973,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8507,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0735,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 531.4973,
+                    "RightMargin": 73.5027,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 5.5,
+                    "Tag": 177,
+                    "ActionTag": 1202361308,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_30_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -349797388,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 30.0
+                },
+                "Name": "pTabTopUser",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.0,
+                  "Y": 478.53
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.9667
+                },
+                "PreSize": {
+                  "X": 0.678,
+                  "Y": 0.1253
+                },
+                "LeftMargin": 113.0,
+                "RightMargin": 114.0,
+                "TopMargin": -14.53,
+                "BottomMargin": 447.53,
+                "Tag": 178,
+                "ActionTag": 1860497597,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "Title_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "BẢNG XẾP HẠNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/VNF-Oswald-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 359.2268,
+                  "Y": 473.5643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5095,
+                  "Y": 0.9648
+                },
+                "PreSize": {
+                  "X": 0.3262,
+                  "Y": 0.0707
+                },
+                "LeftMargin": 244.2268,
+                "RightMargin": 230.7732,
+                "TopMargin": -0.0643,
+                "BottomMargin": 460.0643,
+                "Tag": 179,
+                "ActionTag": 633765302,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_37",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 188,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.5001,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 0.68,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6035,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.3092,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 316.5001,
+                "RightMargin": 170.4999,
+                "TopMargin": 44.4969,
+                "BottomMargin": 419.5031,
+                "Tag": 165,
+                "ActionTag": 2143301392,
+                "Size": {
+                  "X": 218.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_top_rut_loc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "RÚT LỘC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.9712,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6042,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.1191,
+                  "Y": 0.0465
+                },
+                "LeftMargin": 383.9712,
+                "RightMargin": 237.0288,
+                "TopMargin": 48.4969,
+                "BottomMargin": 423.5031,
+                "Tag": 166,
+                "ActionTag": -1453761766,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_28_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_thanhdu_s.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 187,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 572.5,
+                  "Y": 435.0042
+                },
+                "Scale": {
+                  "ScaleX": 0.68,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8121,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.3078,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 464.0,
+                "RightMargin": 24.0,
+                "TopMargin": 44.4958,
+                "BottomMargin": 419.5042,
+                "Tag": 167,
+                "ActionTag": 1334465250,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_top_tan_loc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "TÁN LỘC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/tahoma.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 572.1484,
+                  "Y": 435.0031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8116,
+                  "Y": 0.8788
+                },
+                "PreSize": {
+                  "X": 0.1177,
+                  "Y": 0.0465
+                },
+                "LeftMargin": 530.6484,
+                "RightMargin": 91.3516,
+                "TopMargin": 48.4969,
+                "BottomMargin": 423.5031,
+                "Tag": 168,
+                "ActionTag": 884430351,
+                "Size": {
+                  "X": 83.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_28_0_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 27.0,
+                  "Y": 350.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0383,
+                  "Y": 0.7071
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 25.0,
+                "TopMargin": 114.9999,
+                "BottomMargin": 350.0001,
+                "Tag": 192,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 86,
+                      "G": 105,
+                      "B": 216
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 377.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5773,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.4211,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 377.0,
+                    "RightMargin": 1.0,
+                    "Tag": 170,
+                    "Children": [
+                      {
+                        "FontSize": 16,
+                        "LabelText": "STT",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 18.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0655,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.12,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 1.5,
+                        "RightMargin": 240.5,
+                        "TopMargin": 5.5,
+                        "BottomMargin": 5.5,
+                        "Tag": 172,
+                        "ActionTag": -601904547,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ImageChung/vachdung.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1309,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0036,
+                          "Y": 1.3667
+                        },
+                        "LeftMargin": 35.5,
+                        "RightMargin": 238.5,
+                        "TopMargin": -5.5,
+                        "BottomMargin": -5.5,
+                        "Tag": 171,
+                        "ActionTag": -2105896021,
+                        "Size": {
+                          "X": 1.0,
+                          "Y": 41.0
+                        },
+                        "Name": "vachdung_3_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 16,
+                        "LabelText": "Tài khoản",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 106.0,
+                          "Y": 15.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3855,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2618,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 70.0,
+                        "RightMargin": 133.0,
+                        "TopMargin": 5.4999,
+                        "BottomMargin": 5.5001,
+                        "Tag": 177,
+                        "ActionTag": 1519078904,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ImageChung/vachdung.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 176.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.64,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0036,
+                          "Y": 1.3667
+                        },
+                        "LeftMargin": 175.5,
+                        "RightMargin": 98.5,
+                        "TopMargin": -5.5,
+                        "BottomMargin": -5.5,
+                        "Tag": 178,
+                        "ActionTag": 331538392,
+                        "Size": {
+                          "X": 1.0,
+                          "Y": 41.0
+                        },
+                        "Name": "vachdung_3_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 16,
+                        "LabelText": "Số GOLD",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 226.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8218,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1855,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 200.5,
+                        "RightMargin": 23.5,
+                        "TopMargin": 5.5,
+                        "BottomMargin": 5.5,
+                        "Tag": 179,
+                        "ActionTag": 1406984550,
+                        "Size": {
+                          "X": 51.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0_0_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1386583438,
+                    "Size": {
+                      "X": 275.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Panel_8_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 86,
+                      "G": 105,
+                      "B": 216
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.5743,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 278.0,
+                    "Tag": 169,
+                    "Children": [
+                      {
+                        "FontSize": 16,
+                        "LabelText": "STT",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 18.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.048,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.088,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 1.5,
+                        "RightMargin": 340.5,
+                        "TopMargin": 5.5,
+                        "BottomMargin": 5.5,
+                        "Tag": 185,
+                        "ActionTag": 1736626593,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ImageChung/vachdung.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.096,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0027,
+                          "Y": 1.3667
+                        },
+                        "LeftMargin": 35.5,
+                        "RightMargin": 338.5,
+                        "TopMargin": -5.5,
+                        "BottomMargin": -5.5,
+                        "Tag": 186,
+                        "ActionTag": -705567254,
+                        "Size": {
+                          "X": 1.0,
+                          "Y": 41.0
+                        },
+                        "Name": "vachdung_3_1_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 16,
+                        "LabelText": "Tài khoản",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 105.9999,
+                          "Y": 15.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2827,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.192,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 69.9999,
+                        "RightMargin": 233.0001,
+                        "TopMargin": 5.4998,
+                        "BottomMargin": 5.5002,
+                        "Tag": 187,
+                        "ActionTag": -700545340,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0_0_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ImageChung/vachdung.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 176.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4693,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0027,
+                          "Y": 1.3667
+                        },
+                        "LeftMargin": 175.5,
+                        "RightMargin": 198.5,
+                        "TopMargin": -5.5,
+                        "BottomMargin": -5.5,
+                        "Tag": 188,
+                        "ActionTag": -119647672,
+                        "Size": {
+                          "X": 1.0,
+                          "Y": 41.0
+                        },
+                        "Name": "vachdung_3_1_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 16,
+                        "LabelText": "Số GOLD",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 226.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6027,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.136,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 200.5,
+                        "RightMargin": 123.5,
+                        "TopMargin": 5.5,
+                        "BottomMargin": 5.5,
+                        "Tag": 189,
+                        "ActionTag": -241419360,
+                        "Size": {
+                          "X": 51.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0_0_0_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ImageChung/vachdung.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 275.0,
+                          "Y": 14.9425
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7333,
+                          "Y": 0.4981
+                        },
+                        "PreSize": {
+                          "X": 0.0027,
+                          "Y": 1.3667
+                        },
+                        "LeftMargin": 274.5,
+                        "RightMargin": 99.5,
+                        "TopMargin": -5.4425,
+                        "BottomMargin": -5.5575,
+                        "Tag": 190,
+                        "ActionTag": -1928290211,
+                        "Size": {
+                          "X": 1.0,
+                          "Y": 41.0
+                        },
+                        "Name": "vachdung_3_1_0_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 16,
+                        "LabelText": "Thời gian",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 325.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 223,
+                          "B": 88
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8667,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.184,
+                          "Y": 0.6333
+                        },
+                        "LeftMargin": 290.5,
+                        "RightMargin": 15.5,
+                        "TopMargin": 5.5,
+                        "BottomMargin": 5.5,
+                        "Tag": 191,
+                        "ActionTag": -1746659523,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 19.0
+                        },
+                        "Name": "Text_30_0_0_0_0_0_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 85001178,
+                    "Size": {
+                      "X": 375.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Panel_8",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "Bạn:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 381.5915,
+                      "Y": -328.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5844,
+                      "Y": -10.9667
+                    },
+                    "PreSize": {
+                      "X": 0.0582,
+                      "Y": 0.7
+                    },
+                    "LeftMargin": 381.5915,
+                    "RightMargin": 233.4085,
+                    "TopMargin": 348.4998,
+                    "BottomMargin": -339.4998,
+                    "Tag": 196,
+                    "ActionTag": 1079144166,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_27",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/bg_date.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 540.6505,
+                      "Y": -329.1741
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.68
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8279,
+                      "Y": -10.9725
+                    },
+                    "PreSize": {
+                      "X": 0.2527,
+                      "Y": 1.3333
+                    },
+                    "LeftMargin": 458.1505,
+                    "RightMargin": 29.8495,
+                    "TopMargin": 339.1741,
+                    "BottomMargin": -349.1741,
+                    "Tag": 107,
+                    "ActionTag": 1290173114,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Sprite_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "0",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/tahoma.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 541.875,
+                      "Y": -328.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 231,
+                      "G": 2,
+                      "B": 254
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8298,
+                      "Y": -10.9667
+                    },
+                    "PreSize": {
+                      "X": 0.3461,
+                      "Y": 0.7
+                    },
+                    "LeftMargin": 428.875,
+                    "RightMargin": -1.875,
+                    "TopMargin": 348.4998,
+                    "BottomMargin": -339.4998,
+                    "Tag": 197,
+                    "ActionTag": 1076071806,
+                    "Size": {
+                      "X": 226.0,
+                      "Y": 21.0
+                    },
+                    "Name": "lb_your_vin",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 1.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.1667
+                    },
+                    "TopMargin": -35.0,
+                    "BottomMargin": 30.0,
+                    "Tag": 193,
+                    "Children": [
+                      {
+                        "FontSize": 20,
+                        "LabelText": "BẢNG VINH DANH",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 187.0,
+                          "Y": 17.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 241,
+                          "G": 224,
+                          "B": 99
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2864,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2542,
+                          "Y": 0.6571
+                        },
+                        "LeftMargin": 104.0,
+                        "RightMargin": 383.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 194,
+                        "ActionTag": -1564450130,
+                        "Size": {
+                          "X": 166.0,
+                          "Y": 23.0
+                        },
+                        "Name": "Text_25",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 20,
+                        "LabelText": "BẢNG XẾP HẠNG",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/tahoma.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 515.0,
+                          "Y": 17.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 241,
+                          "G": 224,
+                          "B": 99
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7887,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2404,
+                          "Y": 0.6571
+                        },
+                        "LeftMargin": 436.5,
+                        "RightMargin": 59.5,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 195,
+                        "ActionTag": -447147642,
+                        "Size": {
+                          "X": 157.0,
+                          "Y": 23.0
+                        },
+                        "Name": "Text_25_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -717484194,
+                    "Size": {
+                      "X": 653.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Panel_11",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -63309627,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 30.0
+                },
+                "Name": "pTanRutLoc",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 748955230,
+            "Size": {
+              "X": 705.0,
+              "Y": 495.0
+            },
+            "Name": "pTopUser",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/tahoma.ttf",
+        "Font/tahoma.ttf",
+        "Font/tahoma.ttf",
+        "Font/tahoma.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/bg_date.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/btn_thanhdu.png",
+        "Minigame/ImageChung/btn_thanhdu_mid_s.png",
+        "Minigame/ImageChung/btn_thanhdu_s.png",
+        "Minigame/ImageChung/Title.png",
+        "Minigame/ImageChung/vachdung.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

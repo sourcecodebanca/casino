@@ -1,0 +1,62 @@
+
+baucua_spine_title.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bau
+  rotate: true
+  xy: 644, 119
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+khan-bau
+  rotate: false
+  xy: 742, 127
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+light-baucua1
+  rotate: false
+  xy: 550, 104
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+light-baucua2
+  rotate: false
+  xy: 550, 104
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+light-big
+  rotate: false
+  xy: 2, 2
+  size: 279, 193
+  orig: 279, 193
+  offset: 0, 0
+  index: -1
+text-bau
+  rotate: false
+  xy: 283, 90
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+text-cua
+  rotate: false
+  xy: 283, 15
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+tom
+  rotate: false
+  xy: 439, 87
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1

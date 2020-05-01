@@ -1,0 +1,4684 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.4",
+  "Name": "SlotsKhoBau",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "SlotKhoBau/bg/nen.jpg",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 633,
+            "Scale9OriginY": 356,
+            "Scale9Width": 14,
+            "Scale9Height": 8,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 471,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/bg/khungchoi.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 195,
+                "Scale9OriginY": 106,
+                "Scale9Width": 712,
+                "Scale9Height": 328,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0001,
+                  "Y": 371.0004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5153
+                },
+                "PreSize": {
+                  "X": 0.8609,
+                  "Y": 0.75
+                },
+                "LeftMargin": 89.0001,
+                "RightMargin": 88.9999,
+                "TopMargin": 78.9996,
+                "BottomMargin": 101.0004,
+                "Tag": 472,
+                "Children": [
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 41.0003,
+                      "Y": 18.0004
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0372,
+                      "Y": 0.0333
+                    },
+                    "PreSize": {
+                      "X": 0.1788,
+                      "Y": 0.9389
+                    },
+                    "LeftMargin": 41.0003,
+                    "RightMargin": 863.9997,
+                    "TopMargin": 14.9996,
+                    "BottomMargin": 18.0004,
+                    "Tag": 525,
+                    "ActionTag": 262496500,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 507.0
+                    },
+                    "Name": "pColum1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 245.0038,
+                      "Y": 18.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2223,
+                      "Y": 0.0333
+                    },
+                    "PreSize": {
+                      "X": 0.1788,
+                      "Y": 0.9389
+                    },
+                    "LeftMargin": 245.0038,
+                    "RightMargin": 659.9962,
+                    "TopMargin": 15.0,
+                    "BottomMargin": 18.0,
+                    "Tag": 526,
+                    "ActionTag": -304705396,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 507.0
+                    },
+                    "Name": "pColum2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 449.0006,
+                      "Y": 18.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4074,
+                      "Y": 0.0333
+                    },
+                    "PreSize": {
+                      "X": 0.1788,
+                      "Y": 0.9389
+                    },
+                    "LeftMargin": 449.0006,
+                    "RightMargin": 455.9994,
+                    "TopMargin": 14.9999,
+                    "BottomMargin": 18.0001,
+                    "Tag": 527,
+                    "ActionTag": 626766316,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 507.0
+                    },
+                    "Name": "pColum3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 656.0,
+                      "Y": 18.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5953,
+                      "Y": 0.0333
+                    },
+                    "PreSize": {
+                      "X": 0.1788,
+                      "Y": 0.9389
+                    },
+                    "LeftMargin": 656.0,
+                    "RightMargin": 249.0,
+                    "TopMargin": 15.0,
+                    "BottomMargin": 18.0,
+                    "Tag": 528,
+                    "ActionTag": 69947380,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 507.0
+                    },
+                    "Name": "pColum4",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 858.0089,
+                      "Y": 18.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7786,
+                      "Y": 0.0333
+                    },
+                    "PreSize": {
+                      "X": 0.1788,
+                      "Y": 0.9389
+                    },
+                    "LeftMargin": 858.0089,
+                    "RightMargin": 46.9911,
+                    "TopMargin": 14.9999,
+                    "BottomMargin": 18.0001,
+                    "Tag": 529,
+                    "ActionTag": -1378562253,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 507.0
+                    },
+                    "Name": "pColum5",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 118299476,
+                "Size": {
+                  "X": 1102.0,
+                  "Y": 540.0
+                },
+                "Name": "pItem",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -237,
+                "Scale9OriginY": -52,
+                "Scale9Width": 474,
+                "Scale9Height": 104,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 473,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/bg/bg_tab_duoi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 64.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0896
+                    },
+                    "PreSize": {
+                      "X": 0.9969,
+                      "Y": 0.1792
+                    },
+                    "LeftMargin": 2.0,
+                    "RightMargin": 2.0,
+                    "TopMargin": 591.0,
+                    "Tag": 108,
+                    "ActionTag": -826886409,
+                    "Size": {
+                      "X": 1276.0,
+                      "Y": 129.0
+                    },
+                    "Name": "Sprite_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/bg/bg_tab_tren.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0001,
+                      "Y": 668.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9278
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1458
+                    },
+                    "LeftMargin": 0.0001,
+                    "RightMargin": -0.0001,
+                    "TopMargin": -0.5,
+                    "BottomMargin": 615.5,
+                    "Tag": 109,
+                    "ActionTag": 60692992,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 105.0
+                    },
+                    "Name": "Sprite_1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/setting_click.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/setting_click.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/setting_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 41,
+                    "Scale9Height": 48,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1208.514,
+                      "Y": 680.7487
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9442,
+                      "Y": 0.9455
+                    },
+                    "PreSize": {
+                      "X": 0.0555,
+                      "Y": 0.0972
+                    },
+                    "LeftMargin": 1173.014,
+                    "RightMargin": 35.986,
+                    "TopMargin": 4.2513,
+                    "BottomMargin": 645.7487,
+                    "Tag": 72,
+                    "ActionTag": -1934522685,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_setting",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/bg_hu.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 667.0509
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9265
+                    },
+                    "PreSize": {
+                      "X": 0.3344,
+                      "Y": 0.1806
+                    },
+                    "LeftMargin": 426.0,
+                    "RightMargin": 426.0,
+                    "TopMargin": -12.0509,
+                    "BottomMargin": 602.0509,
+                    "Tag": 116,
+                    "ActionTag": -142969316,
+                    "Size": {
+                      "X": 428.0,
+                      "Y": 130.0
+                    },
+                    "Name": "Sprite_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/x2_quy_thuong.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 696.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9667
+                    },
+                    "PreSize": {
+                      "X": 0.1656,
+                      "Y": 0.05
+                    },
+                    "LeftMargin": 534.0,
+                    "RightMargin": 534.0,
+                    "TopMargin": 6.0,
+                    "BottomMargin": 678.0,
+                    "Tag": 185,
+                    "ActionTag": -310829795,
+                    "Size": {
+                      "X": 212.0,
+                      "Y": 36.0
+                    },
+                    "Name": "sp_quy_thuong",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 40,
+                    "LabelText": "0",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 638.6292,
+                      "Y": 635.6263
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4989,
+                      "Y": 0.8828
+                    },
+                    "PreSize": {
+                      "X": 0.1937,
+                      "Y": 0.0653
+                    },
+                    "LeftMargin": 514.6292,
+                    "RightMargin": 517.3708,
+                    "TopMargin": 60.8737,
+                    "BottomMargin": 612.1263,
+                    "Tag": 117,
+                    "ActionTag": -1571923872,
+                    "Size": {
+                      "X": 248.0,
+                      "Y": 47.0
+                    },
+                    "Name": "lb_hu",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "2.000.000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 458.1531,
+                      "Y": 34.0381
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3579,
+                      "Y": 0.0473
+                    },
+                    "PreSize": {
+                      "X": 0.1172,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 383.1531,
+                    "RightMargin": 746.8469,
+                    "TopMargin": 669.4619,
+                    "BottomMargin": 17.5381,
+                    "Tag": 514,
+                    "ActionTag": 934892766,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 33.0
+                    },
+                    "Name": "lb_tong_dat",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "2.000.000.000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 284.0194,
+                      "Y": 685.1698
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 231,
+                      "G": 2,
+                      "B": 254
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2219,
+                      "Y": 0.9516
+                    },
+                    "PreSize": {
+                      "X": 0.1563,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 184.0194,
+                    "RightMargin": 895.9806,
+                    "TopMargin": 18.3302,
+                    "BottomMargin": 668.6698,
+                    "Tag": 517,
+                    "ActionTag": 344782130,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 33.0
+                    },
+                    "Name": "lb_total_money",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_quay_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_quay_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_quay.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 221,
+                    "Scale9Height": 62,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1121.7695,
+                      "Y": 47.6534
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8764,
+                      "Y": 0.0662
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1167
+                    },
+                    "LeftMargin": 996.2695,
+                    "RightMargin": 32.7305,
+                    "TopMargin": 630.3466,
+                    "BottomMargin": 5.6534,
+                    "Tag": 518,
+                    "ActionTag": 1668122470,
+                    "Size": {
+                      "X": 251.0,
+                      "Y": 84.0
+                    },
+                    "Name": "btn_quay",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_tuquay_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_tuquay_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_tuquay.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 193,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 876.0075,
+                      "Y": 48.5767
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6844,
+                      "Y": 0.0675
+                    },
+                    "PreSize": {
+                      "X": 0.1742,
+                      "Y": 0.1028
+                    },
+                    "LeftMargin": 764.5075,
+                    "RightMargin": 292.4925,
+                    "TopMargin": 634.4233,
+                    "BottomMargin": 11.5767,
+                    "Tag": 519,
+                    "ActionTag": -994790587,
+                    "Size": {
+                      "X": 223.0,
+                      "Y": 74.0
+                    },
+                    "Name": "btn_tu_quay",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "0",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 652.7917,
+                      "Y": 31.5887
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.0439
+                    },
+                    "PreSize": {
+                      "X": 0.1563,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 552.7917,
+                    "RightMargin": 527.2083,
+                    "TopMargin": 671.9113,
+                    "BottomMargin": 15.0887,
+                    "Tag": 530,
+                    "ActionTag": 141735687,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 33.0
+                    },
+                    "Name": "lb_prize",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chondong_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chondong_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chondong.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 191.1449,
+                      "Y": 47.694
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1493,
+                      "Y": 0.0662
+                    },
+                    "PreSize": {
+                      "X": 0.0781,
+                      "Y": 0.1028
+                    },
+                    "LeftMargin": 141.1449,
+                    "RightMargin": 1038.8551,
+                    "TopMargin": 635.306,
+                    "BottomMargin": 10.694,
+                    "Tag": 110,
+                    "ActionTag": -1322909926,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 74.0
+                    },
+                    "Name": "btn_dong",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_bangthuong_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_bangthuong_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_bangthuong.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 82.5901,
+                      "Y": 48.6569
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0645,
+                      "Y": 0.0676
+                    },
+                    "PreSize": {
+                      "X": 0.0781,
+                      "Y": 0.1028
+                    },
+                    "LeftMargin": 32.5901,
+                    "RightMargin": 1147.4099,
+                    "TopMargin": 634.3431,
+                    "BottomMargin": 11.6569,
+                    "Tag": 111,
+                    "ActionTag": -70920982,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 74.0
+                    },
+                    "Name": "btn_bang_thuong",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/muc_click.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/muc_click.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/muc_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 93,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 307.9279,
+                      "Y": 45.0432
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2406,
+                      "Y": 0.0626
+                    },
+                    "PreSize": {
+                      "X": 0.0961,
+                      "Y": 0.1083
+                    },
+                    "LeftMargin": 246.4279,
+                    "RightMargin": 910.5721,
+                    "TopMargin": 635.9568,
+                    "BottomMargin": 6.0432,
+                    "Tag": 112,
+                    "ActionTag": -1784807695,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_muc_cuoc",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 191.7791,
+                      "Y": 33.431
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.0464
+                    },
+                    "PreSize": {
+                      "X": 0.0266,
+                      "Y": 0.0444
+                    },
+                    "LeftMargin": 174.7791,
+                    "RightMargin": 1071.2209,
+                    "TopMargin": 670.569,
+                    "BottomMargin": 17.431,
+                    "Tag": 516,
+                    "ActionTag": 1381077453,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 32.0
+                    },
+                    "Name": "lb_so_dong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "10.000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 307.911,
+                      "Y": 32.9931
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2406,
+                      "Y": 0.0458
+                    },
+                    "PreSize": {
+                      "X": 0.0828,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 254.911,
+                    "RightMargin": 919.089,
+                    "TopMargin": 670.5069,
+                    "BottomMargin": 16.4931,
+                    "Tag": 515,
+                    "ActionTag": 1820243185,
+                    "Size": {
+                      "X": 106.0,
+                      "Y": 33.0
+                    },
+                    "Name": "lb_muc_dat",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/an_click.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/an_click.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/an_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 46,
+                    "Scale9Height": 28,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1103.4298,
+                      "Y": 684.725
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8621,
+                      "Y": 0.951
+                    },
+                    "PreSize": {
+                      "X": 0.0594,
+                      "Y": 0.0694
+                    },
+                    "LeftMargin": 1065.4298,
+                    "RightMargin": 138.5702,
+                    "TopMargin": 10.275,
+                    "BottomMargin": 659.725,
+                    "Tag": 113,
+                    "ActionTag": 1113920746,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 50.0
+                    },
+                    "Name": "btn_an",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_vinhdanh_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_vinhdanh_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_vinhdanh.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 46,
+                    "Scale9Height": 28,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 896.8357,
+                      "Y": 686.1116
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7007,
+                      "Y": 0.9529
+                    },
+                    "PreSize": {
+                      "X": 0.0594,
+                      "Y": 0.0694
+                    },
+                    "LeftMargin": 858.8357,
+                    "RightMargin": 345.1643,
+                    "TopMargin": 8.8884,
+                    "BottomMargin": 661.1116,
+                    "Tag": 114,
+                    "ActionTag": -520779218,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 50.0
+                    },
+                    "Name": "btn_top_no_hu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_lsgd_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_lsgd_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_lsgd.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 46,
+                    "Scale9Height": 28,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 999.5,
+                      "Y": 684.5348
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7809,
+                      "Y": 0.9507
+                    },
+                    "PreSize": {
+                      "X": 0.0594,
+                      "Y": 0.0694
+                    },
+                    "LeftMargin": 961.5,
+                    "RightMargin": 242.5,
+                    "TopMargin": 10.4652,
+                    "BottomMargin": 659.5348,
+                    "Tag": 115,
+                    "ActionTag": 221078188,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 50.0
+                    },
+                    "Name": "btn_lich_su",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/gio_vang_x2.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/gio_vang_x2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/gio_vang_x2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 143,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3333,
+                      "Y": 422.7134
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0385,
+                      "Y": 0.5871
+                    },
+                    "PreSize": {
+                      "X": 0.0781,
+                      "Y": 0.2292
+                    },
+                    "LeftMargin": -0.6667,
+                    "RightMargin": 1180.6667,
+                    "TopMargin": 214.7866,
+                    "BottomMargin": 340.2134,
+                    "Tag": 184,
+                    "Children": [
+                      {
+                        "FontSize": 16,
+                        "LabelText": "22/12/2016",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Bold.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.9682,
+                          "Y": 23.6197
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4697,
+                          "Y": 0.1431
+                        },
+                        "PreSize": {
+                          "X": 0.87,
+                          "Y": 0.1152
+                        },
+                        "LeftMargin": 3.4682,
+                        "RightMargin": 9.5318,
+                        "TopMargin": 131.8803,
+                        "BottomMargin": 14.1197,
+                        "Tag": 198,
+                        "ActionTag": 1335140613,
+                        "Size": {
+                          "X": 87.0,
+                          "Y": 19.0
+                        },
+                        "Name": "lb_date_x2",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -981207557,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 165.0
+                    },
+                    "Name": "btn_x2_quy_thuong",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/luot_quay_mien_phi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 48.0495,
+                      "Y": 283.258
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0375,
+                      "Y": 0.3934
+                    },
+                    "PreSize": {
+                      "X": 0.0648,
+                      "Y": 0.1194
+                    },
+                    "LeftMargin": 6.5495,
+                    "RightMargin": 1190.4506,
+                    "TopMargin": 393.742,
+                    "BottomMargin": 240.258,
+                    "Tag": 912,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 36,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Bold.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 77,
+                          "G": 77,
+                          "B": 77
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 40.3604,
+                          "Y": 45.3587
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4863,
+                          "Y": 0.5274
+                        },
+                        "PreSize": {
+                          "X": 0.6024,
+                          "Y": 0.4884
+                        },
+                        "LeftMargin": 15.3604,
+                        "RightMargin": 17.6396,
+                        "TopMargin": 19.6413,
+                        "BottomMargin": 24.3587,
+                        "Tag": 913,
+                        "ActionTag": -675847138,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 42.0
+                        },
+                        "Name": "lb_so_luot_mien_phi",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -960356255,
+                    "Size": {
+                      "X": 83.0,
+                      "Y": 86.0
+                    },
+                    "Name": "sp_luot_mien_phi",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_back_sanh_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_back_sanh_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_back_sanh.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 36,
+                    "Scale9Height": 63,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 71.0,
+                      "Y": 670.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0555,
+                      "Y": 0.9306
+                    },
+                    "PreSize": {
+                      "X": 0.0516,
+                      "Y": 0.1181
+                    },
+                    "LeftMargin": 38.0,
+                    "RightMargin": 1176.0,
+                    "TopMargin": 7.5,
+                    "BottomMargin": 627.5,
+                    "Tag": 123,
+                    "ActionTag": -1358619033,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 85.0
+                    },
+                    "Name": "btn_back_lobby",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_choithu.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_choithu.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_choithu.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 60,
+                    "Scale9Height": 55,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.6443,
+                      "Y": 556.0496
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0388,
+                      "Y": 0.7723
+                    },
+                    "PreSize": {
+                      "X": 0.0703,
+                      "Y": 0.1069
+                    },
+                    "LeftMargin": 4.6443,
+                    "RightMargin": 1185.3557,
+                    "TopMargin": 125.4504,
+                    "BottomMargin": 517.5496,
+                    "Tag": 122,
+                    "ActionTag": 1687566632,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 77.0
+                    },
+                    "Name": "btn_choi_thu",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -266932877,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "pMenu",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4867,
+                  "Y": 0.8653
+                },
+                "LeftMargin": 328.5,
+                "RightMargin": 328.5,
+                "TopMargin": 48.5,
+                "BottomMargin": 48.5,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/sp_anhsang_nohu.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 311.5,
+                      "Y": 311.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 56,
+                    "ActionTag": 361742876,
+                    "Size": {
+                      "X": 623.0,
+                      "Y": 623.0
+                    },
+                    "Name": "sp_bg_sang_vang",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/homkhobau.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 311.5,
+                      "Y": 311.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7721,
+                      "Y": 0.4703
+                    },
+                    "LeftMargin": 71.0,
+                    "RightMargin": 71.0,
+                    "TopMargin": 165.0,
+                    "BottomMargin": 165.0,
+                    "Tag": 57,
+                    "ActionTag": 173682456,
+                    "Size": {
+                      "X": 481.0,
+                      "Y": 293.0
+                    },
+                    "Name": "sp_duong_vang",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star_white.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 268.3315,
+                      "Y": 393.5906
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4307,
+                      "Y": 0.6318
+                    },
+                    "PreSize": {
+                      "X": 0.2006,
+                      "Y": 0.1894
+                    },
+                    "LeftMargin": 205.8315,
+                    "RightMargin": 292.1685,
+                    "TopMargin": 170.4094,
+                    "BottomMargin": 334.5906,
+                    "Tag": 58,
+                    "ActionTag": 1844697680,
+                    "Size": {
+                      "X": 125.0,
+                      "Y": 118.0
+                    },
+                    "Name": "sp_star1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star_white.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 345.6861,
+                      "Y": 345.7756
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5549,
+                      "Y": 0.555
+                    },
+                    "PreSize": {
+                      "X": 0.2006,
+                      "Y": 0.1894
+                    },
+                    "LeftMargin": 283.1861,
+                    "RightMargin": 214.8139,
+                    "TopMargin": 218.2244,
+                    "BottomMargin": 286.7756,
+                    "Tag": 59,
+                    "ActionTag": 871295675,
+                    "Size": {
+                      "X": 125.0,
+                      "Y": 118.0
+                    },
+                    "Name": "sp_star2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star_white.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 241.0598,
+                      "Y": 341.6842
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3869,
+                      "Y": 0.5484
+                    },
+                    "PreSize": {
+                      "X": 0.2006,
+                      "Y": 0.1894
+                    },
+                    "LeftMargin": 178.5598,
+                    "RightMargin": 319.4402,
+                    "TopMargin": 222.3158,
+                    "BottomMargin": 282.6842,
+                    "Tag": 60,
+                    "ActionTag": 926794040,
+                    "Size": {
+                      "X": 125.0,
+                      "Y": 118.0
+                    },
+                    "Name": "sp_star3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 327.8683,
+                      "Y": 287.9622
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5263,
+                      "Y": 0.4622
+                    },
+                    "PreSize": {
+                      "X": 0.2006,
+                      "Y": 0.1894
+                    },
+                    "LeftMargin": 265.3683,
+                    "RightMargin": 232.6317,
+                    "TopMargin": 276.0378,
+                    "BottomMargin": 228.9622,
+                    "Tag": 62,
+                    "ActionTag": -29466935,
+                    "Size": {
+                      "X": 125.0,
+                      "Y": 118.0
+                    },
+                    "Name": "sp_star4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 459.7099,
+                      "Y": 414.0148
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7379,
+                      "Y": 0.6646
+                    },
+                    "PreSize": {
+                      "X": 0.0899,
+                      "Y": 0.0899
+                    },
+                    "LeftMargin": 431.7099,
+                    "RightMargin": 135.2901,
+                    "TopMargin": 180.9852,
+                    "BottomMargin": 386.0148,
+                    "Tag": 65,
+                    "ActionTag": 985521971,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 56.0
+                    },
+                    "Name": "sp_star_vang3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 369.9009,
+                      "Y": 312.6636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5937,
+                      "Y": 0.5019
+                    },
+                    "PreSize": {
+                      "X": 0.0899,
+                      "Y": 0.0899
+                    },
+                    "LeftMargin": 341.9009,
+                    "RightMargin": 225.0991,
+                    "TopMargin": 282.3364,
+                    "BottomMargin": 284.6636,
+                    "Tag": 64,
+                    "ActionTag": -1278599789,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 56.0
+                    },
+                    "Name": "sp_star_vang4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.4269,
+                      "ScaleY": 0.4887
+                    },
+                    "Position": {
+                      "X": 123.0238,
+                      "Y": 402.111
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1975,
+                      "Y": 0.6454
+                    },
+                    "PreSize": {
+                      "X": 0.0899,
+                      "Y": 0.0899
+                    },
+                    "LeftMargin": 99.1174,
+                    "RightMargin": 467.8826,
+                    "TopMargin": 192.2562,
+                    "BottomMargin": 374.7438,
+                    "Tag": 63,
+                    "ActionTag": -36651560,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 56.0
+                    },
+                    "Name": "sp_star_vang2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/star1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 118.2969,
+                      "Y": 153.957
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1899,
+                      "Y": 0.2471
+                    },
+                    "PreSize": {
+                      "X": 0.0899,
+                      "Y": 0.0899
+                    },
+                    "LeftMargin": 90.2969,
+                    "RightMargin": 476.7031,
+                    "TopMargin": 441.043,
+                    "BottomMargin": 125.957,
+                    "Tag": 61,
+                    "ActionTag": -1024570059,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 56.0
+                    },
+                    "Name": "sp_star_vang1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/txt_nohu.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 311.5,
+                      "Y": 226.0398
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3628
+                    },
+                    "PreSize": {
+                      "X": 0.5811,
+                      "Y": 0.2215
+                    },
+                    "LeftMargin": 130.5,
+                    "RightMargin": 130.5,
+                    "TopMargin": 327.9602,
+                    "BottomMargin": 157.0398,
+                    "Tag": 66,
+                    "ActionTag": -1505238774,
+                    "Size": {
+                      "X": 362.0,
+                      "Y": 138.0
+                    },
+                    "Name": "sp_txt_no_hu",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1292950773,
+                "Size": {
+                  "X": 623.0,
+                  "Y": 623.0
+                },
+                "VisibleForFrame": false,
+                "Name": "pNoHu",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4867,
+                  "Y": 0.8653
+                },
+                "LeftMargin": 328.5,
+                "RightMargin": 328.5,
+                "TopMargin": 48.5,
+                "BottomMargin": 48.5,
+                "Tag": 67,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/sp_anhsang.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 311.5,
+                      "Y": 311.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 68,
+                    "ActionTag": 1282874016,
+                    "Size": {
+                      "X": 623.0,
+                      "Y": 623.0
+                    },
+                    "Name": "sp_bg_sang_xanh",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/tuitien.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 300.4997,
+                      "Y": 309.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4823,
+                      "Y": 0.4968
+                    },
+                    "PreSize": {
+                      "X": 0.4366,
+                      "Y": 0.4238
+                    },
+                    "LeftMargin": 164.4997,
+                    "RightMargin": 186.5003,
+                    "TopMargin": 181.5,
+                    "BottomMargin": 177.5,
+                    "Tag": 69,
+                    "ActionTag": 475542854,
+                    "Size": {
+                      "X": 272.0,
+                      "Y": 264.0
+                    },
+                    "Name": "sp_tui_tien",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/hieuung/txt_thanglon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 298.4997,
+                      "Y": 440.0354
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4791,
+                      "Y": 0.7063
+                    },
+                    "PreSize": {
+                      "X": 0.8555,
+                      "Y": 0.252
+                    },
+                    "LeftMargin": 31.9997,
+                    "RightMargin": 58.0003,
+                    "TopMargin": 104.4646,
+                    "BottomMargin": 361.5354,
+                    "Tag": 78,
+                    "ActionTag": -246262270,
+                    "Size": {
+                      "X": 533.0,
+                      "Y": 157.0
+                    },
+                    "Name": "sp_txt_thang_lon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1864713897,
+                "Size": {
+                  "X": 623.0,
+                  "Y": 623.0
+                },
+                "VisibleForFrame": false,
+                "Name": "pThangLon",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 204,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 101,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 104,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/glow_minigame.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 640.0,
+                          "Y": 360.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8453,
+                          "Y": 1.5028
+                        },
+                        "LeftMargin": 99.0,
+                        "RightMargin": 99.0,
+                        "TopMargin": -181.0,
+                        "BottomMargin": -181.0,
+                        "Tag": 105,
+                        "ActionTag": -1029737439,
+                        "Size": {
+                          "X": 1082.0,
+                          "Y": 1082.0
+                        },
+                        "Name": "sp_sang_vang_ban_do",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/sao.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 640.0,
+                          "Y": 360.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5531,
+                          "Y": 1.1764
+                        },
+                        "LeftMargin": 286.0,
+                        "RightMargin": 286.0,
+                        "TopMargin": -63.5,
+                        "BottomMargin": -63.5,
+                        "Tag": 106,
+                        "ActionTag": -1716182165,
+                        "Size": {
+                          "X": 708.0,
+                          "Y": 847.0
+                        },
+                        "Name": "sp_sao_ban_do",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/bg.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/bg.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/bg.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 661,
+                        "Scale9Height": 663,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 640.0,
+                          "Y": 360.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5398,
+                          "Y": 0.9514
+                        },
+                        "LeftMargin": 294.5,
+                        "RightMargin": 294.5,
+                        "TopMargin": 17.5,
+                        "BottomMargin": 17.5,
+                        "Tag": 102,
+                        "ActionTag": 328880564,
+                        "Size": {
+                          "X": 691.0,
+                          "Y": 685.0
+                        },
+                        "Name": "btn_ban_do",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1998598544,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "pStartBanDo",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/minigame/bg_ingame.png",
+                      "Plist": ""
+                    },
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 431,
+                    "Scale9OriginY": 221,
+                    "Scale9Width": 403,
+                    "Scale9Height": 208,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 103,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 36,
+                        "LabelText": "10",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Bold.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 375.3715,
+                          "Y": 79.4041
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 144,
+                          "G": 238,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2933,
+                          "Y": 0.1103
+                        },
+                        "PreSize": {
+                          "X": 0.0508,
+                          "Y": 0.0583
+                        },
+                        "LeftMargin": 342.8715,
+                        "RightMargin": 872.1285,
+                        "TopMargin": 619.5959,
+                        "BottomMargin": 58.4041,
+                        "Tag": 107,
+                        "ActionTag": 1593838826,
+                        "Size": {
+                          "X": 65.0,
+                          "Y": 42.0
+                        },
+                        "Name": "lb_lan_con_lai",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 36,
+                        "LabelText": "X1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Bold.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1036.3708,
+                          "Y": 79.4041
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 144,
+                          "G": 238,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8097,
+                          "Y": 0.1103
+                        },
+                        "PreSize": {
+                          "X": 0.0477,
+                          "Y": 0.0583
+                        },
+                        "LeftMargin": 1005.8708,
+                        "RightMargin": 213.1292,
+                        "TopMargin": 619.5959,
+                        "BottomMargin": 58.4041,
+                        "Tag": 108,
+                        "ActionTag": -1797196573,
+                        "Size": {
+                          "X": 61.0,
+                          "Y": 42.0
+                        },
+                        "Name": "lb_diem_tich_luy",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1987838837,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "pPlayBanDo",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3438,
+                      "Y": 0.4444
+                    },
+                    "LeftMargin": 420.0,
+                    "RightMargin": 420.0,
+                    "TopMargin": 200.0,
+                    "BottomMargin": 200.0,
+                    "Tag": 109,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/bg/bg_ls.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 30,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 318,
+                        "Scale9Height": 247,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 220.0,
+                          "Y": 160.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 110,
+                        "ActionTag": -2064310789,
+                        "Size": {
+                          "X": 440.0,
+                          "Y": 320.0
+                        },
+                        "Name": "Image_10",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/bg/bg_ls3.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 30,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 303,
+                        "Scale9Height": 213,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 220.0,
+                          "Y": 142.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4437
+                        },
+                        "PreSize": {
+                          "X": 0.9682,
+                          "Y": 0.8531
+                        },
+                        "LeftMargin": 7.0,
+                        "RightMargin": 7.0,
+                        "TopMargin": 41.5,
+                        "BottomMargin": 5.5,
+                        "Tag": 111,
+                        "ActionTag": -1770272920,
+                        "Size": {
+                          "X": 426.0,
+                          "Y": 273.0
+                        },
+                        "Name": "Image_11",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1870256245,
+                    "Size": {
+                      "X": 440.0,
+                      "Y": 320.0
+                    },
+                    "Name": "pMayMan",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3438,
+                      "Y": 0.4444
+                    },
+                    "LeftMargin": 420.0,
+                    "RightMargin": 420.0,
+                    "TopMargin": 200.0,
+                    "BottomMargin": 200.0,
+                    "Tag": 112,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/bg/bg_ls.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 30,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 318,
+                        "Scale9Height": 247,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 220.0,
+                          "Y": 160.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 113,
+                        "ActionTag": -1235199702,
+                        "Size": {
+                          "X": 440.0,
+                          "Y": 320.0
+                        },
+                        "Name": "Image_10",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/bg/bg_ls3.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 30,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 303,
+                        "Scale9Height": 213,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 220.0657,
+                          "Y": 142.1652
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5001,
+                          "Y": 0.4443
+                        },
+                        "PreSize": {
+                          "X": 0.9682,
+                          "Y": 0.8531
+                        },
+                        "LeftMargin": 7.0657,
+                        "RightMargin": 6.9343,
+                        "TopMargin": 41.3348,
+                        "BottomMargin": 5.6652,
+                        "Tag": 114,
+                        "ActionTag": 1971157515,
+                        "Size": {
+                          "X": 426.0,
+                          "Y": 273.0
+                        },
+                        "Name": "Image_11",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 50,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Bold.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 219.4283,
+                          "Y": 145.7103
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4987,
+                          "Y": 0.4553
+                        },
+                        "PreSize": {
+                          "X": 0.925,
+                          "Y": 0.1875
+                        },
+                        "LeftMargin": 15.9283,
+                        "RightMargin": 17.0717,
+                        "TopMargin": 144.2897,
+                        "BottomMargin": 115.7103,
+                        "Tag": 115,
+                        "ActionTag": -2034759321,
+                        "Size": {
+                          "X": 407.0,
+                          "Y": 60.0
+                        },
+                        "Name": "lb_tong_tien_ban_do",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/diem_thang.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/diem_thang.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "SlotKhoBau/minigame/diem_thang.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 395,
+                        "Scale9Height": 287,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 221.7883,
+                          "Y": 159.6642
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5041,
+                          "Y": 0.499
+                        },
+                        "PreSize": {
+                          "X": 0.9659,
+                          "Y": 0.9656
+                        },
+                        "LeftMargin": 9.2883,
+                        "RightMargin": 5.7117,
+                        "TopMargin": 5.8358,
+                        "BottomMargin": 5.1642,
+                        "Tag": 116,
+                        "ActionTag": 2138239137,
+                        "Size": {
+                          "X": 425.0,
+                          "Y": 309.0
+                        },
+                        "Name": "btn_thoat_ban_do",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 159239830,
+                    "Size": {
+                      "X": 440.0,
+                      "Y": 320.0
+                    },
+                    "Name": "pEndBanDo",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 487682094,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "VisibleForFrame": false,
+                "Name": "pBanDoKhoBau",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 204,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -124,
+                "Scale9OriginY": -103,
+                "Scale9Width": 248,
+                "Scale9Height": 206,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 474,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/bg/bg_tab.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 100,
+                    "Scale9OriginY": 126,
+                    "Scale9Width": 1052,
+                    "Scale9Height": 376,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8242,
+                      "Y": 0.8944
+                    },
+                    "LeftMargin": 112.5,
+                    "RightMargin": 112.5,
+                    "TopMargin": 38.0,
+                    "BottomMargin": 38.0,
+                    "Tag": 184,
+                    "ActionTag": 255029654,
+                    "Size": {
+                      "X": 1055.0,
+                      "Y": 644.0
+                    },
+                    "Name": "Image_2_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/bg/title.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0002,
+                      "Y": 666.0011
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.925
+                    },
+                    "PreSize": {
+                      "X": 0.4484,
+                      "Y": 0.1181
+                    },
+                    "LeftMargin": 353.0002,
+                    "RightMargin": 352.9998,
+                    "TopMargin": 11.4989,
+                    "BottomMargin": 623.5011,
+                    "Tag": 488,
+                    "Children": [
+                      {
+                        "FontSize": 46,
+                        "LabelText": "SELECT LINE",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Black.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.0001,
+                          "Y": 49.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5765
+                        },
+                        "PreSize": {
+                          "X": 0.4564,
+                          "Y": 0.6353
+                        },
+                        "LeftMargin": 156.0001,
+                        "RightMargin": 155.9999,
+                        "TopMargin": 8.9998,
+                        "BottomMargin": 22.0002,
+                        "Tag": 476,
+                        "ActionTag": 70658278,
+                        "Size": {
+                          "X": 262.0,
+                          "Y": 54.0
+                        },
+                        "Name": "Text_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1519955468,
+                    "Size": {
+                      "X": 574.0,
+                      "Y": 85.0
+                    },
+                    "Name": "Sprite_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_dongchan_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_dongchan_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_dongchan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 211,
+                    "Scale9Height": 48,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1017.5103,
+                      "Y": 520.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7949,
+                      "Y": 0.7222
+                    },
+                    "PreSize": {
+                      "X": 0.1883,
+                      "Y": 0.0972
+                    },
+                    "LeftMargin": 897.0103,
+                    "RightMargin": 141.9897,
+                    "TopMargin": 165.0,
+                    "BottomMargin": 485.0,
+                    "Tag": 521,
+                    "ActionTag": 954552787,
+                    "Size": {
+                      "X": 241.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_dong_chan",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_dongle_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_dongle_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_dongle.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 211,
+                    "Scale9Height": 48,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1020.3563,
+                      "Y": 388.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7972,
+                      "Y": 0.5389
+                    },
+                    "PreSize": {
+                      "X": 0.1883,
+                      "Y": 0.0972
+                    },
+                    "LeftMargin": 899.8563,
+                    "RightMargin": 139.1437,
+                    "TopMargin": 297.0,
+                    "BottomMargin": 353.0,
+                    "Tag": 522,
+                    "ActionTag": 1107721859,
+                    "Size": {
+                      "X": 241.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_dong_le",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chonhet_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chonhet_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chonhet.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 211,
+                    "Scale9Height": 48,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1017.5103,
+                      "Y": 256.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7949,
+                      "Y": 0.3556
+                    },
+                    "PreSize": {
+                      "X": 0.1883,
+                      "Y": 0.0972
+                    },
+                    "LeftMargin": 897.0103,
+                    "RightMargin": 141.9897,
+                    "TopMargin": 429.0,
+                    "BottomMargin": 221.0,
+                    "Tag": 523,
+                    "ActionTag": 1746464140,
+                    "Size": {
+                      "X": 241.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_chon_het",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chonlai_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chonlai_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/btn_chonlai.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 211,
+                    "Scale9Height": 48,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1020.3578,
+                      "Y": 124.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7972,
+                      "Y": 0.1722
+                    },
+                    "PreSize": {
+                      "X": 0.1883,
+                      "Y": 0.0972
+                    },
+                    "LeftMargin": 899.8578,
+                    "RightMargin": 139.1422,
+                    "TopMargin": 561.0,
+                    "BottomMargin": 89.0,
+                    "Tag": 524,
+                    "ActionTag": -577653292,
+                    "Size": {
+                      "X": 241.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_chon_lai",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/huongdan/close_click.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/huongdan/close_click.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/huongdan/close_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 48,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1107.6771,
+                      "Y": 639.1495
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8654,
+                      "Y": 0.8877
+                    },
+                    "PreSize": {
+                      "X": 0.0609,
+                      "Y": 0.1083
+                    },
+                    "LeftMargin": 1068.6771,
+                    "RightMargin": 133.3229,
+                    "TopMargin": 41.8505,
+                    "BottomMargin": 600.1495,
+                    "Tag": 118,
+                    "ActionTag": -1103525012,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_close_chon_dong",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -422380516,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "VisibleForFrame": false,
+                "Name": "pChonDong",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/bg_setting.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 48,
+                "Scale9Width": 71,
+                "Scale9Height": 50,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1044.5703,
+                  "Y": 509.0621
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8161,
+                  "Y": 0.707
+                },
+                "PreSize": {
+                  "X": 0.1602,
+                  "Y": 0.2028
+                },
+                "LeftMargin": 1044.5703,
+                "RightMargin": 30.4297,
+                "TopMargin": 64.9379,
+                "BottomMargin": 509.0621,
+                "Tag": 73,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/am_thanh.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/am_thanh.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/am_thanh.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 32,
+                    "Scale9Height": 28,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 163.6754,
+                      "Y": 99.6303
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7984,
+                      "Y": 0.6824
+                    },
+                    "PreSize": {
+                      "X": 0.3024,
+                      "Y": 0.3425
+                    },
+                    "LeftMargin": 132.6754,
+                    "RightMargin": 10.3246,
+                    "TopMargin": 21.3697,
+                    "BottomMargin": 74.6303,
+                    "Tag": 74,
+                    "ActionTag": 1179925665,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 50.0
+                    },
+                    "Name": "btn_am_thanh",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/nhac_nen.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/nhac_nen.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/nhac_nen.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 32,
+                    "Scale9Height": 28,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 164.2874,
+                      "Y": 36.9709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8014,
+                      "Y": 0.2532
+                    },
+                    "PreSize": {
+                      "X": 0.3024,
+                      "Y": 0.3425
+                    },
+                    "LeftMargin": 133.2874,
+                    "RightMargin": 9.7126,
+                    "TopMargin": 84.0291,
+                    "BottomMargin": 11.9709,
+                    "Tag": 75,
+                    "ActionTag": -603025394,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 50.0
+                    },
+                    "Name": "btn_nhac_nen",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "Sound",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 69.7402,
+                      "Y": 99.6306
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3402,
+                      "Y": 0.6824
+                    },
+                    "PreSize": {
+                      "X": 0.4732,
+                      "Y": 0.1781
+                    },
+                    "LeftMargin": 21.2402,
+                    "RightMargin": 86.7598,
+                    "TopMargin": 33.3694,
+                    "BottomMargin": 86.6306,
+                    "Tag": 76,
+                    "ActionTag": -2136278145,
+                    "Size": {
+                      "X": 97.0,
+                      "Y": 26.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "Soundtrack",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 69.7751,
+                      "Y": 39.8175
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3404,
+                      "Y": 0.2727
+                    },
+                    "PreSize": {
+                      "X": 0.4634,
+                      "Y": 0.1781
+                    },
+                    "LeftMargin": 22.2751,
+                    "RightMargin": 87.7249,
+                    "TopMargin": 93.1825,
+                    "BottomMargin": 26.8175,
+                    "Tag": 77,
+                    "ActionTag": -267347299,
+                    "Size": {
+                      "X": 95.0,
+                      "Y": 26.0
+                    },
+                    "Name": "Text_2_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/off.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 178.1788,
+                      "Y": 91.7871
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8692,
+                      "Y": 0.6287
+                    },
+                    "PreSize": {
+                      "X": 0.161,
+                      "Y": 0.226
+                    },
+                    "LeftMargin": 161.6788,
+                    "RightMargin": 10.3212,
+                    "TopMargin": 37.7129,
+                    "BottomMargin": 75.2871,
+                    "Tag": 78,
+                    "ActionTag": 1673957501,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 33.0
+                    },
+                    "Name": "sp_off_am_thanh",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SlotKhoBau/off.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 178.2593,
+                      "Y": 30.2041
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8696,
+                      "Y": 0.2069
+                    },
+                    "PreSize": {
+                      "X": 0.161,
+                      "Y": 0.226
+                    },
+                    "LeftMargin": 161.7593,
+                    "RightMargin": 10.2407,
+                    "TopMargin": 99.2959,
+                    "BottomMargin": 13.7041,
+                    "Tag": 79,
+                    "ActionTag": 659391171,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 33.0
+                    },
+                    "Name": "sp_off_nhac_nen",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 254164676,
+                "Size": {
+                  "X": 205.0,
+                  "Y": 146.0
+                },
+                "Name": "pn_setting",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1741121096,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pSlotKhoBau",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/arialbd.ttf",
+        "Font/Roboto-Black.ttf",
+        "Font/Roboto-Bold.ttf",
+        "Minigame/ImageChung/gio_vang_x2.png",
+        "SlotKhoBau/am_thanh.png",
+        "SlotKhoBau/an_click.png",
+        "SlotKhoBau/an_nor.png",
+        "SlotKhoBau/bg/bg_ls.png",
+        "SlotKhoBau/bg/bg_ls3.png",
+        "SlotKhoBau/bg/bg_tab.png",
+        "SlotKhoBau/bg/bg_tab_duoi.png",
+        "SlotKhoBau/bg/bg_tab_tren.png",
+        "SlotKhoBau/bg/khungchoi.png",
+        "SlotKhoBau/bg/nen.jpg",
+        "SlotKhoBau/bg/title.png",
+        "SlotKhoBau/bg_hu.png",
+        "SlotKhoBau/bg_setting.png",
+        "SlotKhoBau/btn_back_sanh.png",
+        "SlotKhoBau/btn_back_sanh_s.png",
+        "SlotKhoBau/btn_bangthuong.png",
+        "SlotKhoBau/btn_bangthuong_s.png",
+        "SlotKhoBau/btn_choithu.png",
+        "SlotKhoBau/btn_chondong.png",
+        "SlotKhoBau/btn_chondong_s.png",
+        "SlotKhoBau/btn_chonhet.png",
+        "SlotKhoBau/btn_chonhet_s.png",
+        "SlotKhoBau/btn_chonlai.png",
+        "SlotKhoBau/btn_chonlai_s.png",
+        "SlotKhoBau/btn_dongchan.png",
+        "SlotKhoBau/btn_dongchan_s.png",
+        "SlotKhoBau/btn_dongle.png",
+        "SlotKhoBau/btn_dongle_s.png",
+        "SlotKhoBau/btn_lsgd.png",
+        "SlotKhoBau/btn_lsgd_s.png",
+        "SlotKhoBau/btn_quay.png",
+        "SlotKhoBau/btn_quay_s.png",
+        "SlotKhoBau/btn_tuquay.png",
+        "SlotKhoBau/btn_tuquay_s.png",
+        "SlotKhoBau/btn_vinhdanh.png",
+        "SlotKhoBau/btn_vinhdanh_s.png",
+        "SlotKhoBau/hieuung/homkhobau.png",
+        "SlotKhoBau/hieuung/sp_anhsang.png",
+        "SlotKhoBau/hieuung/sp_anhsang_nohu.png",
+        "SlotKhoBau/hieuung/star.png",
+        "SlotKhoBau/hieuung/star_white.png",
+        "SlotKhoBau/hieuung/star1.png",
+        "SlotKhoBau/hieuung/tuitien.png",
+        "SlotKhoBau/hieuung/txt_nohu.png",
+        "SlotKhoBau/hieuung/txt_thanglon.png",
+        "SlotKhoBau/huongdan/close_click.png",
+        "SlotKhoBau/huongdan/close_nor.png",
+        "SlotKhoBau/luot_quay_mien_phi.png",
+        "SlotKhoBau/minigame/bg.png",
+        "SlotKhoBau/minigame/bg_ingame.png",
+        "SlotKhoBau/minigame/diem_thang.png",
+        "SlotKhoBau/minigame/glow_minigame.png",
+        "SlotKhoBau/minigame/sao.png",
+        "SlotKhoBau/muc_click.png",
+        "SlotKhoBau/muc_nor.png",
+        "SlotKhoBau/nhac_nen.png",
+        "SlotKhoBau/off.png",
+        "SlotKhoBau/setting_click.png",
+        "SlotKhoBau/setting_nor.png",
+        "SlotKhoBau/x2_quy_thuong.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

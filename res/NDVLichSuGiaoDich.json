@@ -1,0 +1,742 @@
+{
+  "ID": "464b5fb8-5d39-4f74-a41b-2ed045f752fe",
+  "Version": "2.3.4",
+  "Name": "NDVLichSuGiaoDich",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 136,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NuDiepVien/bg/bg_tab.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 124,
+            "Scale9OriginY": 103,
+            "Scale9Width": 1032,
+            "Scale9Height": 514,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
+            "Tag": 137,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "LỊCH SỬ GIAO DỊCH",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 641.3956,
+                  "Y": 616.3089
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 250,
+                  "B": 140
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5011,
+                  "Y": 0.856
+                },
+                "PreSize": {
+                  "X": 0.325,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 433.3956,
+                "RightMargin": 430.6044,
+                "TopMargin": 72.6911,
+                "BottomMargin": 585.3089,
+                "Tag": 155,
+                "ActionTag": -402718163,
+                "Size": {
+                  "X": 416.0,
+                  "Y": 62.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/bg_page.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 80.3916
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1117
+                },
+                "PreSize": {
+                  "X": 0.1312,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 556.0,
+                "RightMargin": 556.0,
+                "TopMargin": 617.1084,
+                "BottomMargin": 57.8916,
+                "Tag": 145,
+                "ActionTag": 1353397776,
+                "Size": {
+                  "X": 168.0,
+                  "Y": 45.0
+                },
+                "Name": "Sprite_26",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "100/100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 80.3915
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1117
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0319
+                },
+                "LeftMargin": 595.0,
+                "RightMargin": 595.0,
+                "TopMargin": 628.1085,
+                "BottomMargin": 68.8915,
+                "Tag": 146,
+                "ActionTag": 1760720828,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 23.0
+                },
+                "Name": "lb_current_page_lsgd",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_back_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_back_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 49,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 774.7665,
+                  "Y": 81.3914
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6053,
+                  "Y": 0.113
+                },
+                "PreSize": {
+                  "X": 0.0477,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 744.2665,
+                "RightMargin": 474.7335,
+                "TopMargin": 616.1086,
+                "BottomMargin": 58.8914,
+                "Tag": 144,
+                "ActionTag": -411241964,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 45.0
+                },
+                "Name": "btn_neck_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_backall.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 49,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 862.2756,
+                  "Y": 81.3914
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6737,
+                  "Y": 0.113
+                },
+                "PreSize": {
+                  "X": 0.0477,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 831.7756,
+                "RightMargin": 387.2244,
+                "TopMargin": 616.1086,
+                "BottomMargin": 58.8914,
+                "Tag": 143,
+                "ActionTag": -1041956332,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 45.0
+                },
+                "Name": "btn_neckall_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_back_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_back_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 49,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 505.257,
+                  "Y": 80.3917
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3947,
+                  "Y": 0.1117
+                },
+                "PreSize": {
+                  "X": 0.0477,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 474.757,
+                "RightMargin": 744.243,
+                "TopMargin": 617.1083,
+                "BottomMargin": 57.8917,
+                "Tag": 142,
+                "ActionTag": 361809267,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 45.0
+                },
+                "Name": "btn_back_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_backall_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/btn_backall.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 49,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 419.7476,
+                  "Y": 80.3917
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3279,
+                  "Y": 0.1117
+                },
+                "PreSize": {
+                  "X": 0.0477,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 389.2476,
+                "RightMargin": 829.7524,
+                "TopMargin": 617.1083,
+                "BottomMargin": 57.8917,
+                "Tag": 141,
+                "ActionTag": -1373318064,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 45.0
+                },
+                "Name": "btn_back_all_lsgd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/bg/content_lsgd.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 114,
+                "Scale9OriginY": 44,
+                "Scale9Width": 864,
+                "Scale9Height": 346,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.8531,
+                  "Y": 0.6028
+                },
+                "LeftMargin": 94.0,
+                "RightMargin": 94.0,
+                "TopMargin": 174.0,
+                "BottomMargin": 112.0,
+                "Tag": 150,
+                "ActionTag": -1975267003,
+                "Size": {
+                  "X": 1092.0,
+                  "Y": 434.0
+                },
+                "Name": "img_ls_giao_dich",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0034,
+                  "Y": 115.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1597
+                },
+                "PreSize": {
+                  "X": 0.8531,
+                  "Y": 0.525
+                },
+                "LeftMargin": 94.0034,
+                "RightMargin": 93.9966,
+                "TopMargin": 226.9998,
+                "BottomMargin": 115.0002,
+                "Tag": 147,
+                "ActionTag": -197775162,
+                "Size": {
+                  "X": 1092.0,
+                  "Y": 378.0
+                },
+                "Name": "lv_lichsu",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/close_tab_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/close_tab_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NuDiepVien/close_tab.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 33,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1174.4556,
+                  "Y": 547.8951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9175,
+                  "Y": 0.761
+                },
+                "PreSize": {
+                  "X": 0.0492,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 1142.9556,
+                "RightMargin": 74.0444,
+                "TopMargin": 140.6049,
+                "BottomMargin": 516.3951,
+                "Tag": 156,
+                "ActionTag": 592239716,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 63.0
+                },
+                "Name": "btnCloseLichSuSlot",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 2079851858,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_lichsu",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Bold.ttf",
+        "Font/UTM-Bitsumishi-Pro.ttf",
+        "NuDiepVien/bg/bg_tab.png",
+        "NuDiepVien/bg/content_lsgd.png",
+        "NuDiepVien/bg_page.png",
+        "NuDiepVien/btn_back.png",
+        "NuDiepVien/btn_back_s.png",
+        "NuDiepVien/btn_backall.png",
+        "NuDiepVien/btn_backall_s.png",
+        "NuDiepVien/close_tab.png",
+        "NuDiepVien/close_tab_s.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,62 @@
+
+TLMNsolo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 56
+  rotate: false
+  xy: 429, 100
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+TLMN SOLO
+  rotate: false
+  xy: 222, 29
+  size: 122, 24
+  orig: 122, 24
+  offset: 0, 0
+  index: -1
+bai copy
+  rotate: false
+  xy: 716, 172
+  size: 135, 71
+  orig: 135, 71
+  offset: 0, 0
+  index: -1
+chip copy
+  rotate: false
+  xy: 574, 143
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 429, 71
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1
+xoay2
+  rotate: false
+  xy: 222, 55
+  size: 205, 188
+  orig: 205, 188
+  offset: 0, 0
+  index: -1
+xuduoi1
+  rotate: false
+  xy: 853, 192
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1

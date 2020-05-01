@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Minigame/TaiXiu/images/animation1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,1},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,1},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,267},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,267},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,267},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,533},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,533},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,533},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,799},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,799},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,799},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1065},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1331},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1597},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,1065},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,1065},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,1331},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+			<key>Minigame/TaiXiu/images/animation9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,1597},{264,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,264}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>animationTX.png</string>
+			<key>realTextureFileName</key>
+			<string>animationTX.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

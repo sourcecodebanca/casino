@@ -1,0 +1,312 @@
+{
+  "skeleton": {
+    "hash": " ",
+    "width": 221.45,
+    "height": 241,
+    "name": "armatureName",
+    "spine": "3.6.53",
+    "images": "../images/"
+  },
+  "bones": [
+    {
+      "name": "root",
+      "y": 12.57
+    },
+    {
+      "name": "khungall4",
+      "parent": "root",
+      "y": -12.57
+    },
+    {
+      "name": "co",
+      "parent": "khungall4",
+      "x": 20.49,
+      "y": 110.45
+    },
+    {
+      "name": "light7",
+      "parent": "khungall4",
+      "x": 96.46,
+      "y": 187.54
+    },
+    {
+      "name": "light8",
+      "parent": "khungall4",
+      "y": 16.03,
+      "x": -98.88
+    },
+    {
+      "x": -2.09,
+      "y": 34.99,
+      "name": "popup4",
+      "parent": "khungall4"
+    },
+    {
+      "x": -7.69,
+      "y": 135.19,
+      "name": "tienback",
+      "parent": "khungall4"
+    },
+    {
+      "x": -12.74,
+      "y": 101.56,
+      "name": "vongtronset",
+      "parent": "khungall4"
+    }
+  ],
+  "slots": [
+    {
+      "name": "popup4",
+      "bone": "popup4",
+      "attachment": "popup"
+    },
+    {
+      "name": "light7",
+      "bone": "light7",
+      "attachment": "light",
+      "color": "FFFFFFD1",
+      "blend": "additive"
+    },
+    {
+      "name": "light8",
+      "bone": "light8",
+      "attachment": "light",
+      "color": "FFFFFFD1",
+      "blend": "additive"
+    },
+    {
+      "name": "cotuong",
+      "bone": "khungall4",
+      "attachment": "cotuong"
+    },
+    {
+      "name": "tienback",
+      "bone": "tienback",
+      "attachment": "tienback"
+    },
+    {
+      "name": "banco1",
+      "bone": "khungall4",
+      "attachment": "banco1"
+    },
+    {
+      "name": "co",
+      "bone": "co",
+      "attachment": "co"
+    }
+  ],
+  "skins": {
+    "default": {
+      "banco1": {
+        "banco1": {
+          "name": "banco1",
+          "width": 159,
+          "height": 97,
+          "x": -6.37,
+          "y": 61.1
+        }
+      },
+      "popup4": {
+        "popup": {
+          "name": "popup",
+          "width": 216,
+          "height": 239,
+          "x": -0.18,
+          "y": 85.36
+        }
+      },
+      "light7": {
+        "light": {
+          "name": "light",
+          "width": 24,
+          "height": 25,
+          "x": 0.72,
+          "y": 1.57
+        }
+      },
+      "light8": {
+        "light": {
+          "name": "light",
+          "width": 24,
+          "height": 25,
+          "x": 0.72,
+          "y": 1.57
+        }
+      },
+      "co": {
+        "co": {
+          "name": "co",
+          "width": 116,
+          "height": 68,
+          "x": -16.48,
+          "y": -3.65
+        }
+      },
+      "cotuong": {
+        "cotuong": {
+          "name": "cotuong",
+          "width": 119,
+          "height": 27,
+          "x": -4.49,
+          "y": 202.29
+        }
+      },
+      "tienback": {
+        "tienback": {
+          "name": "tienback",
+          "width": 156,
+          "height": 129,
+          "x": 5.7,
+          "y": -26.89
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "bones": {
+        "light7": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 1.3333,
+              "y": -180
+            }
+          ]
+        },
+        "light8": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 1.3333,
+              "y": 190
+            }
+          ]
+        },
+        "co": {
+          "translate": [
+            {
+              "time": 0,
+              "curve": [
+                0.0675,
+                0.14,
+                0.91275,
+                1
+              ],
+              "x": -115.83
+            },
+            {
+              "time": 0.5,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 9.56
+            },
+            {
+              "time": 0.9,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1.3
+            },
+            {
+              "time": 1.3333,
+              "x": 31.75
+            }
+          ]
+        },
+        "tienback": {
+          "scale": [
+            {
+              "time": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.6667,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "x": 1.25,
+              "y": 1.25
+            },
+            {
+              "time": 1.3334,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      },
+      "slots": {
+        "co": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 1.1667,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light7": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFFC7"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light8": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFFC7"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

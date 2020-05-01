@@ -1,0 +1,48 @@
+
+icon_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3f608b74cd977ed3920acac2707b9e7aac37e5623efa0-uxoyxP_fw658
+  rotate: false
+  xy: 649, 193
+  size: 280, 281
+  orig: 280, 281
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 254, 8
+  size: 264, 144
+  orig: 264, 144
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 520, 110
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 931, 289
+  size: 84, 185
+  orig: 84, 185
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 254, 154
+  size: 393, 320
+  orig: 393, 320
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 2, 2
+  size: 250, 472
+  orig: 250, 472
+  offset: 0, 0
+  index: -1

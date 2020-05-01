@@ -1,0 +1,3289 @@
+{
+  "ID": "ed5485b1-269b-4686-9dc9-e9ba5cf9eb19",
+  "Version": "2.3.4",
+  "Name": "AvengerMiniGame",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 165,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -422,
+            "Scale9OriginY": -237,
+            "Scale9Width": 844,
+            "Scale9Height": 474,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
+            "Tag": 166,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 110,
+                "ActionTag": -235726723,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "sp_nen_choi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/bg_thong_bao.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 590.9662
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8208
+                },
+                "PreSize": {
+                  "X": 0.4305,
+                  "Y": 0.0931
+                },
+                "LeftMargin": 364.5,
+                "RightMargin": 364.5,
+                "TopMargin": 95.5338,
+                "BottomMargin": 557.4662,
+                "Tag": 125,
+                "ActionTag": 310243366,
+                "Size": {
+                  "X": 551.0,
+                  "Y": 67.0
+                },
+                "Name": "sp_nen_tien",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 70,
+                "LabelText": "10.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 588.407
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8172
+                },
+                "PreSize": {
+                  "X": 0.3578,
+                  "Y": 0.0764
+                },
+                "LeftMargin": 411.0,
+                "RightMargin": 411.0,
+                "TopMargin": 104.093,
+                "BottomMargin": 560.907,
+                "Tag": 126,
+                "ActionTag": 563729550,
+                "Size": {
+                  "X": 458.0,
+                  "Y": 55.0
+                },
+                "Name": "lb_tien_thang",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 74,
+                "Scale9Height": 33,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 203.9264,
+                  "Y": 326.0338
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1593,
+                  "Y": 0.4528
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.0764
+                },
+                "LeftMargin": 151.9264,
+                "RightMargin": 1024.0736,
+                "TopMargin": 338.9662,
+                "BottomMargin": 326.0338,
+                "Tag": 174,
+                "ActionTag": -783927128,
+                "Size": {
+                  "X": 104.0,
+                  "Y": 55.0
+                },
+                "Name": "btn_tank_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 92,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 285.7173,
+                  "Y": 272.7202
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2232,
+                  "Y": 0.3788
+                },
+                "PreSize": {
+                  "X": 0.0953,
+                  "Y": 0.1208
+                },
+                "LeftMargin": 224.7173,
+                "RightMargin": 933.2827,
+                "TopMargin": 360.2798,
+                "BottomMargin": 272.7202,
+                "Tag": 175,
+                "ActionTag": -512575377,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 87.0
+                },
+                "Name": "btn_tank_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/4_1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/4.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/4.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 80,
+                "Scale9Height": 77,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 440.8785,
+                  "Y": 247.3003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3444,
+                  "Y": 0.3435
+                },
+                "PreSize": {
+                  "X": 0.0859,
+                  "Y": 0.1375
+                },
+                "LeftMargin": 385.8785,
+                "RightMargin": 784.1215,
+                "TopMargin": 373.6997,
+                "BottomMargin": 247.3003,
+                "Tag": 176,
+                "ActionTag": -841033794,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 99.0
+                },
+                "Name": "btn_tank_4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/6.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/6.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/6.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 74,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 647.9266,
+                  "Y": 240.3499
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5062,
+                  "Y": 0.3338
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.1444
+                },
+                "LeftMargin": 595.9266,
+                "RightMargin": 580.0734,
+                "TopMargin": 375.6501,
+                "BottomMargin": 240.3499,
+                "Tag": 177,
+                "ActionTag": -1752448037,
+                "Size": {
+                  "X": 104.0,
+                  "Y": 104.0
+                },
+                "Name": "btn_tank_6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/9.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/9.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/9.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 74,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 861.0258,
+                  "Y": 247.2802
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6727,
+                  "Y": 0.3434
+                },
+                "PreSize": {
+                  "X": 0.0742,
+                  "Y": 0.1333
+                },
+                "LeftMargin": 813.5258,
+                "RightMargin": 371.4742,
+                "TopMargin": 376.7198,
+                "BottomMargin": 247.2802,
+                "Tag": 178,
+                "ActionTag": -52341659,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 96.0
+                },
+                "Name": "btn_tank_9",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/11.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/11.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/11.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 50,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 1017.7758,
+                  "Y": 276.3055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7951,
+                  "Y": 0.3838
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.0958
+                },
+                "LeftMargin": 977.7758,
+                "RightMargin": 222.2241,
+                "TopMargin": 374.6945,
+                "BottomMargin": 276.3055,
+                "Tag": 179,
+                "ActionTag": -988532755,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 69.0
+                },
+                "Name": "btn_tank_11",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/3.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 37,
+                "Scale9Height": 40,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 391.1056,
+                  "Y": 330.7362
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3056,
+                  "Y": 0.4594
+                },
+                "PreSize": {
+                  "X": 0.0523,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 357.6056,
+                "RightMargin": 855.3944,
+                "TopMargin": 327.2638,
+                "BottomMargin": 330.7362,
+                "Tag": 180,
+                "ActionTag": 16055330,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 62.0
+                },
+                "Name": "btn_tank_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/5.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/5.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/5.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 30,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 510.3798,
+                  "Y": 340.5316
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3987,
+                  "Y": 0.473
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.0792
+                },
+                "LeftMargin": 480.3798,
+                "RightMargin": 739.6202,
+                "TopMargin": 322.4684,
+                "BottomMargin": 340.5316,
+                "Tag": 181,
+                "ActionTag": -1540601311,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_tank_5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/7.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/7.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/7.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 21,
+                "Scale9Height": 40,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 639.9402,
+                  "Y": 331.0125
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4597
+                },
+                "PreSize": {
+                  "X": 0.0398,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 614.4402,
+                "RightMargin": 614.5598,
+                "TopMargin": 326.9875,
+                "BottomMargin": 331.0125,
+                "Tag": 182,
+                "ActionTag": -1991397501,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 62.0
+                },
+                "Name": "btn_tank_7",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/8.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/8.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/8.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 25,
+                "Scale9Height": 37,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 761.6472,
+                  "Y": 338.3831
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.595,
+                  "Y": 0.47
+                },
+                "PreSize": {
+                  "X": 0.043,
+                  "Y": 0.0819
+                },
+                "LeftMargin": 734.1472,
+                "RightMargin": 490.8528,
+                "TopMargin": 322.6169,
+                "BottomMargin": 338.3831,
+                "Tag": 183,
+                "ActionTag": 297260923,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 59.0
+                },
+                "Name": "btn_tank_8",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/10.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/10.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/10.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 30,
+                "Scale9Height": 43,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 926.113,
+                  "Y": 325.0774
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7235,
+                  "Y": 0.4515
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.0903
+                },
+                "LeftMargin": 896.113,
+                "RightMargin": 323.887,
+                "TopMargin": 329.9226,
+                "BottomMargin": 325.0774,
+                "Tag": 184,
+                "ActionTag": -2088674490,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 65.0
+                },
+                "Name": "btn_tank_10",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/12.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/12.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/tanks/12.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 67,
+                "Scale9Height": 49,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 1105.7183,
+                  "Y": 309.2153
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8638,
+                  "Y": 0.4295
+                },
+                "PreSize": {
+                  "X": 0.0758,
+                  "Y": 0.0986
+                },
+                "LeftMargin": 1057.2183,
+                "RightMargin": 125.7817,
+                "TopMargin": 339.7847,
+                "BottomMargin": 309.2153,
+                "Tag": 185,
+                "ActionTag": 1411891767,
+                "Size": {
+                  "X": 97.0,
+                  "Y": 71.0
+                },
+                "Name": "btn_tank_12",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1088.7815,
+                  "Y": 426.1313
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8506,
+                  "Y": 0.5918
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 1023.7815,
+                "RightMargin": 126.2185,
+                "TopMargin": 186.3687,
+                "BottomMargin": 318.6313,
+                "Tag": 123,
+                "ActionTag": -526054208,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_12",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1000.7919,
+                  "Y": 400.1334
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7819,
+                  "Y": 0.5557
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 935.7919,
+                "RightMargin": 214.2081,
+                "TopMargin": 212.3666,
+                "BottomMargin": 292.6334,
+                "Tag": 122,
+                "ActionTag": -336443803,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_11",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 914.8044,
+                  "Y": 410.1369
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7147,
+                  "Y": 0.5696
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 849.8044,
+                "RightMargin": 300.1956,
+                "TopMargin": 202.3631,
+                "BottomMargin": 302.6369,
+                "Tag": 121,
+                "ActionTag": -1747804332,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 842.8211,
+                  "Y": 413.139
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6585,
+                  "Y": 0.5738
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 777.8211,
+                "RightMargin": 372.1789,
+                "TopMargin": 199.361,
+                "BottomMargin": 305.639,
+                "Tag": 120,
+                "ActionTag": -1910930195,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_9",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 750.8773,
+                  "Y": 415.1622
+                },
+                "Scale": {
+                  "ScaleX": 0.45,
+                  "ScaleY": 0.45
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5866,
+                  "Y": 0.5766
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 685.8773,
+                "RightMargin": 464.1227,
+                "TopMargin": 197.3378,
+                "BottomMargin": 307.6622,
+                "Tag": 119,
+                "ActionTag": 1833303816,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_8",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 629.8787,
+                  "Y": 408.1628
+                },
+                "Scale": {
+                  "ScaleX": 0.45,
+                  "ScaleY": 0.45
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4921,
+                  "Y": 0.5669
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 564.8787,
+                "RightMargin": 585.1213,
+                "TopMargin": 204.3372,
+                "BottomMargin": 300.6628,
+                "Tag": 118,
+                "ActionTag": -1716239597,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 625.8258,
+                  "Y": 414.1411
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4889,
+                  "Y": 0.5752
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 560.8258,
+                "RightMargin": 589.1742,
+                "TopMargin": 198.3589,
+                "BottomMargin": 306.6411,
+                "Tag": 117,
+                "ActionTag": 807142711,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 504.881,
+                  "Y": 414.1636
+                },
+                "Scale": {
+                  "ScaleX": 0.45,
+                  "ScaleY": 0.45
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3944,
+                  "Y": 0.5752
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 439.881,
+                "RightMargin": 710.119,
+                "TopMargin": 198.3364,
+                "BottomMargin": 306.6636,
+                "Tag": 116,
+                "ActionTag": -247694249,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.8836,
+                  "Y": 413.1655
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3327,
+                  "Y": 0.5738
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 360.8836,
+                "RightMargin": 789.1164,
+                "TopMargin": 199.3345,
+                "BottomMargin": 305.6655,
+                "Tag": 115,
+                "ActionTag": -694350001,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.8912,
+                  "Y": 413.1796
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2991,
+                  "Y": 0.5739
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 317.8912,
+                "RightMargin": 832.1088,
+                "TopMargin": 199.3204,
+                "BottomMargin": 305.6796,
+                "Tag": 114,
+                "ActionTag": -1235507728,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 274.8994,
+                  "Y": 412.1857
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2148,
+                  "Y": 0.5725
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 209.8994,
+                "RightMargin": 940.1006,
+                "TopMargin": 200.3143,
+                "BottomMargin": 304.6857,
+                "Tag": 113,
+                "ActionTag": 1314419751,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/fire.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 197.9024,
+                  "Y": 426.1922
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1546,
+                  "Y": 0.5919
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.2986
+                },
+                "LeftMargin": 132.9024,
+                "RightMargin": 1017.0976,
+                "TopMargin": 186.3078,
+                "BottomMargin": 318.6922,
+                "Tag": 112,
+                "ActionTag": -111841485,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 215.0
+                },
+                "Name": "sp_fire_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/hulk.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 760.0,
+                  "Y": 49.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5938,
+                  "Y": 0.0681
+                },
+                "PreSize": {
+                  "X": 0.2578,
+                  "Y": 0.4583
+                },
+                "LeftMargin": 595.0,
+                "RightMargin": 355.0,
+                "TopMargin": 341.0,
+                "BottomMargin": 49.0,
+                "Tag": 173,
+                "ActionTag": 1291753831,
+                "Size": {
+                  "X": 330.0,
+                  "Y": 330.0
+                },
+                "Name": "sp_minigame_hulk",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/khung.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0039,
+                  "Y": 1.0125
+                },
+                "LeftMargin": -2.5,
+                "RightMargin": -2.5,
+                "TopMargin": -4.5,
+                "BottomMargin": -4.5,
+                "Tag": 167,
+                "ActionTag": -2061119948,
+                "Size": {
+                  "X": 1285.0,
+                  "Y": 729.0
+                },
+                "Name": "sp_khung_cua",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/cua_left.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 959.0,
+                  "Y": 360.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7492,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4961,
+                  "Y": 0.9792
+                },
+                "LeftMargin": 641.5,
+                "RightMargin": 3.5,
+                "TopMargin": 7.4999,
+                "BottomMargin": 7.5001,
+                "Tag": 168,
+                "ActionTag": 845408595,
+                "Size": {
+                  "X": 635.0,
+                  "Y": 705.0
+                },
+                "Name": "sp_cua_phai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/cua_right.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.0,
+                  "Y": 360.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2508,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5023,
+                  "Y": 0.9792
+                },
+                "LeftMargin": -0.5,
+                "RightMargin": 637.5,
+                "TopMargin": 7.4998,
+                "BottomMargin": 7.5002,
+                "Tag": 170,
+                "ActionTag": 281885971,
+                "Size": {
+                  "X": 643.0,
+                  "Y": 705.0
+                },
+                "Name": "sp_cua_trai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/khung_choi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0047,
+                  "Y": 1.0056
+                },
+                "LeftMargin": -3.0,
+                "RightMargin": -3.0,
+                "TopMargin": -2.0,
+                "BottomMargin": -2.0,
+                "Tag": 171,
+                "ActionTag": 1561244496,
+                "Size": {
+                  "X": 1286.0,
+                  "Y": 724.0
+                },
+                "Name": "sp_khung_choi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/minigame/chien_tank.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5273,
+                  "Y": 0.5986
+                },
+                "LeftMargin": 302.5,
+                "RightMargin": 302.5,
+                "TopMargin": 144.5,
+                "BottomMargin": 144.5,
+                "Tag": 172,
+                "ActionTag": 1216925861,
+                "Size": {
+                  "X": 675.0,
+                  "Y": 431.0
+                },
+                "Name": "sp_chien_tanks",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "+100.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 296.0285,
+                  "Y": 189.2006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "B": 115
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2313,
+                  "Y": 0.2628
+                },
+                "PreSize": {
+                  "X": 0.3164,
+                  "Y": 0.0431
+                },
+                "LeftMargin": 93.5285,
+                "RightMargin": 781.4715,
+                "TopMargin": 515.2994,
+                "BottomMargin": 173.7006,
+                "Tag": 124,
+                "ActionTag": 1277683185,
+                "Size": {
+                  "X": 405.0,
+                  "Y": 31.0
+                },
+                "Name": "lb_cong_tien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/bg/bg_nho.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 238,
+                "Scale9OriginY": 139,
+                "Scale9Width": 247,
+                "Scale9Height": 146,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0005,
+                  "Y": 361.4238
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.502
+                },
+                "PreSize": {
+                  "X": 0.5648,
+                  "Y": 0.5889
+                },
+                "LeftMargin": 278.5005,
+                "RightMargin": 278.4995,
+                "TopMargin": 146.5762,
+                "BottomMargin": 149.4238,
+                "Tag": 179,
+                "Children": [
+                  {
+                    "FontSize": 46,
+                    "LabelText": "CHỌN NGỌC",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 366.8204,
+                      "Y": 371.5426
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5074,
+                      "Y": 0.8763
+                    },
+                    "PreSize": {
+                      "X": 0.3444,
+                      "Y": 0.1344
+                    },
+                    "LeftMargin": 242.3204,
+                    "RightMargin": 231.6796,
+                    "TopMargin": 23.9574,
+                    "BottomMargin": 343.0426,
+                    "Tag": 180,
+                    "ActionTag": 404395732,
+                    "Size": {
+                      "X": 249.0,
+                      "Y": 57.0
+                    },
+                    "Name": "Text_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 23.2443,
+                      "Y": 48.6028
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0321,
+                      "Y": 0.1146
+                    },
+                    "PreSize": {
+                      "X": 0.9364,
+                      "Y": 0.1179
+                    },
+                    "LeftMargin": 23.2443,
+                    "RightMargin": 22.7557,
+                    "TopMargin": 325.3972,
+                    "BottomMargin": 48.6028,
+                    "Tag": 198,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 60,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Right",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 136.81,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2021,
+                          "Y": 1.4
+                        },
+                        "PreSize": {
+                          "X": 0.3988,
+                          "Y": 1.5
+                        },
+                        "LeftMargin": 1.81,
+                        "RightMargin": 405.19,
+                        "TopMargin": -57.5,
+                        "BottomMargin": 32.5,
+                        "Tag": 182,
+                        "ActionTag": -2025331230,
+                        "Size": {
+                          "X": 270.0,
+                          "Y": 75.0
+                        },
+                        "Name": "lb_prize_ingame",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 60,
+                        "LabelText": "X",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 297.6188,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 144,
+                          "G": 238,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4396,
+                          "Y": 1.4
+                        },
+                        "PreSize": {
+                          "X": 0.0561,
+                          "Y": 1.5
+                        },
+                        "LeftMargin": 278.6188,
+                        "RightMargin": 360.3812,
+                        "TopMargin": -57.5,
+                        "BottomMargin": 32.5,
+                        "Tag": 190,
+                        "ActionTag": -475700140,
+                        "Size": {
+                          "X": 38.0,
+                          "Y": 75.0
+                        },
+                        "Name": "Text_4_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 60,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 340.2684,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5026,
+                          "Y": 1.4
+                        },
+                        "PreSize": {
+                          "X": 0.0547,
+                          "Y": 1.5
+                        },
+                        "LeftMargin": 321.7684,
+                        "RightMargin": 318.2316,
+                        "TopMargin": -57.5,
+                        "BottomMargin": 32.5,
+                        "Tag": 191,
+                        "ActionTag": -351471589,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 75.0
+                        },
+                        "Name": "lb_nhan",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 60,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 4.0,
+                        "ShadowOffsetY": 4.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 540.6858,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7986,
+                          "Y": 1.4
+                        },
+                        "PreSize": {
+                          "X": 0.3988,
+                          "Y": 1.5
+                        },
+                        "LeftMargin": 405.6858,
+                        "RightMargin": 1.3142,
+                        "TopMargin": -57.5,
+                        "BottomMargin": 32.5,
+                        "Tag": 193,
+                        "ActionTag": -1716243038,
+                        "Size": {
+                          "X": 270.0,
+                          "Y": 75.0
+                        },
+                        "Name": "lb_sum_prize",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 60,
+                        "LabelText": "=",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 382.1631,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 144,
+                          "G": 238,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5645,
+                          "Y": 1.4
+                        },
+                        "PreSize": {
+                          "X": 0.0561,
+                          "Y": 1.5
+                        },
+                        "LeftMargin": 363.1631,
+                        "RightMargin": 275.8369,
+                        "TopMargin": -57.5,
+                        "BottomMargin": 32.5,
+                        "Tag": 152,
+                        "ActionTag": -733191197,
+                        "Size": {
+                          "X": 38.0,
+                          "Y": 75.0
+                        },
+                        "Name": "Text_4_0_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1904287578,
+                    "Size": {
+                      "X": 677.0,
+                      "Y": 50.0
+                    },
+                    "Name": "pPhepTinh",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_select.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_select.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 5,
+                    "Scale9Width": 141,
+                    "Scale9Height": 133,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 137.0,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1895,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.2365,
+                      "Y": 0.3373
+                    },
+                    "LeftMargin": 51.5,
+                    "RightMargin": 500.5,
+                    "TopMargin": 75.5,
+                    "BottomMargin": 205.5,
+                    "Tag": 189,
+                    "ActionTag": -1369283684,
+                    "Size": {
+                      "X": 171.0,
+                      "Y": 143.0
+                    },
+                    "Name": "btn_mo1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_select.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_select.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 5,
+                    "Scale9Width": 141,
+                    "Scale9Height": 133,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 370.001,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5118,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.2365,
+                      "Y": 0.3373
+                    },
+                    "LeftMargin": 284.501,
+                    "RightMargin": 267.499,
+                    "TopMargin": 75.5,
+                    "BottomMargin": 205.5,
+                    "Tag": 199,
+                    "ActionTag": -1199108923,
+                    "Size": {
+                      "X": 171.0,
+                      "Y": 143.0
+                    },
+                    "Name": "btn_mo2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_select.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_select.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/minigame/gem_nor.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 5,
+                    "Scale9Width": 141,
+                    "Scale9Height": 133,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 581.0,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8036,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.2365,
+                      "Y": 0.3373
+                    },
+                    "LeftMargin": 495.5,
+                    "RightMargin": 56.5,
+                    "TopMargin": 75.5,
+                    "BottomMargin": 205.5,
+                    "Tag": 200,
+                    "ActionTag": -321305832,
+                    "Size": {
+                      "X": 171.0,
+                      "Y": 143.0
+                    },
+                    "Name": "btn_mo3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 100,
+                    "LabelText": "X1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 29,
+                      "G": 27,
+                      "B": 27
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 137.0,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1895,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.1936,
+                      "Y": 0.3019
+                    },
+                    "LeftMargin": 67.0,
+                    "RightMargin": 516.0,
+                    "TopMargin": 83.0,
+                    "BottomMargin": 213.0,
+                    "Tag": 201,
+                    "ActionTag": 46131941,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 128.0
+                    },
+                    "Name": "lb_x1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 100,
+                    "LabelText": "X1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 29,
+                      "G": 27,
+                      "B": 27
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 370.001,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5118,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.1936,
+                      "Y": 0.3019
+                    },
+                    "LeftMargin": 300.001,
+                    "RightMargin": 282.999,
+                    "TopMargin": 83.0,
+                    "BottomMargin": 213.0,
+                    "Tag": 202,
+                    "ActionTag": -94003949,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 128.0
+                    },
+                    "Name": "lb_x2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 100,
+                    "LabelText": "X1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 29,
+                      "G": 27,
+                      "B": 27
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 581.0,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8036,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.1936,
+                      "Y": 0.3019
+                    },
+                    "LeftMargin": 511.0,
+                    "RightMargin": 72.0,
+                    "TopMargin": 83.0,
+                    "BottomMargin": 213.0,
+                    "Tag": 203,
+                    "ActionTag": -1940186987,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 128.0
+                    },
+                    "Name": "lb_x3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1969022780,
+                "Size": {
+                  "X": 723.0,
+                  "Y": 424.0
+                },
+                "Name": "pHeSoNhan",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "MINI GAME SẼ TỰ ĐỘNG KẾT THÚC SAU 10 S",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Black.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 631.6058,
+                  "Y": 661.0479
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4934,
+                  "Y": 0.9181
+                },
+                "PreSize": {
+                  "X": 0.4492,
+                  "Y": 0.0486
+                },
+                "LeftMargin": 344.1058,
+                "RightMargin": 360.8942,
+                "TopMargin": 41.4521,
+                "BottomMargin": 643.5479,
+                "Tag": 204,
+                "ActionTag": -1318821895,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_thong_bao",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Avenger/bg/bg_nho.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 238,
+                "Scale9OriginY": 139,
+                "Scale9Width": 247,
+                "Scale9Height": 146,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5648,
+                  "Y": 0.5889
+                },
+                "LeftMargin": 278.5,
+                "RightMargin": 278.5,
+                "TopMargin": 148.0,
+                "BottomMargin": 148.0,
+                "Tag": 158,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "ĐIỂM THẮNG",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 366.8204,
+                      "Y": 371.5426
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5074,
+                      "Y": 0.8763
+                    },
+                    "PreSize": {
+                      "X": 0.2808,
+                      "Y": 0.1061
+                    },
+                    "LeftMargin": 265.3204,
+                    "RightMargin": 254.6796,
+                    "TopMargin": 29.9574,
+                    "BottomMargin": 349.0426,
+                    "Tag": 159,
+                    "ActionTag": 335885617,
+                    "Size": {
+                      "X": 203.0,
+                      "Y": 45.0
+                    },
+                    "Name": "Text_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/close_tab_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/close_tab_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Avenger/close_tab.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 43,
+                    "Scale9Height": 51,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 667.5052,
+                      "Y": 364.9708
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9232,
+                      "Y": 0.8608
+                    },
+                    "PreSize": {
+                      "X": 0.101,
+                      "Y": 0.1722
+                    },
+                    "LeftMargin": 631.0052,
+                    "RightMargin": 18.9948,
+                    "TopMargin": 22.5292,
+                    "BottomMargin": 328.4708,
+                    "Tag": 160,
+                    "ActionTag": 1962998289,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 73.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "CHÚC MỪNG BẠN ĐÃ THẮNG",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 364.2458,
+                      "Y": 296.0291
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5038,
+                      "Y": 0.6982
+                    },
+                    "PreSize": {
+                      "X": 0.6432,
+                      "Y": 0.1061
+                    },
+                    "LeftMargin": 131.7458,
+                    "RightMargin": 126.2542,
+                    "TopMargin": 105.4709,
+                    "BottomMargin": 273.5291,
+                    "Tag": 161,
+                    "ActionTag": 2069423788,
+                    "Size": {
+                      "X": 465.0,
+                      "Y": 45.0
+                    },
+                    "Name": "Text_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 100,
+                    "LabelText": "VIN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 5.0,
+                    "ShadowOffsetY": 2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 358.8096,
+                      "Y": 82.5124
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4963,
+                      "Y": 0.1946
+                    },
+                    "PreSize": {
+                      "X": 0.1923,
+                      "Y": 0.2925
+                    },
+                    "LeftMargin": 289.3096,
+                    "RightMargin": 294.6904,
+                    "TopMargin": 279.4876,
+                    "BottomMargin": 20.5124,
+                    "Tag": 162,
+                    "ActionTag": 974333499,
+                    "Size": {
+                      "X": 139.0,
+                      "Y": 124.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 100,
+                    "LabelText": "500.000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/UTM-Bitsumishi-Pro.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 5.0,
+                    "ShadowOffsetY": 2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 361.8016,
+                      "Y": 208.9433
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5004,
+                      "Y": 0.4928
+                    },
+                    "PreSize": {
+                      "X": 0.9281,
+                      "Y": 0.2925
+                    },
+                    "LeftMargin": 26.3016,
+                    "RightMargin": 25.6984,
+                    "TopMargin": 153.0567,
+                    "BottomMargin": 146.9433,
+                    "Tag": 163,
+                    "ActionTag": -558008906,
+                    "Size": {
+                      "X": 671.0,
+                      "Y": 124.0
+                    },
+                    "Name": "lb_tong_thang",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -672917726,
+                "Size": {
+                  "X": 723.0,
+                  "Y": 424.0
+                },
+                "Name": "pEndMinigame",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 531330455,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pMiniGame",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Avenger/bg/bg_nho.png",
+        "Avenger/close_tab.png",
+        "Avenger/close_tab_s.png",
+        "Avenger/minigame/bg.png",
+        "Avenger/minigame/bg_thong_bao.png",
+        "Avenger/minigame/chien_tank.png",
+        "Avenger/minigame/cua_left.png",
+        "Avenger/minigame/cua_right.png",
+        "Avenger/minigame/fire.png",
+        "Avenger/minigame/gem_nor.png",
+        "Avenger/minigame/gem_select.png",
+        "Avenger/minigame/hulk.png",
+        "Avenger/minigame/khung.png",
+        "Avenger/minigame/khung_choi.png",
+        "Avenger/minigame/tanks/1.png",
+        "Avenger/minigame/tanks/10.png",
+        "Avenger/minigame/tanks/11.png",
+        "Avenger/minigame/tanks/12.png",
+        "Avenger/minigame/tanks/2.png",
+        "Avenger/minigame/tanks/3.png",
+        "Avenger/minigame/tanks/4.png",
+        "Avenger/minigame/tanks/4_1.png",
+        "Avenger/minigame/tanks/5.png",
+        "Avenger/minigame/tanks/6.png",
+        "Avenger/minigame/tanks/7.png",
+        "Avenger/minigame/tanks/8.png",
+        "Avenger/minigame/tanks/9.png",
+        "Font/Roboto-Black.ttf",
+        "Font/UTM-Bitsumishi-Pro.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>CGame</title>
+    <link rel="icon" type="image/GIF" href="res/favicon.ico" />
+    <meta name="viewport" content="initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="full-screen" content="yes" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="360-fullscreen" content="true" />
+    <meta id="metaKeywords" name="keywords" content="" />
+    <meta id="metaDescription" name="description" content="CGame" />
+
+    <style>
+        body,
+        canvas,
+        div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+    </style>
+</head>
+
+<body style="padding:0; margin: 0; background: #000;">
+    <script src="res/loading.js"></script>
+    <canvas id="gameCanvas" width="1280" height="720"></canvas>
+    <script>
+        var version_res = 1;
+
+        (function () {
+            var nav = window.navigator;
+            var ua = nav.userAgent.toLowerCase();
+            var uaResult = /android (\d+(?:\.\d+)+)/i.exec(ua) || /android (\d+(?:\.\d+)+)/i.exec(nav.platform);
+            if (uaResult) {
+                var browserCheck = ua.match(/(qzone|micromessenger|qq)(mobile)?(browser)?\/?([\d.]+)/i);
+                if (browserCheck) {
+                    var browserVersion = parseFloat(browserCheck[4] || 0);
+                    if (browserVer < 6.2) {
+                        var gameCanvas = document.getElementById("gameCanvas");
+                        var ctx = gameCanvas.getContext('2d');
+                        ctx.fillStyle = '#000000';
+                        ctx.fillRect(0, 0, 1, 1);
+                    }
+                }
+            }
+        })();
+
+
+    </script>
+    
+    <script src="global.js"></script>
+    <script>
+        document.write("<script type='text/javascript' src='game.min.js?v=" + Date.now() + "'><\/script>");
+    </script>
+    <script src="jquery.min.js" type="text/javascript">
+    </script>
+
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt=""
+                src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/870957946/?guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+</body>
+
+</html>

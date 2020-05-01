@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Minigame/BauCua/AnimationXucXac/000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{217,1},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,1},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,1},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,217},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{217,217},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,217},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,217},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,433},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{217,433},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,433},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,433},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,649},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{217,649},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,649},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,649},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,865},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{217,865},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>Minigame/BauCua/AnimationXucXac/018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,865},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>animationXXBC.png</string>
+			<key>realTextureFileName</key>
+			<string>animationXXBC.png</string>
+			<key>size</key>
+			<string>{864,1080}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>864</integer>
+			<key>height</key>
+			<integer>1080</integer>
+		</dict>
+	</dict>
+</plist>

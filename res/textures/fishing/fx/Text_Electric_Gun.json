@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "eX7VlG0pfX1yFIfh8vijKYhebVk", "spine": "3.5.44", "width": 910, "height": 479, "images": "" },
+"bones": [
+	{ "name": "Text_Electric_Gun" },
+	{ "name": "position", "parent": "Text_Electric_Gun", "y": 185.81 }
+],
+"slots": [
+	{ "name": "Bitmap", "bone": "position", "attachment": "Electric_Gun_text_export/Electric_Gun_text_export7" }
+],
+"skins": {
+	"default": {
+		"Bitmap": {
+			"Electric_Gun_text_export/Electric_Gun_text_export1": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export2": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export3": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export4": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export5": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export6": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export7": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export8": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export9": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 },
+			"Electric_Gun_text_export/Electric_Gun_text_export10": { "x": 7.4, "y": -85.29, "width": 910, "height": 479 }
+		}
+	}
+},
+"animations": {
+	"ElecTextAnim": {
+		"slots": {
+			"Bitmap": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.5333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Electric_Gun_text_export/Electric_Gun_text_export1" },
+					{ "time": 0.0667, "name": "Electric_Gun_text_export/Electric_Gun_text_export2" },
+					{ "time": 0.1333, "name": "Electric_Gun_text_export/Electric_Gun_text_export3" },
+					{ "time": 0.2, "name": "Electric_Gun_text_export/Electric_Gun_text_export4" },
+					{ "time": 0.2667, "name": "Electric_Gun_text_export/Electric_Gun_text_export5" },
+					{ "time": 0.3333, "name": "Electric_Gun_text_export/Electric_Gun_text_export6" },
+					{ "time": 0.4, "name": "Electric_Gun_text_export/Electric_Gun_text_export7" },
+					{ "time": 0.4667, "name": "Electric_Gun_text_export/Electric_Gun_text_export8" },
+					{ "time": 0.5333, "name": "Electric_Gun_text_export/Electric_Gun_text_export9" },
+					{ "time": 0.6, "name": "Electric_Gun_text_export/Electric_Gun_text_export10" }
+				]
+			}
+		}
+	}
+}
+}

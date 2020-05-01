@@ -1,0 +1,48 @@
+
+thanhdu_spine_title.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+du
+  rotate: false
+  xy: 2, 2
+  size: 233, 191
+  orig: 233, 191
+  offset: 0, 0
+  index: -1
+light-TD
+  rotate: false
+  xy: 2, 195
+  size: 279, 193
+  orig: 279, 193
+  offset: 0, 0
+  index: -1
+mu-td
+  rotate: true
+  xy: 283, 170
+  size: 218, 188
+  orig: 218, 188
+  offset: 0, 0
+  index: -1
+star-TD1
+  rotate: false
+  xy: 384, 406
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+star-TD2
+  rotate: false
+  xy: 237, 100
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+thanh
+  rotate: false
+  xy: 2, 390
+  size: 380, 109
+  orig: 380, 109
+  offset: 0, 0
+  index: -1

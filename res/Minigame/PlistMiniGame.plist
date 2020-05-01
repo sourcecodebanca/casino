@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/Minigame/cao_thap.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{339,438},{67,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,68}</string>
+			</dict>
+			<key>res/Minigame/coomingsoon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,352},{83,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,84}</string>
+			</dict>
+			<key>res/Minigame/cua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{408,382},{67,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{67,68}</string>
+			</dict>
+			<key>res/Minigame/mail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{408,1},{74,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{74,75}</string>
+			</dict>
+			<key>res/Minigame/mini_poke.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{408,77},{74,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{74,75}</string>
+			</dict>
+			<key>res/Minigame/minigame-01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,352},{107,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,107}</string>
+			</dict>
+			<key>res/Minigame/minigame-02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,352},{155,155}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,155}</string>
+			</dict>
+			<key>res/Minigame/poke_ball.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,438},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>res/Minigame/tai_xiu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{408,153},{74,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{74,75}</string>
+			</dict>
+			<key>res/Minigame/thong_bao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,487},{33,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{33,24}</string>
+			</dict>
+			<key>res/Minigame/time.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,461},{56,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,24}</string>
+			</dict>
+			<key>res/Minigame/vin_miss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{408,229},{74,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{74,75}</string>
+			</dict>
+			<key>res/Minigame/vong_quay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{352,305},{74,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,75}</string>
+			</dict>
+			<key>res/Minigame/vong_to.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{349,349}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{349,349}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistMiniGame.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistMiniGame.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

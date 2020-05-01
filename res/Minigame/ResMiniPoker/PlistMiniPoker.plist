@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/Minigame/ResMiniPoker/arrow_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,549},{50,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,28}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/bg_bobai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{159,0},{589,153}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{589,153}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/bg_cangat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,124},{53,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,324}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/bg_effect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{707,159}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{707,159}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/bg_hu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,0},{310,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{310,56}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/bg_labai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{368,0},{96,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{96,124}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/Bg_x2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{464,599},{47,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,47}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/btn_room.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,521},{63,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,63}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/btnChangeMoney.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,455},{94,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,34}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/btntuquay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,314},{141,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{141,31}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/dungquay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,0},{157,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{157,33}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/event_poker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{159,599},{305,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{305,73}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/sp_star.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,521},{58,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,57}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/text_nohu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,310},{211,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{211,74}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/text_thungphasanh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,707},{473,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{473,61}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/tuquay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,157},{157,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{157,33}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistMiniPoker.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistMiniPoker.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

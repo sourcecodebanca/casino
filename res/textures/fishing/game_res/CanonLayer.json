@@ -1,0 +1,850 @@
+{
+  "ID": "08c2fcba-60d4-4736-b7b1-7f588f613404",
+  "Version": "2.3.4",
+  "Name": "CanonLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/gunPlatformCenter.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 226.0,
+              "Y": 673.8252
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1766,
+              "Y": 0.9359
+            },
+            "PreSize": {
+              "X": 0.1633,
+              "Y": 0.1278
+            },
+            "LeftMargin": 121.5,
+            "RightMargin": 949.5,
+            "TopMargin": 0.1748,
+            "BottomMargin": 627.8252,
+            "Tag": 4,
+            "ActionTag": -793700101,
+            "Size": {
+              "X": 209.0,
+              "Y": 92.0
+            },
+            "Name": "gunPlatformCenter_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_PLAYERINFO_CONTAINER_LIGHT.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 225.9998,
+              "Y": 719.8232
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1766,
+              "Y": 0.9998
+            },
+            "PreSize": {
+              "X": 0.1914,
+              "Y": 0.1556
+            },
+            "LeftMargin": 103.4998,
+            "RightMargin": 931.5001,
+            "TopMargin": 0.1768,
+            "BottomMargin": 607.8232,
+            "Tag": 106,
+            "ActionTag": 1285208487,
+            "Size": {
+              "X": 245.0,
+              "Y": 112.0
+            },
+            "Name": "im_bg_highlight_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/im_info_bg_1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 94.2632,
+              "Y": 684.3256
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0736,
+              "Y": 0.9505
+            },
+            "PreSize": {
+              "X": 0.1492,
+              "Y": 0.0986
+            },
+            "LeftMargin": -1.2368,
+            "RightMargin": 1090.2368,
+            "TopMargin": 0.1744,
+            "BottomMargin": 648.8256,
+            "Tag": 5,
+            "ActionTag": 1537002335,
+            "Size": {
+              "X": 191.0,
+              "Y": 71.0
+            },
+            "Name": "im_info_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/gunPlatformCenter.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.0879,
+              "Y": 672.801
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4782,
+              "Y": 0.9344
+            },
+            "PreSize": {
+              "X": 0.1633,
+              "Y": 0.1278
+            },
+            "LeftMargin": 507.5879,
+            "RightMargin": 563.4121,
+            "TopMargin": 1.199,
+            "BottomMargin": 626.801,
+            "Tag": 7,
+            "ActionTag": 2013676551,
+            "Size": {
+              "X": 209.0,
+              "Y": 92.0
+            },
+            "Name": "gunPlatformCenter_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_PLAYERINFO_CONTAINER_LIGHT.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 612.0871,
+              "Y": 718.8002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4782,
+              "Y": 0.9983
+            },
+            "PreSize": {
+              "X": 0.1914,
+              "Y": 0.1556
+            },
+            "LeftMargin": 489.5871,
+            "RightMargin": 545.4129,
+            "TopMargin": 1.1998,
+            "BottomMargin": 606.8002,
+            "Tag": 107,
+            "ActionTag": 1563556013,
+            "Size": {
+              "X": 245.0,
+              "Y": 112.0
+            },
+            "Name": "im_bg_highlight_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/im_info_bg_2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 732.4993,
+              "Y": 683.3008
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5723,
+              "Y": 0.949
+            },
+            "PreSize": {
+              "X": 0.1492,
+              "Y": 0.0986
+            },
+            "LeftMargin": 636.9993,
+            "RightMargin": 452.0007,
+            "TopMargin": 1.1992,
+            "BottomMargin": 647.8008,
+            "Tag": 8,
+            "ActionTag": 658999734,
+            "Size": {
+              "X": 191.0,
+              "Y": 71.0
+            },
+            "Name": "im_info_bg_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/gunPlatformCenter.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1053.5803,
+              "Y": 672.9761
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8231,
+              "Y": 0.9347
+            },
+            "PreSize": {
+              "X": 0.1633,
+              "Y": 0.1278
+            },
+            "LeftMargin": 949.0803,
+            "RightMargin": 121.9197,
+            "TopMargin": 1.0239,
+            "BottomMargin": 626.9761,
+            "Tag": 9,
+            "ActionTag": -638574238,
+            "Size": {
+              "X": 209.0,
+              "Y": 92.0
+            },
+            "Name": "gunPlatformCenter_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_PLAYERINFO_CONTAINER_LIGHT.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1053.5815,
+              "Y": 718.9766
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8231,
+              "Y": 0.9986
+            },
+            "PreSize": {
+              "X": 0.1914,
+              "Y": 0.1556
+            },
+            "LeftMargin": 931.0815,
+            "RightMargin": 103.9185,
+            "TopMargin": 1.0234,
+            "BottomMargin": 606.9766,
+            "Tag": 108,
+            "ActionTag": 160883768,
+            "Size": {
+              "X": 245.0,
+              "Y": 112.0
+            },
+            "Name": "im_bg_highlight_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/im_info_bg_3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1184.0817,
+              "Y": 683.4762
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9251,
+              "Y": 0.9493
+            },
+            "PreSize": {
+              "X": 0.1492,
+              "Y": 0.0986
+            },
+            "LeftMargin": 1088.5817,
+            "RightMargin": 0.4183,
+            "TopMargin": 1.0238,
+            "BottomMargin": 647.9762,
+            "Tag": 10,
+            "ActionTag": -1178247946,
+            "Size": {
+              "X": 191.0,
+              "Y": 71.0
+            },
+            "Name": "im_info_bg_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/gunPlatformCenter.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 226.0,
+              "Y": 46.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1766,
+              "Y": 0.0639
+            },
+            "PreSize": {
+              "X": 0.1633,
+              "Y": 0.1278
+            },
+            "LeftMargin": 121.5,
+            "RightMargin": 949.5,
+            "TopMargin": 628.0,
+            "Tag": 11,
+            "ActionTag": 2056983005,
+            "Size": {
+              "X": 209.0,
+              "Y": 92.0
+            },
+            "Name": "gunPlatformCenter_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_PLAYERINFO_CONTAINER_LIGHT.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 226.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1766,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1914,
+              "Y": 0.1556
+            },
+            "LeftMargin": 103.5,
+            "RightMargin": 931.5,
+            "TopMargin": 608.0,
+            "Tag": 109,
+            "ActionTag": -437982752,
+            "Size": {
+              "X": 245.0,
+              "Y": 112.0
+            },
+            "Name": "im_bg_highlight_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/im_info_bg_4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 95.5,
+              "Y": 35.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0746,
+              "Y": 0.0493
+            },
+            "PreSize": {
+              "X": 0.1492,
+              "Y": 0.0986
+            },
+            "RightMargin": 1089.0,
+            "TopMargin": 649.0,
+            "Tag": 12,
+            "ActionTag": -1619163231,
+            "Size": {
+              "X": 191.0,
+              "Y": 71.0
+            },
+            "Name": "im_info_bg_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/gunPlatformCenter.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 616.9987,
+              "Y": 46.0006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.482,
+              "Y": 0.0639
+            },
+            "PreSize": {
+              "X": 0.1633,
+              "Y": 0.1278
+            },
+            "LeftMargin": 512.4987,
+            "RightMargin": 558.5013,
+            "TopMargin": 627.9994,
+            "BottomMargin": 0.0006,
+            "Tag": 13,
+            "ActionTag": -1810325610,
+            "Size": {
+              "X": 209.0,
+              "Y": 92.0
+            },
+            "Name": "gunPlatformCenter_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_PLAYERINFO_CONTAINER_LIGHT.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 616.9998,
+              "Y": -0.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.482,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1914,
+              "Y": 0.1556
+            },
+            "LeftMargin": 494.4998,
+            "RightMargin": 540.5002,
+            "TopMargin": 608.0002,
+            "BottomMargin": -0.0002,
+            "Tag": 110,
+            "ActionTag": -1296389718,
+            "Size": {
+              "X": 245.0,
+              "Y": 112.0
+            },
+            "Name": "im_bg_highlight_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/im_info_bg_5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 738.286,
+              "Y": 35.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5768,
+              "Y": 0.0493
+            },
+            "PreSize": {
+              "X": 0.1492,
+              "Y": 0.0986
+            },
+            "LeftMargin": 642.786,
+            "RightMargin": 446.214,
+            "TopMargin": 649.0,
+            "Tag": 14,
+            "ActionTag": -1310586321,
+            "Size": {
+              "X": 191.0,
+              "Y": 71.0
+            },
+            "Name": "im_info_bg_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/gunPlatformCenter.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1053.6531,
+              "Y": 45.9316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8232,
+              "Y": 0.0638
+            },
+            "PreSize": {
+              "X": 0.1633,
+              "Y": 0.1278
+            },
+            "LeftMargin": 949.1531,
+            "RightMargin": 121.8469,
+            "TopMargin": 628.0684,
+            "BottomMargin": -0.0684,
+            "Tag": 15,
+            "ActionTag": 40477403,
+            "Size": {
+              "X": 209.0,
+              "Y": 92.0
+            },
+            "Name": "gunPlatformCenter_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/IMG_PLAYERINFO_CONTAINER_LIGHT.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 1053.6528,
+              "Y": -0.0681
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8232,
+              "Y": -0.0001
+            },
+            "PreSize": {
+              "X": 0.1914,
+              "Y": 0.1556
+            },
+            "LeftMargin": 931.1528,
+            "RightMargin": 103.8472,
+            "TopMargin": 608.0681,
+            "BottomMargin": -0.0681,
+            "Tag": 111,
+            "ActionTag": -611826634,
+            "Size": {
+              "X": 245.0,
+              "Y": 112.0
+            },
+            "Name": "im_bg_highlight_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/game_res/im_info_bg_6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1184.1523,
+              "Y": 35.4318
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9251,
+              "Y": 0.0492
+            },
+            "PreSize": {
+              "X": 0.1492,
+              "Y": 0.0986
+            },
+            "LeftMargin": 1088.6523,
+            "RightMargin": 0.3477,
+            "TopMargin": 649.0682,
+            "BottomMargin": -0.0682,
+            "Tag": 16,
+            "ActionTag": -1817550357,
+            "Size": {
+              "X": 191.0,
+              "Y": 71.0
+            },
+            "Name": "im_info_bg_6",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "gunPlatformCenter.png",
+        "im_info_bg_1.png",
+        "im_info_bg_2.png",
+        "im_info_bg_3.png",
+        "im_info_bg_4.png",
+        "im_info_bg_5.png",
+        "im_info_bg_6.png",
+        "IMG_PLAYERINFO_CONTAINER_LIGHT.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

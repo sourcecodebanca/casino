@@ -1,0 +1,382 @@
+{
+  "ID": "dc1e1549-4e8f-4a79-88b3-17b5cf1217fc",
+  "Version": "2.3.4",
+  "Name": "g_res_cardGame_json_MauBinhCheatCardGui",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 41,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "Reset",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 733.056,
+              "Y": 654.552
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5727,
+              "Y": 0.9091
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.05
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 710.056,
+            "RightMargin": 523.944,
+            "TopMargin": 47.448,
+            "BottomMargin": 636.552,
+            "Tag": 42,
+            "ActionTag": -1073062102,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Name": "btn_reset",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Send",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 836.608,
+              "Y": 654.58
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6536,
+              "Y": 0.9091
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.05
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 813.608,
+            "RightMargin": 420.392,
+            "TopMargin": 47.42,
+            "BottomMargin": 636.58,
+            "Tag": 43,
+            "ActionTag": -2107609728,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Name": "btn_send",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Normal.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Press.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Normal.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 951.2274,
+              "Y": 655.9125
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7431,
+              "Y": 0.911
+            },
+            "PreSize": {
+              "X": 0.0313,
+              "Y": 0.0556
+            },
+            "LeftMargin": 931.2274,
+            "RightMargin": 308.7726,
+            "TopMargin": 44.0875,
+            "BottomMargin": 635.9125,
+            "Tag": 45,
+            "ActionTag": -1230750107,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "cb_cheat",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "isCheat",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1028.4536,
+              "Y": 654.4807
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8035,
+              "Y": 0.909
+            },
+            "PreSize": {
+              "X": 0.0516,
+              "Y": 0.0319
+            },
+            "LeftMargin": 995.4536,
+            "RightMargin": 218.5464,
+            "TopMargin": 54.0193,
+            "BottomMargin": 642.9807,
+            "Tag": 46,
+            "ActionTag": -1169613802,
+            "Size": {
+              "X": 66.0,
+              "Y": 23.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "CardGame/CommonResource/BanChoi/ban-choi_0001_Group-55-copy-8.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "CardGame/CommonResource/BanChoi/ban-choi_0001_Group-55-copy-8.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "CardGame/CommonResource/BanChoi/ban-choi_0001_Group-55-copy-8.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 49,
+            "Scale9Height": 61,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1183.3988,
+              "Y": 655.9285
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9245,
+              "Y": 0.911
+            },
+            "PreSize": {
+              "X": 0.0617,
+              "Y": 0.1153
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 1143.8988,
+            "RightMargin": 57.1012,
+            "TopMargin": 22.5715,
+            "BottomMargin": 614.4285,
+            "Tag": 72,
+            "ActionTag": 89480994,
+            "Size": {
+              "X": 79.0,
+              "Y": 83.0
+            },
+            "Name": "btn_close",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "CardGame/CommonResource/BanChoi/ban-choi_0001_Group-55-copy-8.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBox_Normal.png",
+        "Default/CheckBox_Press.png",
+        "Default/CheckBoxNode_Disable.png",
+        "Default/CheckBoxNode_Normal.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

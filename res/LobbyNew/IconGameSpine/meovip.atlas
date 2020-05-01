@@ -1,0 +1,97 @@
+
+meovip.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popup
+  rotate: false
+  xy: 1, 1
+  size: 216, 239
+  orig: 216, 239
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 361, 43
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+outin1
+  rotate: false
+  xy: 377, 1
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+outin2
+  rotate: false
+  xy: 334, 117
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+outin3
+  rotate: false
+  xy: 377, 28
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+outin4
+  rotate: false
+  xy: 334, 89
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+outin5
+  rotate: false
+  xy: 334, 1
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+vongduoichan
+  rotate: false
+  xy: 219, 154
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+set
+  rotate: false
+  xy: 1, 242
+  size: 217, 187
+  orig: 217, 187
+  offset: 0, 0
+  index: -1
+lac1
+  rotate: false
+  xy: 1, 431
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+lac
+  rotate: false
+  xy: 334, 43
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+logo_1
+  rotate: false
+  xy: 219, 1
+  size: 113, 151
+  orig: 113, 151
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 219, 205
+  size: 101, 26
+  orig: 101, 26
+  offset: 0, 0
+  index: -1

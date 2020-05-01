@@ -1,0 +1,153 @@
+
+Text_BombGun.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Bomb_Gun_text_export/Bomb_Gun_F0021
+  rotate: false
+  xy: 419, 68
+  size: 66, 66
+  orig: 111, 111
+  offset: 22, 21
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0022
+  rotate: true
+  xy: 421, 136
+  size: 93, 96
+  orig: 111, 111
+  offset: 3, 5
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0023
+  rotate: false
+  xy: 872, 215
+  size: 100, 100
+  orig: 111, 111
+  offset: 3, 5
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0024
+  rotate: false
+  xy: 767, 212
+  size: 103, 103
+  orig: 111, 111
+  offset: 4, 4
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0025
+  rotate: false
+  xy: 545, 233
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0026
+  rotate: false
+  xy: 656, 206
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0027
+  rotate: false
+  xy: 660, 317
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0028
+  rotate: false
+  xy: 773, 317
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0029
+  rotate: false
+  xy: 886, 317
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0030
+  rotate: false
+  xy: 432, 231
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_F0031
+  rotate: false
+  xy: 302, 1
+  size: 95, 86
+  orig: 111, 111
+  offset: 10, 6
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text1
+  rotate: false
+  xy: 351, 97
+  size: 66, 78
+  orig: 440, 102
+  offset: 2, 16
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text10
+  rotate: false
+  xy: 1, 264
+  size: 429, 79
+  orig: 440, 102
+  offset: 5, 18
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text2
+  rotate: false
+  xy: 868, 430
+  size: 114, 81
+  orig: 440, 102
+  offset: 1, 15
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text3
+  rotate: false
+  xy: 435, 344
+  size: 223, 84
+  orig: 440, 102
+  offset: 1, 15
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text4
+  rotate: false
+  xy: 1, 1
+  size: 299, 86
+  orig: 440, 102
+  offset: 1, 14
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text5
+  rotate: false
+  xy: 1, 89
+  size: 348, 86
+  orig: 440, 102
+  offset: 5, 14
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text6
+  rotate: false
+  xy: 1, 177
+  size: 418, 85
+  orig: 440, 102
+  offset: 5, 14
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text7
+  rotate: false
+  xy: 1, 428
+  size: 431, 83
+  orig: 440, 102
+  offset: 5, 14
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text8
+  rotate: false
+  xy: 434, 430
+  size: 432, 81
+  orig: 440, 102
+  offset: 5, 16
+  index: -1
+Bomb_Gun_text_export/Bomb_Gun_text9
+  rotate: false
+  xy: 1, 345
+  size: 432, 81
+  orig: 440, 102
+  offset: 5, 16
+  index: -1

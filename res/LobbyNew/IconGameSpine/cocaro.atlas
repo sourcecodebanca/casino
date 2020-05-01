@@ -1,0 +1,62 @@
+
+cocaro.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popup
+  rotate: false
+  xy: 1, 1
+  size: 216, 239
+  orig: 218, 241
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 437, 42
+  size: 24, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+bgcocaro
+  rotate: false
+  xy: 1, 242
+  size: 233, 217
+  orig: 235, 219
+  offset: 1, 1
+  index: -1
+baibay1
+  rotate: false
+  xy: 357, 1
+  size: 131, 39
+  orig: 133, 41
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 219, 1
+  size: 136, 158
+  orig: 138, 160
+  offset: 1, 1
+  index: -1
+hand
+  rotate: false
+  xy: 357, 42
+  size: 78, 51
+  orig: 80, 53
+  offset: 1, 1
+  index: -1
+baibay2
+  rotate: false
+  xy: 236, 161
+  size: 165, 118
+  orig: 167, 120
+  offset: 1, 1
+  index: -1
+cocaro
+  rotate: false
+  xy: 357, 95
+  size: 107, 27
+  orig: 109, 29
+  offset: 1, 1
+  index: -1

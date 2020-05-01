@@ -1,0 +1,179 @@
+{
+"skeleton": { "hash": "HU4ocydXVv2+aMsUNhiHaxWMQMw", "spine": "3.5.44", "width": 896.61, "height": 240.53, "images": "" },
+"bones": [
+	{ "name": "Text_BombGun" },
+	{ "name": "Explode1", "parent": "Text_BombGun", "x": -325.76, "y": 31.56, "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "Explode2", "parent": "Text_BombGun", "x": -54.76, "y": 1.21, "scaleX": 0.9, "scaleY": 0.9 },
+	{ "name": "Explode3", "parent": "Text_BombGun", "x": 191.25, "y": -9.17 },
+	{ "name": "Explode4", "parent": "Text_BombGun", "x": 367.81, "y": 12.29, "scaleX": 0.8, "scaleY": 0.8 }
+],
+"slots": [
+	{ "name": "Bitmap", "bone": "Text_BombGun", "attachment": "Bomb_Gun_text_export/Bomb_Gun_text1" },
+	{ "name": "BitmapExplode1", "bone": "Explode1", "attachment": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+	{ "name": "BitmapExplode4", "bone": "Explode4", "attachment": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+	{ "name": "BitmapExplode2", "bone": "Explode2", "attachment": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+	{ "name": "BitmapExplode3", "bone": "Explode3", "attachment": "Bomb_Gun_text_export/Bomb_Gun_F0021" }
+],
+"skins": {
+	"default": {
+		"Bitmap": {
+			"Bomb_Gun_text_export/Bomb_Gun_text1": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text2": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text3": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text4": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text5": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text6": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text7": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text8": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text9": { "width": 880, "height": 204 },
+			"Bomb_Gun_text_export/Bomb_Gun_text10": { "width": 880, "height": 204 }
+		},
+		"BitmapExplode1": {
+			"Bomb_Gun_text_export/Bomb_Gun_F0021": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0022": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0023": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0024": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0025": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0026": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0027": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0028": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0029": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0030": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0031": { "width": 222, "height": 222 }
+		},
+		"BitmapExplode2": {
+			"Bomb_Gun_text_export/Bomb_Gun_F0021": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0022": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0023": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0024": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0025": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0026": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0027": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0028": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0029": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0030": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0031": { "width": 222, "height": 222 }
+		},
+		"BitmapExplode3": {
+			"Bomb_Gun_text_export/Bomb_Gun_F0021": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0022": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0023": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0024": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0025": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0026": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0027": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0028": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0029": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0030": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0031": { "width": 222, "height": 222 }
+		},
+		"BitmapExplode4": {
+			"Bomb_Gun_text_export/Bomb_Gun_F0021": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0022": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0023": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0024": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0025": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0026": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0027": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0028": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0029": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0030": { "width": 222, "height": 222 },
+			"Bomb_Gun_text_export/Bomb_Gun_F0031": { "width": 222, "height": 222 }
+		}
+	}
+},
+"animations": {
+	"BombTextAnim": {
+		"slots": {
+			"Bitmap": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.1667, "color": "ffffffff" },
+					{ "time": 2.6, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Bomb_Gun_text_export/Bomb_Gun_text1" },
+					{ "time": 0.1667, "name": "Bomb_Gun_text_export/Bomb_Gun_text2" },
+					{ "time": 0.2333, "name": "Bomb_Gun_text_export/Bomb_Gun_text3" },
+					{ "time": 0.3, "name": "Bomb_Gun_text_export/Bomb_Gun_text4" },
+					{ "time": 0.3667, "name": "Bomb_Gun_text_export/Bomb_Gun_text5" },
+					{ "time": 0.4333, "name": "Bomb_Gun_text_export/Bomb_Gun_text6" },
+					{ "time": 0.5, "name": "Bomb_Gun_text_export/Bomb_Gun_text7" },
+					{ "time": 0.5667, "name": "Bomb_Gun_text_export/Bomb_Gun_text8" },
+					{ "time": 0.6333, "name": "Bomb_Gun_text_export/Bomb_Gun_text9" },
+					{ "time": 0.7, "name": "Bomb_Gun_text_export/Bomb_Gun_text10" }
+				]
+			},
+			"BitmapExplode1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+					{ "time": 0.1, "name": "Bomb_Gun_text_export/Bomb_Gun_F0022" },
+					{ "time": 0.1333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0023" },
+					{ "time": 0.1667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0024" },
+					{ "time": 0.2, "name": "Bomb_Gun_text_export/Bomb_Gun_F0025" },
+					{ "time": 0.2333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0026" },
+					{ "time": 0.2667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0027" },
+					{ "time": 0.3, "name": "Bomb_Gun_text_export/Bomb_Gun_F0028" },
+					{ "time": 0.3333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0029" },
+					{ "time": 0.3667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0030" },
+					{ "time": 0.4, "name": "Bomb_Gun_text_export/Bomb_Gun_F0031" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"BitmapExplode2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+					{ "time": 0.1667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0022" },
+					{ "time": 0.2, "name": "Bomb_Gun_text_export/Bomb_Gun_F0023" },
+					{ "time": 0.2333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0024" },
+					{ "time": 0.2667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0025" },
+					{ "time": 0.3, "name": "Bomb_Gun_text_export/Bomb_Gun_F0026" },
+					{ "time": 0.3333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0027" },
+					{ "time": 0.3667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0028" },
+					{ "time": 0.4, "name": "Bomb_Gun_text_export/Bomb_Gun_F0029" },
+					{ "time": 0.4333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0030" },
+					{ "time": 0.4667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0031" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"BitmapExplode3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+					{ "time": 0.3333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0022" },
+					{ "time": 0.3667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0023" },
+					{ "time": 0.4, "name": "Bomb_Gun_text_export/Bomb_Gun_F0024" },
+					{ "time": 0.4333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0025" },
+					{ "time": 0.4667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0026" },
+					{ "time": 0.5, "name": "Bomb_Gun_text_export/Bomb_Gun_F0027" },
+					{ "time": 0.5333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0028" },
+					{ "time": 0.5667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0029" },
+					{ "time": 0.6, "name": "Bomb_Gun_text_export/Bomb_Gun_F0030" },
+					{ "time": 0.6333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0031" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"BitmapExplode4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0021" },
+					{ "time": 0.4667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0022" },
+					{ "time": 0.5, "name": "Bomb_Gun_text_export/Bomb_Gun_F0023" },
+					{ "time": 0.5333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0025" },
+					{ "time": 0.5667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0026" },
+					{ "time": 0.6, "name": "Bomb_Gun_text_export/Bomb_Gun_F0027" },
+					{ "time": 0.6333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0028" },
+					{ "time": 0.6667, "name": "Bomb_Gun_text_export/Bomb_Gun_F0029" },
+					{ "time": 0.7, "name": "Bomb_Gun_text_export/Bomb_Gun_F0030" },
+					{ "time": 0.7333, "name": "Bomb_Gun_text_export/Bomb_Gun_F0031" },
+					{ "time": 0.7667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

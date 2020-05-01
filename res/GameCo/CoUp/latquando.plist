@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCo/redAnimation/ani0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,80},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,160},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,0},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,80},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,160},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,0},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,80},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,160},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,0},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,80},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,160},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>GameCo/redAnimation/ani9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,0},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>latquando.png</string>
+			<key>realTextureFileName</key>
+			<string>latquando.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

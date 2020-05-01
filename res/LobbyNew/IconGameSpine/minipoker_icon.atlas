@@ -1,0 +1,41 @@
+
+minipoker_icon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MINI POKER
+  rotate: false
+  xy: 222, 40
+  size: 123, 20
+  orig: 123, 20
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 414, 75
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+minipoker_2
+  rotate: false
+  xy: 414, 104
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+minipoker_icon
+  rotate: false
+  xy: 222, 62
+  size: 190, 181
+  orig: 190, 181
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 2, 2
+  size: 218, 241
+  orig: 218, 241
+  offset: 0, 0
+  index: -1

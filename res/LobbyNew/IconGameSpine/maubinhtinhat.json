@@ -1,0 +1,416 @@
+{
+  "skeleton": {
+    "hash": " ",
+    "width": 221.45,
+    "height": 241,
+    "name": "armatureName",
+    "spine": "3.6.53",
+    "images": "../images/"
+  },
+  "bones": [
+    {
+      "name": "root",
+      "y": 12.57
+    },
+    {
+      "name": "khungall6",
+      "parent": "root",
+      "y": -12.57
+    },
+    {
+      "name": "boom",
+      "parent": "khungall6",
+      "x": 5.15,
+      "y": 97.23,
+      "length": 46,
+      "rotation": -99.64
+    },
+    {
+      "name": "light11",
+      "parent": "khungall6",
+      "x": 96.46,
+      "y": 187.54
+    },
+    {
+      "name": "light12",
+      "parent": "khungall6",
+      "y": 16.03,
+      "x": -98.88
+    },
+    {
+      "x": -2.09,
+      "y": 34.99,
+      "name": "popup6",
+      "parent": "khungall6"
+    },
+    {
+      "x": -6,
+      "y": 17.01,
+      "name": "tienn",
+      "parent": "khungall6"
+    },
+    {
+      "x": -6,
+      "y": 17.01,
+      "name": "tienn2",
+      "parent": "khungall6"
+    },
+    {
+      "x": -5.5,
+      "y": 90.29,
+      "name": "trongsett",
+      "parent": "khungall6"
+    }
+  ],
+  "slots": [
+    {
+      "name": "popup6",
+      "bone": "popup6",
+      "attachment": "popup"
+    },
+    {
+      "name": "light11",
+      "bone": "light11",
+      "attachment": "light",
+      "color": "FFFFFFD1",
+      "blend": "additive"
+    },
+    {
+      "name": "light12",
+      "bone": "light12",
+      "attachment": "light",
+      "color": "FFFFFFD1",
+      "blend": "additive"
+    },
+    {
+      "name": "trongsett",
+      "bone": "trongsett",
+      "attachment": "trongsett"
+    },
+    {
+      "name": "baiduoi",
+      "bone": "khungall6",
+      "attachment": "baiduoi"
+    },
+    {
+      "name": "tienn",
+      "bone": "tienn",
+      "attachment": "tienn"
+    },
+    {
+      "name": "tienn2",
+      "bone": "tienn2",
+      "attachment": "tienn",
+      "color": "FFFFFF99"
+    },
+    {
+      "name": "boom",
+      "bone": "boom",
+      "attachment": "boom"
+    },
+    {
+      "name": "baitren",
+      "bone": "khungall6",
+      "attachment": "baitren"
+    },
+    {
+      "name": "maubinh",
+      "bone": "khungall6",
+      "attachment": "maubinh"
+    }
+  ],
+  "skins": {
+    "default": {
+      "boom": {
+        "boom": {
+          "name": "boom",
+          "width": 141,
+          "height": 127,
+          "x": 13.81,
+          "y": 13.87,
+          "rotation": 99.64
+        }
+      },
+      "baitren": {
+        "baitren": {
+          "name": "baitren",
+          "width": 74,
+          "height": 47,
+          "x": -1.99,
+          "y": 142.29
+        }
+      },
+      "maubinh": {
+        "maubinh": {
+          "name": "maubinh",
+          "width": 107,
+          "height": 31,
+          "x": -3.49,
+          "y": 200.29
+        }
+      },
+      "trongsett": {
+        "trongsett": {
+          "name": "trongsett",
+          "width": 191,
+          "height": 175,
+          "x": 0.01
+        }
+      },
+      "popup6": {
+        "popup": {
+          "name": "popup",
+          "width": 216,
+          "height": 239,
+          "x": -0.18,
+          "y": 85.36
+        }
+      },
+      "light11": {
+        "light": {
+          "name": "light",
+          "width": 24,
+          "height": 25,
+          "x": 0.72,
+          "y": 1.57
+        }
+      },
+      "baiduoi": {
+        "baiduoi": {
+          "name": "baiduoi",
+          "width": 174,
+          "height": 84,
+          "x": -3.99,
+          "y": 124.79
+        }
+      },
+      "light12": {
+        "light": {
+          "name": "light",
+          "width": 24,
+          "height": 25,
+          "x": 0.72,
+          "y": 1.57
+        }
+      },
+      "tienn": {
+        "tienn": {
+          "name": "tienn",
+          "width": 177,
+          "height": 140,
+          "x": -2.49,
+          "y": 56.79
+        }
+      },
+      "tienn2": {
+        "tienn": {
+          "name": "tienn",
+          "width": 177,
+          "height": 140,
+          "x": -2.49,
+          "y": 56.79
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "bones": {
+        "light11": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 1.3333,
+              "y": -180
+            }
+          ]
+        },
+        "light12": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 1.3333,
+              "y": 190
+            }
+          ]
+        },
+        "boom": {
+          "translate": [
+            {
+              "time": 0,
+              "curve": [
+                0.0625,
+                0,
+                0.9375,
+                1
+              ]
+            },
+            {
+              "time": 0.2333,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "y": 4.66
+            },
+            {
+              "time": 0.5,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ],
+              "y": 18.63
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        },
+        "tienn2": {
+          "translate": [
+            {
+              "time": 0
+            },
+            {
+              "time": 0.5
+            },
+            {
+              "time": 0.8333,
+              "y": 6.92
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.5,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.8333,
+              "x": 1.1,
+              "y": 1.3
+            }
+          ]
+        },
+        "trongsett": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.4333,
+              "angle": 120
+            },
+            {
+              "time": 0.8666,
+              "angle": -120
+            },
+            {
+              "time": 1.3333,
+              "angle": 0
+            }
+          ]
+        }
+      },
+      "slots": {
+        "baitren": {
+          "color": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.4,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped",
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 0.8334,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 1.0667,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light11": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFFC7"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light12": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFFC7"
+            },
+            {
+              "time": 1.3334,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "tienn2": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 0.6667,
+              "color": "FFFFFF61"
+            },
+            {
+              "time": 1,
+              "color": "FFFFFF00"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

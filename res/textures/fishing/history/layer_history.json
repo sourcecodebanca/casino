@@ -1,0 +1,611 @@
+{
+  "ID": "1294e54c-630f-43e1-85a6-418ba53518c8",
+  "Version": "2.3.4",
+  "Name": "layer_history",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 22,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 76,
+            "ComboBoxIndex": 2,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 11,
+            "ActionTag": -1719039966,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/history/bg_fish_his.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 23,
+            "ActionTag": -1065344824,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "bg_fish_his_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 48,
+            "LabelText": "LỊCH SỬ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/UTM-PenumbraBold.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 577.5649,
+              "Y": 548.2183
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5084,
+              "Y": 0.8566
+            },
+            "PreSize": {
+              "X": 0.1937,
+              "Y": 0.1156
+            },
+            "LeftMargin": 467.5649,
+            "RightMargin": 448.4351,
+            "TopMargin": 54.7817,
+            "BottomMargin": 511.2183,
+            "Tag": 24,
+            "ActionTag": -1182157293,
+            "Size": {
+              "X": 220.0,
+              "Y": 74.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/history/btn_close.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/history/btn_close.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/history/btn_close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1065.3824,
+              "Y": 566.7142
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9378,
+              "Y": 0.8855
+            },
+            "PreSize": {
+              "X": 0.0643,
+              "Y": 0.1141
+            },
+            "LeftMargin": 1028.8824,
+            "RightMargin": 34.1176,
+            "TopMargin": 36.7858,
+            "BottomMargin": 530.2142,
+            "Tag": 25,
+            "ActionTag": 1395613445,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "btn_close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "HorizontalType": "Align_HorizontalCenter",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 31.6379
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0494
+            },
+            "PreSize": {
+              "X": 0.8363,
+              "Y": 0.625
+            },
+            "LeftMargin": 93.0,
+            "RightMargin": 93.0,
+            "TopMargin": 208.3621,
+            "BottomMargin": 31.6379,
+            "Tag": 26,
+            "ActionTag": -22078930,
+            "Size": {
+              "X": 950.0,
+              "Y": 400.0
+            },
+            "Name": "lv_lichsu",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "textures/fishing/history/AtlasPopupGame_07.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 372,
+            "Scale9OriginY": 18,
+            "Scale9Width": 384,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 460.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7188
+            },
+            "PreSize": {
+              "X": 0.8363,
+              "Y": 0.0891
+            },
+            "LeftMargin": 93.0,
+            "RightMargin": 93.0,
+            "TopMargin": 151.5,
+            "BottomMargin": 431.5,
+            "Tag": 28,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Game ID",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTM-PenumbraBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.2518,
+                  "Y": 28.8031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 216,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0824,
+                  "Y": 0.5053
+                },
+                "PreSize": {
+                  "X": 0.1263,
+                  "Y": 0.6842
+                },
+                "LeftMargin": 18.2518,
+                "RightMargin": 811.7482,
+                "TopMargin": 8.6969,
+                "BottomMargin": 9.3031,
+                "Tag": 29,
+                "ActionTag": 1548561197,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 39.0
+                },
+                "Name": "Text_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "THỜI GIAN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTM-PenumbraBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 330.1184,
+                  "Y": 28.8031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 216,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3475,
+                  "Y": 0.5053
+                },
+                "PreSize": {
+                  "X": 0.2105,
+                  "Y": 0.6842
+                },
+                "LeftMargin": 230.1184,
+                "RightMargin": 519.8816,
+                "TopMargin": 8.6969,
+                "BottomMargin": 9.3031,
+                "Tag": 30,
+                "ActionTag": -1716956058,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 39.0
+                },
+                "Name": "Text_1_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "PHÁT SINH",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTM-PenumbraBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 600.0,
+                  "Y": 28.8032
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 216,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6316,
+                  "Y": 0.5053
+                },
+                "PreSize": {
+                  "X": 0.1579,
+                  "Y": 0.6842
+                },
+                "LeftMargin": 525.0,
+                "RightMargin": 275.0,
+                "TopMargin": 8.6968,
+                "BottomMargin": 9.3032,
+                "Tag": 31,
+                "ActionTag": 772491392,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 39.0
+                },
+                "Name": "Text_1_0_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "TIỀN NHẬN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTM-PenumbraBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 853.8517,
+                  "Y": 28.8031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 216,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8988,
+                  "Y": 0.5053
+                },
+                "PreSize": {
+                  "X": 0.1895,
+                  "Y": 0.6842
+                },
+                "LeftMargin": 763.8517,
+                "RightMargin": 6.1483,
+                "TopMargin": 8.6969,
+                "BottomMargin": 9.3031,
+                "Tag": 32,
+                "ActionTag": -1484996529,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 39.0
+                },
+                "Name": "Text_1_0_2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1393763484,
+            "Size": {
+              "X": 950.0,
+              "Y": 57.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../fonts/UTM-PenumbraBold.ttf",
+        "AtlasPopupGame_07.png",
+        "bg_fish_his.png",
+        "btn_close.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
