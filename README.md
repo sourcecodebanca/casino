@@ -25,3 +25,5 @@
 24. Co Tuong
 25. Co Up
 26. Ca ro
+27. Poker
+28. BlackJack
