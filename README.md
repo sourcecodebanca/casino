@@ -1,3 +1,5 @@
+http://isoftage.com/
+
 # casino
 1. Slot Kho bau
 2. Slot Nu Diep Vien
