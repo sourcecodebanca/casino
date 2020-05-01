@@ -29,3 +29,15 @@ http://isoftage.com/
 26. Ca ro
 27. Poker
 28. BlackJack
+
+#TODO
+29. Domino
+30. Co Ca Ngua
+31. Catte
+32. Phom
+34. U 8 La
+35. Co Vua
+36. Dao Vang
+37. Agar.io
+38. Keno
+39. Lo De
